@@ -848,6 +848,7 @@
    "Song Title Always")
 (mod_doublespeed_1.25x
    "breakneck speed 1.25x")
+(mod_allow_dupes "Duplicate Pro/5-Lane/Vox")
 (mod_doublespeed "breakneck speed")
 (mod_synced_track_speeds "Synced Track Speeds")
 (mod_rb4os "Rock Band 4 Overshell")

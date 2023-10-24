@@ -3351,9 +3351,10 @@
                   {set $whammyfx {! $whammyfx}}
                   {overshell update_all}) ;whammy fx modifier
 				(mod_nomv
-					{modifier_mgr toggle_modifier_enabled mod_nomv}
-					{do {$this show_state kState_RB3ENoMusicVideos} {$this set_focus confirm_action.lst}}
-					{ui goto_screen meta_loading_main_screen})
+                  {modifier_mgr toggle_modifier_enabled mod_nomv}
+                  {if_else {$this in_game}
+                     {$this show_state kState_ModifierSongLoad}
+                     {ui goto_screen meta_loading_main_screen}})
 				(mod_blackmenu
 					{modifier_mgr toggle_modifier_enabled mod_blackmenu}
 					{ui goto_screen meta_loading_main_screen})
@@ -3504,20 +3505,30 @@
    set_data
    (overshell_guitar
     overshell_bass
-    overshell_keys)}}
+    overshell_keys
+    overshell_vocal_solo
+    overshell_vocal_harmony
+    overshell_drums)}}
       {if {== {{$this get_user} get_controller_type} kControllerDrum}
   {choose_part.lst
    set_data
    (overshell_drums
-    overshell_drums_pro)}}
+    overshell_drums_pro
+    overshell_guitar
+    overshell_bass
+    overshell_keys
+    overshell_vocal_solo
+    overshell_vocal_harmony)}}
       {if {== {{$this get_user} get_controller_type} kControllerKeys}
   {choose_part.lst
    set_data
-   (overshell_keys
-    overshell_real_keys
+   (overshell_real_keys
+    overshell_keys
     overshell_guitar
     overshell_bass
-    overshell_drums)}}
+    overshell_drums
+    overshell_vocal_solo
+    overshell_vocal_harmony)}}
       {if {== {{$this get_user} get_controller_type} kControllerVocals}
   {choose_part.lst
    set_data
@@ -3533,7 +3544,10 @@
    (overshell_real_guitar
     overshell_real_bass
     overshell_guitar
-    overshell_bass)}}
+    overshell_bass
+    overshell_keys
+    overshell_vocal_solo
+    overshell_vocal_harmony)}}
     )
    (exit
       {choose_part.lst set scroll_time 0.25})
@@ -3541,37 +3555,95 @@
       {switch
          {$component selected_sym}
          (overshell_guitar
-            {$this select_part kTrackGuitar})
-         (overshell_bass
-            {$this select_part kTrackBass})
-         (overshell_keys
-            {$this select_part kTrackKeys})
-         (overshell_real_guitar
-            {$this select_part kTrackRealGuitar}
-            {if
-               {gamemode in_mode trainer}
-               {gamemode set_mode pro_song_lessons_real_guitar}})
-         (overshell_real_bass
-            {$this select_part kTrackRealBass}
-            {if
-               {gamemode in_mode trainer}
-               {gamemode set_mode pro_song_lessons_real_bass}})
-         (overshell_real_keys
-            {$this select_part kTrackRealKeys})
-         (overshell_vocal_solo
-            {$this select_vocal_part FALSE}
-            {if
-               {gamemode in_mode practice}
-               {practice_panel set uses_harmony FALSE}})
-         (overshell_vocal_harmony
-            {$this select_vocal_part TRUE}
-            {if
-               {gamemode in_mode practice}
-               {practice_panel set uses_harmony TRUE}})
-         (overshell_drums
-            {$this select_drum_part FALSE})
-         (overshell_drums_pro
-            {$this select_drum_part TRUE})})
+      {if_else {modifier_mgr is_modifier_active mod_allow_dupes}
+         {do
+            {{$this get_user} set_track_type kTrackGuitar}
+            {$this show_state kState_ChooseDiff} ; dx - skips dupe check and goes straight to diff select
+         }
+         {$this select_part kTrackGuitar}
+      }
+   )
+   (overshell_bass
+      {if_else {modifier_mgr is_modifier_active mod_allow_dupes}
+         {do
+            {{$this get_user} set_track_type kTrackBass}
+            {$this show_state kState_ChooseDiff} ; dx - skips dupe check and goes straight to diff select
+         }
+         {$this select_part kTrackBass}
+      }
+   )
+   (overshell_keys
+      {if_else {modifier_mgr is_modifier_active mod_allow_dupes}
+         {do
+            {{$this get_user} set_track_type kTrackKeys}
+            {$this show_state kState_ChooseDiff} ; dx - skips dupe check and goes straight to diff select
+         }
+         {$this select_part kTrackKeys}
+      }
+   )
+   (overshell_real_guitar
+      {if_else {modifier_mgr is_modifier_active mod_allow_dupes}
+         {{$this get_user} set_track_type kTrackRealGuitar}
+         {$this select_part kTrackRealGuitar}} ; dx - skips dupe check and goes straight to diff select
+      {if
+         {gamemode in_mode trainer}
+         {gamemode set_mode pro_song_lessons_real_guitar}}
+      {if
+         {modifier_mgr is_modifier_active mod_auto_play}
+         {{$this get_user} set_has_22_fret_guitar FALSE}} ; dx - forces 17 fret part in autoplay for chart demos
+      {if
+         {modifier_mgr is_modifier_active mod_allow_dupes} 
+         {$this show_state kState_ChooseDiff}} ; dx - skips dupe check and goes straight to diff select
+   )
+   (overshell_real_bass
+      {if_else {modifier_mgr is_modifier_active mod_allow_dupes}
+         {{$this get_user} set_track_type kTrackRealBass}
+         {$this select_part kTrackRealBass}}
+      {if
+         {gamemode in_mode trainer}
+         {gamemode set_mode pro_song_lessons_real_bass}}
+      {if
+         {modifier_mgr is_modifier_active mod_auto_play}
+         {{$this get_user} set_has_22_fret_guitar FALSE}} ; dx - forces 17 fret part in autoplay for chart demos
+      {if 
+         {modifier_mgr is_modifier_active mod_allow_dupes}
+         {$this show_state kState_ChooseDiff}} ; dx - skips dupe check and goes straight to diff select
+   )
+   (overshell_real_keys
+      {if_else {modifier_mgr is_modifier_active mod_allow_dupes}
+         {do
+            {{$this get_user} set_track_type kTrackRealKeys}
+            {$this show_state kState_ChooseDiff} ; dx - skips dupe check and goes straight to diff select
+         }
+         {$this select_part kTrackRealKeys}
+      }
+   )
+   (overshell_vocal_solo
+      {if_else {modifier_mgr is_modifier_active mod_allow_dupes}
+         {do
+            {{$this get_user} set_track_type kTrackVocals}
+            {$this show_state kState_ChooseDiff} ; dx - skips dupe check and goes straight to diff select
+         }
+      {$this select_vocal_part FALSE}
+      }
+      {if
+         {gamemode in_mode practice}
+         {practice_panel set uses_harmony FALSE}})
+   (overshell_vocal_harmony
+      {if_else {modifier_mgr is_modifier_active mod_allow_dupes}
+         {do
+            {{$this get_user} set_track_type kTrackVocals}
+            {$this show_state kState_ChooseDiff} ; dx - skips dupe check and goes straight to diff select
+         }
+      {$this select_vocal_part TRUE}
+      }
+      {if
+         {gamemode in_mode practice}
+         {practice_panel set uses_harmony TRUE}})
+   (overshell_drums
+      {$this select_drum_part FALSE})
+   (overshell_drums_pro
+      {$this select_drum_part TRUE})})
    (SCROLL_MSG
       {$this update})
    (get_focus_is_harmony
