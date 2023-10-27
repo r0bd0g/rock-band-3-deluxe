@@ -19130,8 +19130,7 @@
       (keys 269)
       (real_keys 269)
       (band 183))
-   (version 30)
-   (year_recorded 2003))
+   (version 30))
 (dreamin
    (song
       #ifdef HX_WII
@@ -19511,8 +19510,7 @@
       (keys 211)
       (real_keys 211)
       (band 190))
-   (version 30)
-   (year_recorded 2003))
+   (version 30))
 (marchofthepigs
    (song
       #ifdef HX_WII
@@ -20016,8 +20014,7 @@
       (keys 269)
       (real_keys 269)
       (band 216))
-   (version 30)
-   (year_recorded 2003))
+   (version 30))
 (stillalive
    (song
       #ifdef HX_WII
@@ -30435,7 +30432,7 @@
    (extra_authoring disc_update))
 (29fingers
    (song_id 46)
-   (song_length 175000)
+   (song_length 174812)
    (solo
       (guitar vocal_percussion))
    (format 10)
@@ -30762,6 +30759,10 @@
    (game_origin rb1_dlc)
    (rating 2)
    (extra_authoring disc_update))
+(anywayyouwantit
+   (song_length 196432)
+   (solo
+      (guitar vocal_percussion)))
 (apacherosepeacock
    (song_id 1005236)
    (song_length 290000)
@@ -30786,7 +30787,7 @@
    (extra_authoring disc_update))
 (areyougonnabemygirl
    (song_id 1)
-   (song_length 179090)
+   (song_length 215922)
    (solo
       (guitar vocal_percussion))
    (format 10)
@@ -30900,7 +30901,7 @@
 (ballroomblitz
    (song_id 2)
    (preview 49700 79700)
-   (song_length 203636)
+   (song_length 246323)
    (solo
       (guitar vocal_percussion))
    (format 10)
@@ -30943,6 +30944,9 @@
    (rating 1)
    (extra_authoring disc_update))
 (battery
+   (song_length 314389)
+   (solo
+      (guitar vocal_percussion))
    (extra_authoring disc_update))
 (beatitondowntheline
    (solo
@@ -31069,7 +31073,7 @@
 (blackholesun
    (song_id 3)
    (preview 116375 146375)
-   (song_length 271363)
+   (song_length 333948)
    (solo
       (guitar))
    (format 10)
@@ -31121,7 +31125,7 @@
 (blitzkriegbop
    (song_id 4)
    (preview 25600 55600)
-   (song_length 111363)
+   (song_length 136844)
    (format 10)
    (version 1)
    (game_origin rb1)
@@ -31134,7 +31138,7 @@
    (album_track_number 1))
 (blooddoll
    (song_id 47)
-   (song_length 165454)
+   (song_length 166235)
    (solo
       (guitar))
    (format 10)
@@ -31242,7 +31246,7 @@
    (year_recorded 1977))
 (brainpower
    (song_id 48)
-   (song_length 128181)
+   (song_length 129473)
    (solo
       (guitar))
    (format 10)
@@ -31447,7 +31451,7 @@
 (cantletgo
    (song_id 49)
    (preview 27700 57700)
-   (song_length 236363)
+   (song_length 234907)
    (solo
       (guitar))
    (format 10)
@@ -31499,7 +31503,8 @@
       (guitar))
    (format 10)
    (game_origin rb1_dlc)
-   (rating 2))
+   (rating 2)
+   (extra_authoring disc_update))
 (carryonwaywardson
    (extra_authoring disc_update))
 (caseyjones
@@ -31524,7 +31529,7 @@
    (rating 1))
 (celebrityskin
    (song_id 5)
-   (song_length 143181)
+   (song_length 175106)
    (format 10)
    (version 1)
    (game_origin rb1)
@@ -31582,7 +31587,7 @@
 (cherubrock
    (song_id 6)
    (preview 42350 72350)
-   (song_length 305454)
+   (song_length 304517)
    (solo
       (guitar))
    (format 10)
@@ -31818,7 +31823,7 @@
 (creep
    (song_id 7)
    (preview 106000 136000)
-   (song_length 202727)
+   (song_length 239871)
    (format 10)
    (version 1)
    (game_origin rb1)
@@ -31920,7 +31925,7 @@
 (danicalifornia
    (song_id 8)
    (preview 39450 69450)
-   (song_length 233636)
+   (song_length 285873)
    (solo
       (guitar vocal_percussion))
    (format 10)
@@ -31952,7 +31957,7 @@
 (daylatedollarshort
    (song_id 50)
    (preview 72750 102750)
-   (song_length 152272)
+   (song_length 186156)
    (solo
       (guitar vocal_percussion))
    (format 10)
@@ -31986,7 +31991,7 @@
 (deadonarrival
    (song_id 9)
    (preview 11500 41500)
-   (song_length 161818)
+   (song_length 197354)
    (solo
       (guitar vocal_percussion))
    (format 10)
@@ -32032,7 +32037,7 @@
 (detroitrockcity
    (song_id 10)
    (preview 45850 75850)
-   (song_length 196818)
+   (song_length 242085)
    (solo
       (guitar vocal_percussion))
    (format 10)
@@ -32207,7 +32212,7 @@
 (dontfearthereaper
    (song_id 11)
    (preview 29500 59500)
-   (song_length 265000)
+   (song_length 322822)
    (solo
       (guitar vocal_percussion))
    (format 10)
@@ -32258,7 +32263,6 @@
    (game_origin rb1_dlc)
    (rating 1)
    (year_released 1995)
-   (year_recorded 2003)
    (extra_authoring disc_update))
 (dontstop
    (song_id 1005758)
@@ -32424,7 +32428,7 @@
    (extra_authoring disc_update))
 (electricversion
    (song_id 12)
-   (song_length 145454)
+   (song_length 177377)
    (format 10)
    (version 1)
    (game_origin rb1)
@@ -32507,7 +32511,7 @@
 (entersandman
    (song_id 13)
    (preview 89250 119250)
-   (song_length 273636)
+   (song_length 333388)
    (solo
       (guitar))
    (format 10)
@@ -32524,7 +32528,7 @@
 (epic
    (song_id 14)
    (preview 168300 198300)
-   (song_length 245909)
+   (song_length 298790)
    (solo
       (guitar vocal_percussion))
    (format 10)
@@ -32583,8 +32587,7 @@
    (format 10)
    (game_origin rb1_dlc)
    (rating 1)
-   (year_released 1995)
-   (year_recorded 2003))
+   (year_released 1995))
 (exgirlfriend
    (song_id 1005364)
    (song_length 215000)
@@ -32740,7 +32743,7 @@
    (extra_authoring disc_update))
 (flirtinwithdisaster
    (song_id 15)
-   (song_length 248181)
+   (song_length 302104)
    (solo
       (guitar vocal_percussion))
    (format 10)
@@ -32781,7 +32784,7 @@
 (foreplaylongtime
    (song_id 16)
    (preview 167399 197399)
-   (song_length 500000)
+   (song_length 498027)
    (solo
       (guitar vocal_percussion))
    (format 10)
@@ -32955,7 +32958,7 @@
    (format 10))
 (gimmeshelter
    (song_id 17)
-   (song_length 275454)
+   (song_length 275488)
    (solo
       (guitar vocal_percussion))
    (format 10)
@@ -33041,6 +33044,10 @@
    (rating 1))
 (giveitall
    (extra_authoring disc_update))
+(giveitaway
+   (song_length 290181)
+   (solo
+      (guitar vocal_percussion)))
 (giveittome
    (song_id 1005321)
    (song_length 192272)
@@ -33160,7 +33167,7 @@
 (gowiththeflow
    (song_id 18)
    (preview 5900 35900)
-   (song_length 155000)
+   (song_length 187426)
    (format 10)
    (version 1)
    (game_origin rb1)
@@ -33180,7 +33187,7 @@
 (greengrass
    (song_id 19)
    (preview 95450 125450)
-   (song_length 596363)
+   (song_length 592904)
    (solo
       (guitar vocal_percussion))
    (format 10)
@@ -33242,8 +33249,7 @@
    (format 10)
    (game_origin rb1_dlc)
    (rating 2)
-   (year_released 1975)
-   (year_recorded 2008))
+   (year_released 1975))
 (hallowedbethyname
    (song_id 1005579)
    (song_length 472727)
@@ -33480,7 +33486,7 @@
    (rating 1))
 (hereitgoesagain
    (song_id 20)
-   (song_length 151818)
+   (song_length 187443)
    (solo
       (guitar))
    (format 10)
@@ -33561,7 +33567,7 @@
 (highwaystar
    (song_id 21)
    (preview 36850 66850)
-   (song_length 304090)
+   (song_length 369375)
    (solo
       (guitar vocal_percussion))
    (format 10)
@@ -33819,7 +33825,7 @@
 (igetby
    (song_id 51)
    (preview 49750 79750)
-   (song_length 211818)
+   (song_length 261168)
    (solo
       (vocal_percussion))
    (format 10)
@@ -33904,7 +33910,7 @@
 (imsosick
    (song_id 52)
    (preview 135750 165750)
-   (song_length 184545)
+   (song_length 183114)
    (format 10)
    (version 1)
    (game_origin rb1)
@@ -33918,7 +33924,7 @@
 (inbloom
    (song_id 22)
    (preview 30675 60675)
-   (song_length 213636)
+   (song_length 260672)
    (solo
       (guitar))
    (format 10)
@@ -34041,7 +34047,7 @@
 (ithinkimparanoid
    (song_id 23)
    (preview 28250 58250)
-   (song_length 226818)
+   (song_length 221044)
    (format 10)
    (version 1)
    (game_origin rb1)
@@ -34238,8 +34244,7 @@
    (format 10)
    (game_origin rb1_dlc)
    (rating 1)
-   (year_released 1995)
-   (year_recorded 2003))
+   (year_released 1995))
 (justbreathe
    (song_id 1005651)
    (song
@@ -34427,7 +34432,7 @@
 (learntofly
    (song_id 24)
    (preview 45550 75550)
-   (song_length 195454)
+   (song_length 238357)
    (format 10)
    (version 1)
    (game_origin rb1)
@@ -34485,6 +34490,10 @@
    (solo
       (guitar))
    (format 10))
+(lettherebrock
+   (song_length 375295)
+   (solo
+      (guitar vocal_percussion)))
 (letthereberock_live
    (song_id 1005283)
    (song_length 577727)
@@ -34739,7 +34748,7 @@
 (mainoffender
    (song_id 25)
    (preview 26600 56600)
-   (song_length 129090)
+   (song_length 156965)
    (solo
       (guitar vocal_percussion))
    (format 10)
@@ -34790,7 +34799,7 @@
 (maps
    (song_id 26)
    (preview 39625 69625)
-   (song_length 210000)
+   (song_length 201695)
    (solo
       (vocal_percussion))
    (format 10)
@@ -34963,7 +34972,7 @@
    (rating 2))
 (missqueen
    (song_id 27)
-   (song_length 133636)
+   (song_length 166401)
    (solo
       (guitar vocal_percussion))
    (format 10)
@@ -35256,8 +35265,6 @@
    (format 10)
    (game_origin rb1_dlc)
    (rating 1)
-   (year_released 1999)
-   (year_recorded 2003)
    (extra_authoring disc_update)
    (album_art FALSE))
 (newfang
@@ -35308,7 +35315,7 @@
    (extra_authoring disc_update))
 (nexttoyou
    (song_id 28)
-   (song_length 131363)
+   (song_length 162142)
    (solo
       (guitar))
    (format 10)
@@ -35334,7 +35341,7 @@
    (extra_authoring disc_update))
 (nightmare
    (song_id 53)
-   (song_length 273636)
+   (song_length 274233)
    (solo
       (guitar vocal_percussion))
    (format 10)
@@ -35547,7 +35554,7 @@
 (orangecrush
    (song_id 29)
    (preview 21250 51250)
-   (song_length 193636)
+   (song_length 233456)
    (solo
       (guitar vocal_percussion))
    (format 10)
@@ -35597,7 +35604,7 @@
 (outside
    (song_id 54)
    (preview 146500 176500)
-   (song_length 302727)
+   (song_length 294981)
    (solo
       (guitar vocal_percussion))
    (format 10)
@@ -35629,7 +35636,7 @@
    (format 10))
 (paranoid
    (song_id 30)
-   (song_length 179545)
+   (song_length 181480)
    (solo
       (guitar))
    (format 10)
@@ -35723,7 +35730,6 @@
    (game_origin rb1_dlc)
    (rating 1)
    (year_released 1968)
-   (year_recorded 1973)
    (extra_authoring disc_update))
 (pigsinzen
    (song_id 1005528)
@@ -35749,7 +35755,7 @@
 (pleasure
    (song_id 55)
    (preview 36000 66000)
-   (song_length 221818)
+   (song_length 220135)
    (solo
       (guitar vocal_percussion))
    (format 10)
@@ -36074,7 +36080,7 @@
 (reptilia
    (song_id 31)
    (preview 75750 105750)
-   (song_length 219090)
+   (song_length 219132)
    (solo
       (guitar vocal_percussion))
    (format 10)
@@ -36354,11 +36360,16 @@
 (runthroughthejungle
    (solo
       (vocal_percussion))
+   (extra_authoring disc_update)
    (format 10))
+(somethingfromnothing
+   (extra_authoring disc_update))
+(rizeofthefenix
+   (extra_authoring disc_update))
 (runtothehills
    (song_id 32)
    (preview 11000 41000)
-   (song_length 194090)
+   (song_length 236915)
    (solo
       (guitar))
    (format 10)
@@ -36385,7 +36396,7 @@
 (sabotage
    (song_id 33)
    (preview 68600 98600)
-   (song_length 152272)
+   (song_length 180735)
    (format 10)
    (version 1)
    (game_origin rb1)
@@ -36463,7 +36474,7 @@
 (sayitaintso
    (song_id 34)
    (preview 81750 111750)
-   (song_length 215000)
+   (song_length 262248)
    (solo
       (guitar vocal_percussion))
    (format 10)
@@ -36547,7 +36558,7 @@
 (seven
    (song_id 56)
    (preview 45500 75500)
-   (song_length 207272)
+   (song_length 254712)
    (format 10)
    (version 1)
    (game_origin rb1)
@@ -36738,7 +36749,7 @@
    (extra_authoring disc_update))
 (shouldistay
    (song_id 35)
-   (song_length 158181)
+   (song_length 193160)
    (solo
       (vocal_percussion))
    (format 10)
@@ -37077,11 +37088,12 @@
    (format 10)
    (game_origin rb1_dlc)
    (rating 1)
-   (year_released 1995)
-   (year_recorded 2003))
+   (year_released 1995))
 (spiritinthesky
    (extra_authoring disc_update))
 (spoonman
+   (song_length 253583)
+   (solo (drum guitar vocal_percussion))
    (extra_authoring disc_update))
 (sprode
    (song_id 1005079)
@@ -37238,7 +37250,7 @@
 (suffragettecity
    (song_id 36)
    (preview 27600 57600)
-   (song_length 172727)
+   (song_length 206816)
    (solo
       (guitar))
    (format 10)
@@ -37722,7 +37734,7 @@
 (thehandthatfeeds
    (song_id 37)
    (preview 21475 51475)
-   (song_length 183181)
+   (song_length 226713)
    (solo
       (guitar))
    (format 10)
@@ -38087,7 +38099,7 @@
 (timewehad
    (song_id 57)
    (preview 35600 65600)
-   (song_length 188181)
+   (song_length 189503)
    (solo
       (guitar))
    (format 10)
@@ -38102,7 +38114,7 @@
    (album_track_number 3))
 (timmy
    (song_id 58)
-   (song_length 126818)
+   (song_length 127550)
    (solo
       (guitar))
    (format 10)
@@ -38133,7 +38145,7 @@
 (tomsawyer
    (song_id 38)
    (preview 197600 227600)
-   (song_length 236363)
+   (song_length 292174)
    (solo
       (guitar vocal_percussion))
    (format 10)
@@ -38214,7 +38226,7 @@
    (rating 1))
 (trainkeptarollin
    (song_id 39)
-   (song_length 343636)
+   (song_length 340071)
    (solo
       (guitar vocal_percussion))
    (format 10)
@@ -38235,6 +38247,8 @@
    (rating 2)
    (extra_authoring disc_update)
    (encoding latin1))
+(travellingband
+   (extra_authoring disc_update))
 (treatmelikeyourmother
    (song_id 1005727)
    (song_length 257272)
@@ -38424,7 +38438,7 @@
 (vasoline
    (song_id 40)
    (preview 61400 91400)
-   (song_length 145909)
+   (song_length 180697)
    (solo
       (guitar))
    (format 10)
@@ -38533,7 +38547,7 @@
 (wanteddeadoralive
    (song_id 41)
    (preview 214238 244238)
-   (song_length 250454)
+   (song_length 302798)
    (solo
       (guitar))
    (format 10)
@@ -38602,7 +38616,7 @@
 (waveofmutilation
    (song_id 42)
    (preview 40000 70000)
-   (song_length 106818)
+   (song_length 127408)
    (solo
       (guitar))
    (format 10)
@@ -38662,7 +38676,7 @@
 (welcomehome
    (song_id 43)
    (preview 198750 228750)
-   (song_length 323181)
+   (song_length 397923)
    (solo
       (guitar))
    (format 10)
@@ -38724,7 +38738,7 @@
    (rating 1))
 (whenyouwereyoung
    (song_id 44)
-   (song_length 223636)
+   (song_length 219884)
    (solo
       (guitar))
    (format 10)
@@ -38904,7 +38918,7 @@
 (wontgetfooled
    (song_id 45)
    (preview 75750 105750)
-   (song_length 420000)
+   (song_length 515119)
    (solo
       (guitar vocal_percussion))
    (format 10)
