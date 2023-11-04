@@ -6241,6 +6241,12 @@
    (game_origin ugc1))
 (UGC_5002676
    (game_origin ugc1))
+;wii exclusive
+(UGC_5002687
+   (game_origin ugc1))
+(UGC_5002702
+   (game_origin ugc1))
+;end of wii exclusive
 (UGC_5002708
    (game_origin ugc1))
 (UGC_5002709
@@ -11064,6 +11070,20 @@
 )
 
 ;no harmonies
+;wii exclusive shortnames
+(UGC_5002702
+   (upgrade_version 1) (extra_authoring disc_update)
+   ;(song_id 5002702)
+   ;(rbhp_harmonies_author espher)
+  ;(rbhp_version 1)
+)
+(UGC_5002687
+	(upgrade_version 1) (extra_authoring disc_update)
+	;(song_id 5002687)
+	;(rbhp_prodrums_author GreenPanda12)
+	;(rbhp_version 1)
+)
+;end of wii exclusive shortnames
 (UGC_5003216
    (upgrade_version 1) (extra_authoring disc_update)
    ;(song_id 5003216)
