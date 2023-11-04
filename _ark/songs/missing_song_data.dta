@@ -10210,15 +10210,15 @@
    (song
       (tracks
          ((drum
-               (0 1))
+               (0 1 2 3))
             (bass
-               (2 3))
+               (4))
             (guitar
                (5 6))
             (vocals
-               (7 8))
+               (7))
             (keys
-               (9 10))))
+               (8))))
       (vocal_parts 3)
       (drum_solo
          (seqs
@@ -10243,15 +10243,15 @@
    (song
       (tracks
          ((drum
-               (0 1))
+               (0 1 2 3))
             (bass
-               (2))
+               (4))
             (guitar
-               (3 4))
-            (vocals
                (5 6))
+            (vocals
+               (7))
             (keys
-               (7 8))))
+               (8))))
       (vocal_parts 3)
       (drum_solo
          (seqs
@@ -10276,15 +10276,15 @@
    (song
       (tracks
          ((drum
-               (0 1))
+               (0 1 2 3))
             (bass
-               (2))
+               (4))
             (guitar
-               (3 4))
-            (vocals
                (5 6))
+            (vocals
+               (7))
             (keys
-               (7 8))))
+               (8))))
       (vocal_parts 3)
       (drum_solo
          (seqs
@@ -10309,15 +10309,15 @@
    (song
       (tracks
          ((drum
-               (0 1))
+               (0 1 2 3))
             (bass
-               (2 3))
+               (4))
             (guitar
-               (4 5))
+               (5 6))
             (vocals
-               (6 7))
+               (7))
             (keys
-               (8 9))))
+               (8))))
       (vocal_parts 3)
       (drum_solo
          (seqs
@@ -10342,15 +10342,15 @@
    (song
       (tracks
          ((drum
-               (0 1))
+               (0 1 2 3))
             (bass
-               (2 3))
+               (4))
             (guitar
-               (4 5))
+               (5 6))
             (vocals
-               (6 7))
+               (7))
             (keys
-               (8 9))))
+               (8))))
       (vocal_parts 2)
       (drum_solo
          (seqs
@@ -10375,15 +10375,15 @@
    (song
       (tracks
          ((drum
-               (0 1))
+               (0 1 2 3))
             (bass
-               (2 3))
+               (4))
             (guitar
-               (4 5))
+               (5 6))
             (vocals
-               (6 7))
+               (7))
             (keys
-               (8 9))))
+               (8))))
       (vocal_parts 3)
       (drum_solo
          (seqs
@@ -10408,15 +10408,15 @@
    (song
       (tracks
          ((drum
-               (0 1))
+               (0 1 2 3))
             (bass
-               (2))
+               (4))
             (guitar
-               (3 4))
-            (vocals
                (5 6))
+            (vocals
+               (7))
             (keys
-               (7 8))))
+               (8))))
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
