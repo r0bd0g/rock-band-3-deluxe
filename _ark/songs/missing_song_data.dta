@@ -3970,14 +3970,14 @@
    (album_track_number 4))
 (criticalacclaim
    (year_released 2007)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Avenged Sevenfold")
    (album_track_number 1))
 (hammerhead
    (version 1)
    (year_released 2008)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Rise and Fall, Rage and Grace")
    (album_track_number 4))
@@ -18436,24 +18436,27 @@
    (artist
       "Fun. ft. Janelle Monáe"))
 (100000years
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Dressed to Kill Tour"))
-(charlene
-   (album_art TRUE))
+;(charlene
+;   (album_art TRUE)
+;)
 (deuce
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Dressed to Kill Tour"))
-(hockeytheme
-   (alternate_path TRUE)
-   (album_art TRUE))
+;(hockeytheme
+;   (alternate_path TRUE)
+;   (album_art TRUE)
+;)
 (parasitelive
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Dressed to Kill Tour"))
-(promisedland
-   (album_art TRUE))
+;(promisedland
+;   (album_art TRUE)
+;)
 (america
    (album_name
       "Back from the Dead"))
@@ -18825,9 +18828,10 @@
    (genre poprock))
 (hungrylikethewolf
    (genre new_wave))
-(kidsinamerica
-   (alternate_path TRUE)
-   (album_art TRUE))
+;(kidsinamerica
+;   (alternate_path TRUE)
+;   (album_art TRUE)
+;)
 (letthereberock
    (genre classicrock))
 (lump
@@ -18859,8 +18863,9 @@
 (yououghtaknow
    (genre alternative))
 (accidentallyinlove
-   (alternate_path TRUE)
-   (album_art TRUE))
+;   (alternate_path TRUE)
+   (album_art TRUE)
+)
 (apunk
    (genre indierock))
 (everylittlething
@@ -18871,7 +18876,8 @@
    (genre punk))
 (ghostbusters
    (genre popdanceelectronic)
-   (album_art TRUE))
+;   (album_art TRUE)
+)
 (kungfufighting
    (genre rbsoulfunk))
 (shortandsweet
@@ -20047,14 +20053,14 @@
    (album_track_number 4))
 (criticalacclaim
    (year_released 2007)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Avenged Sevenfold")
    (album_track_number 1))
 (hammerhead
    (version 1)
    (year_released 2008)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Rise and Fall, Rage and Grace")
    (album_track_number 4))
@@ -33760,7 +33766,7 @@
    (year_released 2005)
    (alternate_path TRUE)
    (extra_authoring disc_update)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "The Konks")
    (album_track_number 2))
@@ -34115,7 +34121,7 @@
    (year_released 2003)
    (alternate_path TRUE)
    (extra_authoring disc_update)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Get Born")
    (album_track_number 2))
@@ -34401,7 +34407,7 @@
    (year_released 1994)
    (alternate_path TRUE)
    (extra_authoring disc_update)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Superunknown")
    (album_track_number 7))
@@ -34450,7 +34456,7 @@
    (rating 1)
    (year_released 1976)
    (alternate_path TRUE)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Ramones")
    (album_track_number 1))
@@ -34465,7 +34471,7 @@
    (rating 2)
    (year_released 2007)
    (alternate_path TRUE)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "A Single Drop of Red")
    (album_track_number 3))
@@ -34573,7 +34579,7 @@
    (rating 2)
    (year_released 2007)
    (alternate_path TRUE)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Future Future Future Perfect")
    (album_track_number 6))
@@ -34778,7 +34784,7 @@
    (rating 1)
    (year_released 2007)
    (alternate_path TRUE)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Can't Let Go")
    (album_track_number 1))
@@ -34854,7 +34860,7 @@
    (rating 2)
    (year_released 1998)
    (alternate_path TRUE)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Celebrity Skin")
    (album_track_number 1))
@@ -34879,6 +34885,9 @@
    (game_origin rb1_dlc)
    (short_version 141000)
    (rating 1))
+(checkyesjuliet
+   (song_length 223636)
+   (format 10))
 (cheeseburgerinparadise
    (song_id 1005124)
    (song_length 185454)
@@ -34915,7 +34924,7 @@
    (year_released 1993)
    (alternate_path TRUE)
    (extra_authoring disc_update)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Siamese Dream")
    (album_track_number 1))
@@ -35149,7 +35158,7 @@
    (year_released 1993)
    (alternate_path TRUE)
    (extra_authoring disc_update)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Pablo Honey")
    (album_track_number 2))
@@ -35253,7 +35262,7 @@
    (year_released 2006)
    (alternate_path TRUE)
    (extra_authoring disc_update)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Stadium Arcadium")
    (album_track_number 1))
@@ -35285,7 +35294,7 @@
    (year_released 2006)
    (alternate_path TRUE)
    (extra_authoring disc_update)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Go Down Swinging")
    (album_track_number 1))
@@ -35319,7 +35328,7 @@
    (year_released 2003)
    (alternate_path TRUE)
    (extra_authoring disc_update)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Take This to Your Grave")
    (album_track_number 2))
@@ -35365,7 +35374,7 @@
    (year_released 1976)
    (alternate_path TRUE)
    (extra_authoring disc_update)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Destroyer")
    (album_track_number 1))
@@ -35540,7 +35549,7 @@
    (year_released 1975)
    (alternate_path TRUE)
    (extra_authoring disc_update)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Agents of Fortune")
    (album_track_number 3)
@@ -35754,7 +35763,7 @@
    (year_released 2003)
    (alternate_path TRUE)
    (extra_authoring disc_update)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Electric Version")
    (album_track_number 1))
@@ -35839,7 +35848,7 @@
    (year_released 1991)
    (alternate_path TRUE)
    (extra_authoring disc_update)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Metallica")
    (album_track_number 1))
@@ -35856,7 +35865,7 @@
    (year_released 1990)
    (alternate_path TRUE)
    (extra_authoring disc_update)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "The Real Thing")
    (album_track_number 2))
@@ -36071,9 +36080,9 @@
    (year_released 1979)
    (alternate_path TRUE)
    (extra_authoring disc_update)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
-      "Flirtin' With Disaster")
+      "Flirtin' with Disaster")
    (album_track_number 6))
 (floods
    (solo
@@ -36112,7 +36121,7 @@
    (year_released 1976)
    (alternate_path TRUE)
    (extra_authoring disc_update)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Boston")
    (album_track_number 3))
@@ -36286,7 +36295,7 @@
    (year_released 1969)
    (alternate_path TRUE)
    (extra_authoring disc_update)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Let It Bleed")
    (album_track_number 1))
@@ -36493,7 +36502,7 @@
    (year_released 2002)
    (alternate_path TRUE)
    (extra_authoring disc_update)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Songs for the Deaf")
    (album_track_number 8))
@@ -36813,7 +36822,7 @@
    (rating 2)
    (year_released 2003)
    (alternate_path TRUE)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Oh No")
    (album_track_number 3))
@@ -36895,7 +36904,7 @@
    (year_released 1972)
    (alternate_path TRUE)
    (extra_authoring disc_update)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Machine Head")
    (album_track_number 1))
@@ -37152,7 +37161,7 @@
    (rating 1)
    (year_released 2007)
    (alternate_path TRUE)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Second & Eighteen")
    (album_track_number 16))
@@ -37235,7 +37244,7 @@
    (rating 2)
    (year_released 2005)
    (alternate_path TRUE)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Flyleaf")
    (album_track_number 1))
@@ -37253,7 +37262,7 @@
    (year_released 1991)
    (alternate_path TRUE)
    (extra_authoring disc_update)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Nevermind")
    (album_track_number 2))
@@ -37372,7 +37381,7 @@
    (rating 2)
    (year_released 1998)
    (alternate_path TRUE)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Version 2.0")
    (album_track_number 2))
@@ -37758,7 +37767,7 @@
    (year_released 1999)
    (alternate_path TRUE)
    (extra_authoring disc_update)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "There is Nothing Left to Lose")
    (album_track_number 3))
@@ -38075,7 +38084,7 @@
    (rating 2)
    (year_released 2000)
    (alternate_path TRUE)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Veni Vidi Vicious")
    (album_track_number 4))
@@ -38127,7 +38136,7 @@
    (year_released 2003)
    (alternate_path TRUE)
    (extra_authoring disc_update)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Fever to Tell")
    (album_track_number 9))
@@ -38545,6 +38554,10 @@
    (game_origin rb1_dlc)
    (rating 2)
    (extra_authoring disc_update))
+(naive
+   (song_length 207727)
+   (format 10)
+   (encoding latin1))
 (nakedeye
    (song_id 1005543)
    (song_length 275000)
@@ -38643,7 +38656,7 @@
    (year_released 1978)
    (alternate_path TRUE)
    (extra_authoring disc_update)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Outlandos d'Amour")
    (album_track_number 1))
@@ -38669,7 +38682,7 @@
    (year_released 2008)
    (alternate_path TRUE)
    (extra_authoring disc_update)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Adrenaline")
    (album_track_number 9))
@@ -38882,7 +38895,7 @@
    (year_released 1988)
    (alternate_path TRUE)
    (extra_authoring disc_update)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Green")
    (album_track_number 7))
@@ -38931,7 +38944,7 @@
    (rating 1)
    (year_released 1989)
    (alternate_path TRUE)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Here at Home")
    (album_track_number 6))
@@ -39083,7 +39096,7 @@
    (year_released 2007)
    (alternate_path TRUE)
    (extra_authoring disc_update)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Bang Camaro")
    (album_track_number 3))
@@ -39408,7 +39421,7 @@
    (year_released 2003)
    (alternate_path TRUE)
    (extra_authoring disc_update)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Room on Fire")
    (album_track_number 2))
@@ -39722,7 +39735,7 @@
    (year_released 1994)
    (alternate_path TRUE)
    (extra_authoring disc_update)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Ill Communication")
    (album_track_number 6))
@@ -39802,7 +39815,7 @@
    (year_released 1994)
    (alternate_path TRUE)
    (extra_authoring disc_update)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Weezer (The Blue Album)")
    (album_track_number 7))
@@ -39883,7 +39896,7 @@
    (rating 2)
    (year_released 2007)
    (alternate_path TRUE)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Public Display of Infection")
    (album_track_number 6))
@@ -40076,7 +40089,7 @@
    (rating 2)
    (year_released 1982)
    (alternate_path TRUE)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Combat Rock")
    (album_track_number 3))
@@ -40411,7 +40424,8 @@
    (extra_authoring disc_update))
 (spoonman
    (song_length 253583)
-   (solo (drum guitar vocal_percussion))
+   (solo
+      (drum guitar vocal_percussion))
    (extra_authoring disc_update))
 (sprode
    (song_id 1005079)
@@ -40578,7 +40592,7 @@
    (year_released 1972)
    (alternate_path TRUE)
    (extra_authoring disc_update)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "The Rise and Fall of Ziggy Stardust and the Spiders From Mars")
    (album_track_number 10))
@@ -41062,7 +41076,7 @@
    (year_released 2005)
    (alternate_path TRUE)
    (extra_authoring disc_update)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "With Teeth")
    (album_track_number 4))
@@ -41426,7 +41440,7 @@
    (rating 1)
    (year_released 2007)
    (alternate_path TRUE)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Kiss the Crystal Flake")
    (album_track_number 3))
@@ -41442,7 +41456,7 @@
    (year_released 2000)
    (alternate_path TRUE)
    (extra_authoring disc_update)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Timmy & The Lords of the Underworld")
    (album_track_number 1))
@@ -41750,6 +41764,9 @@
    (format 10)
    (game_origin rb1_dlc)
    (rating 2))
+(valerie 
+   (song_length 243636) 
+   (format 10))
 (valleysofneptune
    (format 10)
    (year_recorded 1969))
@@ -41766,7 +41783,7 @@
    (year_released 1994)
    (alternate_path TRUE)
    (extra_authoring disc_update)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Purple")
    (album_track_number 2))
@@ -41875,7 +41892,7 @@
    (year_released 1986)
    (alternate_path TRUE)
    (extra_authoring disc_update)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Slippery When Wet")
    (album_track_number 5))
@@ -41944,7 +41961,7 @@
    (year_released 1989)
    (alternate_path TRUE)
    (extra_authoring disc_update)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Doolittle")
    (album_track_number 3))
@@ -42004,7 +42021,7 @@
    (year_released 2005)
    (alternate_path TRUE)
    (extra_authoring disc_update)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Good Apollo, I'm Burning Star IV, Volume One: From Fear Through the Eyes of Madness")
    (album_track_number 11))
@@ -42066,7 +42083,7 @@
    (year_released 2006)
    (alternate_path TRUE)
    (extra_authoring disc_update)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Sam's Town")
    (album_track_number 3))
@@ -42246,7 +42263,7 @@
    (year_released 1971)
    (alternate_path TRUE)
    (extra_authoring disc_update)
-   (album_art TRUE)
+;   (album_art TRUE)
    (album_name
       "Who's Next")
    (album_track_number 9))
