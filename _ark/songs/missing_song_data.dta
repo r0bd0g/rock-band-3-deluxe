@@ -16,7 +16,6 @@
       (0 0 0 0)))
 (2112full
    (extra_authoring disc_update)
-   (extra_authoring disc_update)
    (rank
       (drum 465)
       (guitar 407)
@@ -5295,252 +5294,6 @@
    (game_origin rb3dlc))
 (ziggystardust
    (game_origin rb3dlc))
-(50000unstoppablewatts_rbn
-   (game_origin ugc1))
-(5678_rbn
-   (game_origin ugc1))
-(abigail_rbn
-   (game_origin ugc1))
-(aliveandkicking_rbn
-   (game_origin ugc1))
-(alliwant_rbn
-   (game_origin ugc1))
-(americandream_rbn
-   (game_origin ugc1))
-(anddelinquents_rbn
-   (game_origin ugc1))
-(approachthepodium_rbn
-   (game_origin ugc1))
-(arcaedion_rbn
-   (game_origin ugc1))
-(aspiration_rbn
-   (game_origin ugc1))
-(australia_rbn
-   (game_origin ugc1))
-(battleroyale_rbn
-   (game_origin ugc1))
-(battlesandbrotherhood_rbn
-   (game_origin ugc1))
-(berzerker_rbn
-   (game_origin ugc1))
-(bleed_rbn
-   (game_origin ugc1))
-(bluedress_rbn
-   (game_origin ugc1))
-(bodies_rbn
-   (game_origin ugc1))
-(bulletwithaname_rbn
-   (game_origin ugc1))
-(burnitdown_rbn
-   (game_origin ugc1))
-(businesstime_rbn
-   (game_origin ugc1))
-(bustervoodoo_rbn
-   (game_origin ugc1))
-(buttersnips_rbn
-   (game_origin ugc1))
-(chelsea_rbn
-   (game_origin ugc1))
-(cheynestokes_rbn
-   (game_origin ugc1))
-(codemonkey_rbn
-   (game_origin ugc1))
-(creepydoll_rbn
-   (game_origin ugc1))
-(darkhorse_rbn
-   (game_origin ugc1))
-(dayswithout_rbn
-   (game_origin ugc1))
-(deathbedatheist_rbn
-   (game_origin ugc1))
-(demonwoman_rbn
-   (game_origin ugc1))
-(disengage_rbn
-   (game_origin ugc1))
-(dogscangrowbeards_rbn
-   (game_origin ugc1))
-(drunkenlullabies_rbn
-   (game_origin ugc1))
-(energy_rbn
-   (game_origin ugc1))
-(entertain_rbn
-   (game_origin ugc1))
-(fakeit_rbn
-   (game_origin ugc1))
-(fateofthemaiden_rbn
-   (game_origin ugc1))
-(flagintheground_rbn
-   (game_origin ugc1))
-(flightlessbird_rbn
-   (game_origin ugc1))
-(foreverinyourhands_rbn
-   (game_origin ugc1))
-(fortheloveofgodlive_rbn
-   (game_origin ugc1))
-(forwearemany_rbn
-   (game_origin ugc1))
-(gasoline_rbn
-   (game_origin ugc1))
-(goingunder_rbn
-   (game_origin ugc1))
-(hanuman_rbn
-   (game_origin ugc1))
-(hardtosee_rbn
-   (game_origin ugc1))
-(havefaithinme_rbn
-   (game_origin ugc1))
-(heimdalsgate_rbn
-   (game_origin ugc1))
-(heybabyheresthatsong_rbn
-   (game_origin ugc1))
-(heytheremrbrooks_rbn
-   (game_origin ugc1))
-(higher_rbn
-   (game_origin ugc1))
-(holdon2_rbn
-   (game_origin ugc1))
-(hooklineandsinner_rbn
-   (game_origin ugc1))
-(htmlrulezdood_rbn
-   (game_origin ugc1))
-(icaruslives_rbn
-   (game_origin ugc1))
-(ifimjamesdean_rbn
-   (game_origin ugc1))
-(ikea_rbn
-   (game_origin ugc1))
-(iknowwhatiam_rbn
-   (game_origin ugc1))
-(imamazed_rbn
-   (game_origin ugc1))
-(immadeofwaxlarrywhat_rbn
-   (game_origin ugc1))
-(incubus_rbn
-   (game_origin ugc1))
-(isthereaghost_rbn
-   (game_origin ugc1))
-(itscomplicated_rbn
-   (game_origin ugc1))
-(jamieallover_rbn
-   (game_origin ugc1))
-(jumpers_rbn
-   (game_origin ugc1))
-(kicksomeass09_rbn
-   (game_origin ugc1))
-(knifeman_rbn
-   (game_origin ugc1))
-(kokko_rbn
-   (game_origin ugc1))
-(leaderlessandself_rbn
-   (game_origin ugc1))
-(learntolive_rbn
-   (game_origin ugc1))
-(lemonmeringuetie_rbn
-   (game_origin ugc1))
-(letthegamesbegin_rbn
-   (game_origin ugc1))
-(lexington_rbn
-   (game_origin ugc1))
-(littleblackbackpack_rbn
-   (game_origin ugc1))
-(mechanicallove_rbn
-   (game_origin ugc1))
-(mordecai_rbn
-   (game_origin ugc1))
-(neverletyougo09_rbn
-   (game_origin ugc1))
-(nightonbaldmountain_rbn
-   (game_origin ugc1))
-(noonesgonnaloveyou_rbn
-   (game_origin ugc1))
-(obfuscation_rbn
-   (game_origin ugc1))
-(paralyzer_rbn
-   (game_origin ugc1))
-(relentlesschaos_rbn
-   (game_origin ugc1))
-(remedy_rbn
-   (game_origin ugc1))
-(requiemforadyingsong_rbn
-   (game_origin ugc1))
-(riseabovethis_rbn
-   (game_origin ugc1))
-(riveroftuoni_rbn
-   (game_origin ugc1))
-(robotsmaybreak_rbn
-   (game_origin ugc1))
-(rollthedice_rbn
-   (game_origin ugc1))
-(secondandsebring_rbn
-   (game_origin ugc1))
-(semicharmedlife09_rbn
-   (game_origin ugc1))
-(sequesteredinmemphis_rbn
-   (game_origin ugc1))
-(serpentineoffering_rbn
-   (game_origin ugc1))
-(seven_rbn
-   (game_origin ugc1))
-(shallowwaters_rbn
-   (game_origin ugc1))
-(smashthecontrol_rbn
-   (game_origin ugc1))
-(specialeffects_rbn
-   (game_origin ugc1))
-(spin_rbn
-   (game_origin ugc1))
-(standforsomething_rbn
-   (game_origin ugc1))
-(tasteslikekevinbacon_rbn
-   (game_origin ugc1))
-(theattitudesong_rbn
-   (game_origin ugc1))
-(thecomplexityoflight_rbn
-   (game_origin ugc1))
-(thefinalepisode_rbn
-   (game_origin ugc1))
-(thefuneral_rbn
-   (game_origin ugc1))
-(thegreatsaltlake_rbn
-   (game_origin ugc1))
-(thegunshow_rbn
-   (game_origin ugc1))
-(thehoundsofanubis_rbn
-   (game_origin ugc1))
-(themobgoeswild_rbn
-   (game_origin ugc1))
-(themostbeautifulgirl_rbn
-   (game_origin ugc1))
-(theoneyouwant_rbn
-   (game_origin ugc1))
-(theorder_rbn
-   (game_origin ugc1))
-(thetouch2007_rbn
-   (game_origin ugc1))
-(thewaitingone_rbn
-   (game_origin ugc1))
-(thoseinglasshouses_rbn
-   (game_origin ugc1))
-(treevillage_rbn
-   (game_origin ugc1))
-(undone_rbn
-   (game_origin ugc1))
-(wakeup_rbn
-   (game_origin ugc1))
-(wearenotanonymous_rbn
-   (game_origin ugc1))
-(wearetheone_rbn
-   (game_origin ugc1))
-(whenigethome_rbn
-   (game_origin ugc1))
-(wherewereyou_rbn
-   (game_origin ugc1))
-(whiteknuckles_rbn
-   (game_origin ugc1))
-(youngbloods_rbn
-   (game_origin ugc1))
-(youreawolf_rbn
-   (game_origin ugc1))
 (UGC_5000034
    (game_origin ugc1))
 (UGC_5000101
@@ -9889,317 +9642,6 @@
    (game_origin ugc2))
 (UGC_5012040
    (game_origin ugc2))
-(18andlife
-   (game_origin rb4_dlc))
-(24kmagic
-   (game_origin rb4_dlc))
-(africa
-   (game_origin rb4_dlc))
-(aintitfun
-   (game_origin rb4_dlc))
-(ainttalkinboutlove
-   (game_origin rb4_dlc))
-(andthecradlewillrock
-   (game_origin rb4_dlc))
-(angel3
-   (game_origin rb4_dlc))
-(badcaseoflovingyou
-   (game_origin rb4_dlc))
-(badcompany
-   (game_origin rb4_dlc))
-(believer
-   (game_origin rb4_dlc))
-(blackbetty
-   (game_origin rb4_dlc))
-(blurredlines
-   (game_origin rb4_dlc))
-(borntobewild
-   (game_origin rb4_dlc))
-(cherrypie
-   (game_origin rb4_dlc))
-(closingtime
-   (game_origin rb4_dlc))
-(complicated
-   (game_origin rb4_dlc))
-(cowboysfromhelllive
-   (game_origin rb4_dlc))
-(crazy
-   (game_origin rb4_dlc))
-(crazyonyou
-   (game_origin rb4_dlc))
-(cryin
-   (game_origin rb4_dlc))
-(dancingwithmyself
-   (game_origin rb4_dlc))
-(dudelookslikealady
-   (game_origin rb4_dlc))
-(escapethepinacoladasong
-   (game_origin rb4_dlc))
-(facedownrb4
-   (game_origin rb4_dlc))
-(getlucky
-   (game_origin rb4_dlc))
-(gimmechocolate
-   (game_origin rb4_dlc))
-(hangingbyamoment
-   (game_origin rb4_dlc))
-(heavenisaplaceonearth
-   (game_origin rb4_dlc))
-(hemorrhage
-   (game_origin rb4_dlc))
-(heyya
-   (game_origin rb4_dlc))
-(holdtheline
-   (game_origin rb4_dlc))
-(hotforteacher
-   (game_origin rb4_dlc))
-(idontwanttomissathing
-   (game_origin rb4_dlc))
-(ifyoucouldonlysee
-   (game_origin rb4_dlc))
-(iris
-   (game_origin rb4_dlc))
-(iwannarock
-   (game_origin rb4_dlc))
-(janiesgotagun
-   (game_origin rb4_dlc))
-(juice
-   (game_origin rb4_dlc))
-(jumper
-   (game_origin rb4_dlc))
-(labamba
-   (game_origin rb4_dlc))
-(lipsofanangel
-   (game_origin rb4_dlc))
-(livinontheedge
-   (game_origin rb4_dlc))
-(lockedoutofheaven
-   (game_origin rb4_dlc))
-(loveinanelevator
-   (game_origin rb4_dlc))
-(lovesong
-   (game_origin rb4_dlc))
-(nevertoolate
-   (game_origin rb4_dlc))
-(oldtownroad
-   (game_origin rb4_dlc))
-(pullmeunder
-   (game_origin rb4_dlc))
-(radioactive
-   (game_origin rb4_dlc))
-(ragdoll
-   (game_origin rb4_dlc))
-(redredwine
-   (game_origin rb4_dlc))
-(rockthistown
-   (game_origin rb4_dlc))
-(runninwiththedevil
-   (game_origin rb4_dlc))
-(september
-   (game_origin rb4_dlc))
-(seventeen
-   (game_origin rb4_dlc))
-(slowride
-   (game_origin rb4_dlc))
-(stranglehold
-   (game_origin rb4_dlc))
-(takemehomecountryroads2
-   (game_origin rb4_dlc))
-(teenagedirtbag
-   (game_origin rb4_dlc))
-(thehills
-   (game_origin rb4_dlc))
-(thembones
-   (game_origin rb4_dlc))
-(thereason
-   (game_origin rb4_dlc))
-(thesign
-   (game_origin rb4_dlc))
-(thesoundofsilence
-   (game_origin rb4_dlc))
-(thestage
-   (game_origin rb4_dlc))
-(throughthefireandflames
-   (game_origin rb4_dlc))
-(trust
-   (game_origin rb4_dlc))
-(whatilikeaboutyou
-   (game_origin rb4_dlc))
-(witharmswideopen
-   (game_origin rb4_dlc))
-(zombie
-   (game_origin rb4_dlc))
-(blackbetty2x
-   (game_origin rb4_dlc))
-(thestage2x
-   (game_origin rb4_dlc))
-(hotforteacher2x
-   (game_origin rb4_dlc))
-(tbrb_abbeyroadmedley
-   (game_origin beatles))
-(tbrb_adayinthelife
-   (game_origin beatles))
-(tbrb_aharddaysnight
-   (game_origin beatles))
-(tbrb_allyouneedislove
-   (game_origin beatles))
-(tbrb_andyourbirdcansing
-   (game_origin beatles))
-(tbrb_backintheussr
-   (game_origin beatles))
-(tbrb_because
-   (game_origin beatles))
-(tbrb_beingformrkite
-   (game_origin beatles))
-(tbrb_birthday
-   (game_origin beatles))
-(tbrb_boys
-   (game_origin beatles))
-(tbrb_cantbuymelove
-   (game_origin beatles))
-(tbrb_carrythatweight
-   (game_origin beatles))
-(tbrb_cometogether
-   (game_origin beatles))
-(tbrb_daytripper
-   (game_origin beatles))
-(tbrb_dearprudence
-   (game_origin beatles))
-(tbrb_digapony
-   (game_origin beatles))
-(tbrb_dontletmedown
-   (game_origin beatles))
-(tbrb_drivemycar
-   (game_origin beatles))
-(tbrb_eightdaysaweek
-   (game_origin beatles))
-(tbrb_fixingahole
-   (game_origin beatles))
-(tbrb_getback
-   (game_origin beatles))
-(tbrb_gettingbetter
-   (game_origin beatles))
-(tbrb_girl
-   (game_origin beatles))
-(tbrb_goldencarrytheend
-   (game_origin beatles))
-(tbrb_goldenslumbers
-   (game_origin beatles))
-(tbrb_goodmorning
-   (game_origin beatles))
-(tbrb_hellogoodbye
-   (game_origin beatles))
-(tbrb_helterskelter
-   (game_origin beatles))
-(tbrb_herecomesthesun
-   (game_origin beatles))
-(tbrb_hermajesty
-   (game_origin beatles))
-(tbrb_heybulldog
-   (game_origin beatles))
-(tbrb_iamthewalrus
-   (game_origin beatles))
-(tbrb_ifeelfine
-   (game_origin beatles))
-(tbrb_ifineededsomeone
-   (game_origin beatles))
-(tbrb_imemine
-   (game_origin beatles))
-(tbrb_imlookingthrough
-   (game_origin beatles))
-(tbrb_inmylife
-   (game_origin beatles))
-(tbrb_isawherstandingthere
-   (game_origin beatles))
-(tbrb_ivegotafeeling
-   (game_origin beatles))
-(tbrb_iwannabeyourman
-   (game_origin beatles))
-(tbrb_iwanttoholdyourhand
-   (game_origin beatles))
-(tbrb_iwantyou
-   (game_origin beatles))
-(tbrb_knowasecret
-   (game_origin beatles))
-(tbrb_lovelyrita
-   (game_origin beatles))
-(tbrb_lucyinthesky
-   (game_origin beatles))
-(tbrb_maxwells
-   (game_origin beatles))
-(tbrb_meanmrmustard
-   (game_origin beatles))
-(tbrb_michelle
-   (game_origin beatles))
-(tbrb_myguitarweeps
-   (game_origin beatles))
-(tbrb_norwegianwood
-   (game_origin beatles))
-(tbrb_nowhereman
-   (game_origin beatles))
-(tbrb_octopusgarden
-   (game_origin beatles))
-(tbrb_ohdarling
-   (game_origin beatles))
-(tbrb_paperbackwriter
-   (game_origin beatles))
-(tbrb_polythenebathroom
-   (game_origin beatles))
-(tbrb_polythenepam
-   (game_origin beatles))
-(tbrb_revolution
-   (game_origin beatles))
-(tbrb_runforyourlife
-   (game_origin beatles))
-(tbrb_sgtpepper
-   (game_origin beatles))
-(tbrb_sgtpepperlittlehelp
-   (game_origin beatles))
-(tbrb_sgtpepperreprise
-   (game_origin beatles))
-(tbrb_shecamethrough
-   (game_origin beatles))
-(tbrb_shesleavinghome
-   (game_origin beatles))
-(tbrb_shesleavinghomecust
-   (game_origin beatles))
-(tbrb_something
-   (game_origin beatles))
-(tbrb_sunking
-   (game_origin beatles))
-(tbrb_sunkingmeanmustard
-   (game_origin beatles))
-(tbrb_taxman
-   (game_origin beatles))
-(tbrb_theend
-   (game_origin beatles))
-(tbrb_theword
-   (game_origin beatles))
-(tbrb_thinkforyourself
-   (game_origin beatles))
-(tbrb_tickettoride
-   (game_origin beatles))
-(tbrb_tomorrowwithin
-   (game_origin beatles))
-(tbrb_twistandshout
-   (game_origin beatles))
-(tbrb_wait
-   (game_origin beatles))
-(tbrb_whatgoeson
-   (game_origin beatles))
-(tbrb_whenim64
-   (game_origin beatles))
-(tbrb_withalittlehelp
-   (game_origin beatles))
-(tbrb_withinyouwithoutyou
-   (game_origin beatles))
-(tbrb_yellowsubmarine
-   (game_origin beatles))
-(tbrb_younevergive
-   (game_origin beatles))
-(tbrb_youwontseeme
-   (game_origin beatles))
-;start of rbhp ugc
 
 ; RBN 1.0 harmonies/chart updates
 (UGC_5001547 (song (vocal_parts 3)) (extra_authoring disc_update) (vocal_tonic_note 4) (song_tonality 1))
@@ -13977,6 +13419,8 @@
       (vocal_parts 3))
    (extra_authoring disc_update))
 (yououghtaknow
+;   (song
+;      (vocal_parts 2))
    (extra_authoring disc_update))
 (accidentallyinlove
    (song
@@ -18650,8 +18094,8 @@
    (album_name
       "American Gigolo")
    (album_track_number 1))
-(danceepidemic
-   (alternate_path TRUE))
+;(danceepidemic
+;   (alternate_path TRUE))
 (hairofthedog
 ;   (alternate_path TRUE)
    (year_released 1975)
@@ -18871,8 +18315,7 @@
    (genre punk))
 (ghostbusters
    (genre popdanceelectronic)
-;   (album_art TRUE)
-)
+   (album_art TRUE))
 (kungfufighting
    (genre rbsoulfunk))
 (shortandsweet
@@ -18905,11 +18348,11 @@
 (startaband
    (name
       "Start a Band"))
-(suspiciousminds
+;(suspiciousminds
 ;   (alternate_path TRUE)
-   (album_name
-      "From Elvis in Memphis")
-   (album_track_number 14))
+;   (album_name
+;      "From Elvis in Memphis")
+;   (album_track_number 14))
 (turnitaround
    (name
       "Turn it Around"))
@@ -19721,33 +19164,33 @@
 (andthecradlewillrock
    (name
       "And the Cradle Will Rock..."))
-(astronautmaskedwolf
+;(astronautmaskedwolf
 ;   (alternate_path TRUE)
-   (name
-      "Astronaut in the Ocean")
-   (album_name
-      "Astronomical")
-   (album_track_number 17)
-   (year_released 2021))
+;   (name
+;      "Astronaut in the Ocean")
+;   (album_name
+;      "Astronomical")
+;   (album_track_number 17)
+;   (year_released 2021))
 (bitch
    (album_name
       "Blurring the Edges"))
-(bodylikeabackroad
+;(bodylikeabackroad
 ;   (alternate_path TRUE)
-   (name
-      "Body Like a Back Road")
-   (album_name
-      "Southside")
-   (album_track_number 5)
-   (year_released 2020))
+;   (name
+;      "Body Like a Back Road")
+;   (album_name
+;      "Southside")
+;   (album_track_number 5)
+;   (year_released 2020))
 (cakebytheocean
    (name
       "Cake by the Ocean"))
-(caution
+;(caution
 ;   (alternate_path TRUE)
-   (album_name
-      "Imploding the Mirage")
-   (album_track_number 4))
+;   (album_name
+;      "Imploding the Mirage")
+;   (album_track_number 4))
 (cowboysfromhelllive
    (name
       "Cowboys from Hell (Live from Monsters in Moscow)")
@@ -19762,16 +19205,16 @@
 (dancethenightaway
    (name
       "Dance the Night Away"))
-(dangerzone
+;(dangerzone
 ;   (alternate_path TRUE)
-   (album_name
-      "Top Gun: Original Motion Picture Soundtrack")
-   (album_track_number 1))
-(dontyouforgetaboutme
+;   (album_name
+;      "Top Gun: Original Motion Picture Soundtrack")
+;   (album_track_number 1))
+;(dontyouforgetaboutme
 ;   (alternate_path TRUE)
-   (album_name
-      "The Breakfast Club (Original Motion Picture Soundtrack)")
-   (album_track_number 1))
+;   (album_name
+;      "The Breakfast Club (Original Motion Picture Soundtrack)")
+;   (album_track_number 1))
 (drown
    (artist
       "Bring Me the Horizon")
@@ -19782,11 +19225,11 @@
       "Earth is a Black Hole")
    (album_name
       "Earth is a Black Hole"))
-(followyou
+;(followyou
 ;   (alternate_path TRUE)
-   (album_name
-      "Mercury - Act 1")
-   (album_track_number 10))
+;   (album_name
+;      "Mercury - Act 1")
+;   (album_track_number 10))
 (girlsjustwanttohavefun
    (name
       "Girls Just Want to Have Fun"))
@@ -19845,13 +19288,12 @@
       "Reelin' in the Years"))
 (rockthistown
 ;   (alternate_path TRUE)
-   (artist
-      "Stray Cats")
+;   (artist
+;      "Stray Cats")
    (genre rockabilly)
-   (album_name
-      "Stray Cats")
-   (album_track_number 6)
-   (year_released 1981))
+;   (album_track_number 6)
+;   (year_released 1981)
+)
 (shotinthedark
    (name
       "Shot in the Dark"))
@@ -19922,11 +19364,11 @@
       "Falling in Reverse")
    (album_name
       "Voices in My Head"))
-(whenwewereyoung
+;(whenwewereyoung
 ;   (alternate_path TRUE)
-   (album_name
-      "the classic symptoms of a broken spirit")
-   (album_track_number 6))
+;   (album_name
+;      "the classic symptoms of a broken spirit")
+;   (album_track_number 6))
 (wrongsideofheaven
    (name
       "Wrong Side of Heaven"))
@@ -20649,7 +20091,6 @@
    (song_tonality 1))
 (mybestfriendsgirl
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -20658,18 +20099,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -20689,7 +20118,6 @@
    (version 30))
 (minority
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -20698,18 +20126,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3))
-            (bass 4)
-            (guitar
-               (5 6))
-            (vocals
-               (7 8))
-            (keys
-               (9 10))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -20727,7 +20143,6 @@
    (version 30))
 (wakemeup
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2))
@@ -20736,18 +20151,6 @@
                (4 5))
             (vocals 6)
             (keys 7)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2))
-            (bass 3)
-            (guitar
-               (4 5))
-            (vocals
-               (6 7))
-            (keys
-               (8 9))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -20786,7 +20189,6 @@
    (version 30))
 (dig
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -20797,18 +20199,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -20826,7 +20216,6 @@
    (version 30))
 (dreamingofyou
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -20837,18 +20226,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -20866,7 +20243,6 @@
    (version 30))
 (freefallin
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -20877,18 +20253,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -20934,7 +20298,6 @@
    (version 30))
 (kungfufighting
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -20946,19 +20309,6 @@
                (6 7))
             (keys
                (8 9))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass
-               (5 6))
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -20976,7 +20326,6 @@
    (version 30))
 (letsdance
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -20987,18 +20336,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -21016,7 +20353,6 @@
    (version 30))
 (ruby
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -21027,18 +20363,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -21056,7 +20380,6 @@
    (version 30))
 (sowhat
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -21067,18 +20390,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -21096,7 +20407,6 @@
    (version 30))
 (summerof69
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -21107,18 +20417,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -21136,7 +20434,6 @@
    (version 30))
 (swingswing
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -21147,18 +20444,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -21176,7 +20461,6 @@
    (version 30))
 (thefinalcountdown
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -21187,18 +20471,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -21216,7 +20488,6 @@
    (version 30))
 (thepassenger
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -21227,18 +20498,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -21256,7 +20515,6 @@
    (version 30))
 (danicalifornia
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -21267,18 +20525,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -21298,7 +20544,6 @@
       "TheSheepQueen"))
 (detroitrockcity
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -21309,18 +20554,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2))
-            (bass 3)
-            (guitar
-               (4 5))
-            (vocals
-               (6 7))
-            (keys
-               (8 9))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -21340,7 +20573,6 @@
       "TheSheepQueen"))
 (foreplaylongtime
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -21351,18 +20583,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -21392,7 +20612,6 @@
       "mazegeek"))
 (suffragettecity
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -21403,18 +20622,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2))
-            (bass 3)
-            (guitar
-               (4 5))
-            (vocals
-               (6 7))
-            (keys
-               (8 9))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -21434,7 +20641,6 @@
       "TheSheepQueen"))
 (thehandthatfeeds
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -21445,20 +20651,7 @@
             (vocals
                (6 7))
             (keys
-               (8 9))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass
-               (6 7))
-            (guitar
-               (8 9))
-            (vocals
-               (10 11))
-            (keys
-               (12 13)))))
-   #endif
+               (8 9)))))
    (rank
       (drum 250)
       (guitar 170)
@@ -21509,7 +20702,6 @@
       "mazegeek"))
 (bodhisattva
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -21519,19 +20711,6 @@
             (vocals 5)
             (keys
                (6 7))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2))
-            (bass
-               (3))
-            (guitar
-               (4 5))
-            (vocals
-               (6 7))
-            (keys
-               (8 9))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -21549,7 +20728,6 @@
    (version 30))
 (floaton
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -21560,19 +20738,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3))
-            (bass
-               (4))
-            (guitar
-               (5 6))
-            (vocals
-               (7 8))
-            (keys
-               (9 10))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -21590,7 +20755,6 @@
    (version 30))
 (getclean
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -21601,19 +20765,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass
-               (6))
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -21631,7 +20782,6 @@
    (version 30))
 (goyourownway
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -21642,19 +20792,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass
-               (6))
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -21672,7 +20809,6 @@
    (version 30))
 (lazyeye
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -21682,19 +20818,6 @@
             (vocals 5)
             (keys
                (6 7))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3))
-            (bass
-               (4 5))
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -21712,7 +20835,6 @@
    (version 30))
 (shacklersrevenge
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -21723,19 +20845,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass
-               (6 7))
-            (guitar
-               (8 9))
-            (vocals
-               (10 11))
-            (keys
-               (12 13))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -21753,7 +20862,6 @@
    (version 30))
 (wheredyougo
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -21764,19 +20872,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2))
-            (bass
-               (3 4))
-            (guitar
-               (5 6))
-            (vocals
-               (7 8))
-            (keys
-               (9 10))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -21795,7 +20890,6 @@
    (year_recorded 2008))
 (burnyoudown
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2))
@@ -21804,19 +20898,6 @@
                (4 5))
             (vocals 6)
             (keys 7)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2))
-            (bass
-               (3 4))
-            (guitar
-               (5 6))
-            (vocals
-               (7 8))
-            (keys
-               (9 10))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -21834,7 +20915,6 @@
    (version 30))
 (imgoneimgoing
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -21843,18 +20923,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -21872,7 +20940,6 @@
    (version 30))
 (iv
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -21881,18 +20948,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -21910,7 +20965,6 @@
    (version 30))
 (young
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -21919,18 +20973,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -21948,7 +20990,6 @@
    (version 30))
 (3sand7s
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -21957,18 +20998,6 @@
                (3 4))
             (vocals 5)
             (keys 6)))
-      #else
-      (tracks
-         ((drum
-               (0 1))
-            (bass 2)
-            (guitar
-               (3 4))
-            (vocals
-               (5 6))
-            (keys
-               (7 8))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -21986,7 +21015,6 @@
    (version 30))
 (attack
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -21995,18 +21023,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3))
-            (bass 4)
-            (guitar
-               (5 6))
-            (vocals
-               (7 8))
-            (keys
-               (9 10))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -22024,7 +21040,6 @@
    (version 30))
 (dirtylittlesecret
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -22033,18 +21048,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3))
-            (bass 4)
-            (guitar
-               (5 6))
-            (vocals
-               (7 8))
-            (keys
-               (9 10))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -22062,7 +21065,6 @@
    (version 30))
 (jokerandthe
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -22071,19 +21073,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3))
-            (bass
-               (4 5))
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -22103,7 +21092,6 @@
    (version 30))
 (movealong
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -22112,18 +21100,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -22141,7 +21117,6 @@
    (version 30))
 (bathwater
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -22150,18 +21125,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -22179,7 +21142,6 @@
    (version 30))
 (cameraeye
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -22188,18 +21150,6 @@
                (3 4))
             (vocals 5)
             (keys 6)))
-      #else
-      (tracks
-         ((drum
-               (0 1))
-            (bass 2)
-            (guitar
-               (3 4))
-            (vocals
-               (5 6))
-            (keys
-               (7 8))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -22219,7 +21169,6 @@
    (version 30))
 (closertotheheart
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -22229,19 +21178,6 @@
             (vocals 5)
             (keys
                (6 7))))
-      #else
-      (tracks
-         ((drum
-               (0 1))
-            (bass
-               (2 3))
-            (guitar
-               (4 5))
-            (vocals
-               (6 7))
-            (keys
-               (8 9))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -22259,7 +21195,6 @@
    (version 30))
 (criticalacclaim
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -22269,19 +21204,6 @@
             (vocals 5)
             (keys
                (6 7))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3))
-            (bass
-               (4 5))
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -22299,7 +21221,6 @@
    (version 30))
 (dammit
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -22308,18 +21229,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -22337,7 +21246,6 @@
    (version 30))
 (devour
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -22346,18 +21254,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -22375,7 +21271,6 @@
    (version 30))
 (dontlookbackinanger
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -22384,18 +21279,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -22414,7 +21297,6 @@
    (version 30))
 (dontspeak
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -22423,18 +21305,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -22452,7 +21322,6 @@
    (version 30))
 (dreamin
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -22461,18 +21330,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -22490,7 +21347,6 @@
    (version 30))
 (elscorcho
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -22499,17 +21355,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals 8)
-            (keys
-               (9 10))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -22527,7 +21372,6 @@
    (version 30))
 (exgirlfriend
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -22536,18 +21380,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -22565,7 +21397,6 @@
    (version 30))
 (fever
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -22574,19 +21405,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass
-               (6))
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -22604,7 +21422,6 @@
    (version 30))
 (girlsonfilm
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -22613,18 +21430,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -22642,7 +21447,6 @@
    (version 30))
 (goodtimesroll
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -22651,18 +21455,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -22680,7 +21472,6 @@
    (version 30))
 (insidethefire
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -22689,18 +21480,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -22718,7 +21497,6 @@
    (version 30))
 (ithurts
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -22727,18 +21505,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -22756,7 +21522,6 @@
    (version 30))
 (itsmylife
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -22765,18 +21530,6 @@
                (3 4))
             (vocals 5)
             (keys 6)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -22794,7 +21547,6 @@
    (version 30))
 (justagirl
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -22803,18 +21555,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -22832,7 +21572,6 @@
    (version 30))
 (marchofthepigs
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -22841,19 +21580,6 @@
                (3 4))
             (vocals 5)
             (keys 6)))
-      #else
-      (tracks
-         ((drum
-               (0 1))
-            (bass
-               (2 3))
-            (guitar
-               (4 5))
-            (vocals
-               (6 7))
-            (keys
-               (8 9))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -22871,7 +21597,6 @@
    (version 30))
 (monsoon
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -22880,18 +21605,6 @@
                (3 4))
             (vocals 5)
             (keys 6)))
-      #else
-      (tracks
-         ((drum
-               (0 1))
-            (bass 2)
-            (guitar
-               (3 4))
-            (vocals
-               (5 6))
-            (keys
-               (7 8))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -22909,7 +21622,6 @@
    (version 30))
 (perfectdrug
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -22918,19 +21630,6 @@
                (3 4))
             (vocals 5)
             (keys 6)))
-      #else
-      (tracks
-         ((drum
-               (0 1))
-            (bass
-               (2 3))
-            (guitar
-               (4 5))
-            (vocals
-               (6 7))
-            (keys
-               (8 9))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -22948,7 +21647,6 @@
    (version 30))
 (promisedland
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -22957,18 +21655,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -22986,7 +21672,6 @@
    (version 30))
 (realgoodlooking
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -22996,18 +21681,6 @@
             (vocals 5)
             (keys
                (6 7))))
-      #else
-      (tracks
-         ((drum
-               (0 1))
-            (bass 2)
-            (guitar
-               (3 4))
-            (vocals
-               (5 6))
-            (keys
-               (7 8))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -23025,7 +21698,6 @@
    (version 30))
 (running
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -23034,19 +21706,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3))
-            (bass
-               (4 5))
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -23064,7 +21723,6 @@
    (version 30))
 (sheisahandsomewoman
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -23073,19 +21731,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass
-               (5 6))
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -23100,11 +21745,9 @@
       (band 155)
       (keys 240)
       (real_keys 240))
-   (version 30)
    (version 30))
 (shoottherunner
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -23113,18 +21756,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -23139,11 +21770,9 @@
       (keys 153)
       (real_keys 153)
       (band 165))
-   (version 30)
    (version 30))
 (sliceofyourpie
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -23152,18 +21781,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -23182,7 +21799,6 @@
    (encoding latin1))
 (smilelikeyoumeanit
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -23191,19 +21807,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass
-               (6 7))
-            (guitar
-               (8 9))
-            (vocals
-               (10 11))
-            (keys
-               (12 13))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -23221,7 +21824,6 @@
    (version 30))
 (smokin
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -23230,18 +21832,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -23259,7 +21849,6 @@
    (version 30))
 (spaceman
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -23268,19 +21857,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass
-               (6 7))
-            (guitar
-               (8 9))
-            (vocals
-               (10 11))
-            (keys
-               (12 13))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -23298,7 +21874,6 @@
    (version 30))
 (spiderwebs
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -23307,18 +21882,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -23336,7 +21899,6 @@
    (version 30))
 (stillalive
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -23345,18 +21907,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3))
-            (bass 4)
-            (guitar
-               (5 6))
-            (vocals
-               (7 8))
-            (keys
-               (9 10))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -23374,7 +21924,6 @@
    (version 30))
 (sundaymorning
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -23383,18 +21932,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -23413,7 +21950,6 @@
    (year_recorded 2003))
 (swamped
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -23422,18 +21958,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -23451,7 +21975,6 @@
    (version 30))
 (theysay
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -23460,18 +21983,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -23489,7 +22000,6 @@
    (version 30))
 (thisaintascene
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -23498,18 +22008,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -23527,7 +22025,6 @@
    (version 30))
 (truthhitseverybody
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -23536,18 +22033,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -23565,7 +22050,6 @@
    (version 30))
 (vitalsigns
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -23574,19 +22058,6 @@
                (3 4))
             (vocals 5)
             (keys 6)))
-      #else
-      (tracks
-         ((drum
-               (0 1))
-            (bass
-               (2 3))
-            (guitar
-               (4 5))
-            (vocals
-               (6 7))
-            (keys
-               (8 9))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -23604,7 +22075,6 @@
    (version 30))
 (wecarealot
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -23613,19 +22083,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass
-               (6 7))
-            (guitar
-               (8 9))
-            (vocals
-               (10 11))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -23643,7 +22100,6 @@
    (version 30))
 (wellthoughtouttwinkles
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -23652,18 +22108,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3))
-            (bass 4)
-            (guitar
-               (5 6))
-            (vocals
-               (7 8))
-            (keys
-               (9 10))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -23681,7 +22125,6 @@
    (version 30))
 (whydoyouloveme
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -23690,18 +22133,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -23719,7 +22150,6 @@
    (version 30))
 (witchhunt
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -23728,18 +22158,6 @@
                (3 4))
             (vocals 5)
             (keys 6)))
-      #else
-      (tracks
-         ((drum
-               (0 1))
-            (bass 2)
-            (guitar
-               (3 4))
-            (vocals
-               (5 6))
-            (keys
-               (7 8))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -23757,7 +22175,6 @@
    (version 30))
 (yourealligot
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -23766,18 +22183,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -23795,7 +22200,6 @@
    (version 30))
 (21guns
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -23804,18 +22208,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -23833,7 +22225,6 @@
    (version 30))
 (abc
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -23844,19 +22235,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1))
-            (bass
-               (2 3))
-            (guitar
-               (4 5))
-            (vocals
-               (6 7))
-            (keys
-               (8 9))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -23874,7 +22252,6 @@
    (version 30))
 (alotlikeme
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2))
@@ -23883,19 +22260,6 @@
                (4 5))
             (vocals 6)
             (keys 7)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2))
-            (bass
-               (3 4))
-            (guitar
-               (5 6))
-            (vocals
-               (7 8))
-            (keys
-               (9 10))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -23913,7 +22277,6 @@
    (version 30))
 (anotheronebitesthedust
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -23922,18 +22285,6 @@
                (3 4))
             (vocals 5)
             (keys 6)))
-      #else
-      (tracks
-         ((drum
-               (0 1))
-            (bass 2)
-            (guitar
-               (3 4))
-            (vocals
-               (5 6))
-            (keys
-               (7 8))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -23951,7 +22302,6 @@
    (version 30))
 (beautifulthieves
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2))
@@ -23960,18 +22310,6 @@
                (4 5))
             (vocals 6)
             (keys 7)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2))
-            (bass 3)
-            (guitar
-               (4 5))
-            (vocals
-               (6 7))
-            (keys
-               (8 9))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -23989,7 +22327,6 @@
    (version 30))
 (beverlyhills
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -23998,19 +22335,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass
-               (6 7))
-            (guitar
-               (8 9))
-            (vocals
-               (10 11))
-            (keys
-               (12 13))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -24029,7 +22353,6 @@
    (version 30))
 (callmewhenyouresober
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -24038,18 +22361,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -24067,7 +22378,6 @@
    (version 30))
 (clinteastwood
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -24076,19 +22386,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass
-               (6 7))
-            (guitar
-               (8 9))
-            (vocals
-               (10 11))
-            (keys
-               (12 13))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -24106,7 +22403,6 @@
    (version 30))
 (clubfoot
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2))
@@ -24116,19 +22412,6 @@
             (vocals 6)
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2))
-            (bass
-               (3 4))
-            (guitar
-               (5 6))
-            (vocals
-               (7 8))
-            (keys
-               (9 10))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -24146,7 +22429,6 @@
    (version 30))
 (down
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2))
@@ -24155,19 +22437,6 @@
                (4 5))
             (vocals 6)
             (keys 7)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2))
-            (bass
-               (3 4))
-            (guitar
-               (5 6))
-            (vocals
-               (7 8))
-            (keys
-               (9 10))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -24185,7 +22454,6 @@
    (version 30))
 (doyouwantto
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -24194,18 +22462,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -24223,7 +22479,6 @@
    (version 30))
 (dragula
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -24232,18 +22487,6 @@
                (3 4))
             (vocals 5)
             (keys 6)))
-      #else
-      (tracks
-         ((drum
-               (0 1))
-            (bass 2)
-            (guitar
-               (3 4))
-            (vocals
-               (5 6))
-            (keys
-               (7 8))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -24261,7 +22504,6 @@
    (version 30))
 (duality
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -24270,18 +22512,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3))
-            (bass 4)
-            (guitar
-               (5 6))
-            (vocals
-               (7 8))
-            (keys
-               (9 10))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -24299,7 +22529,6 @@
    (version 30))
 (feelslikethefirsttime
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -24308,18 +22537,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -24338,7 +22555,6 @@
    (version 30))
 (futures
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -24347,18 +22563,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -24376,7 +22580,6 @@
    (version 30))
 (getready2rokk
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -24385,19 +22588,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass
-               (6 7))
-            (guitar
-               (8 9))
-            (vocals
-               (10 11))
-            (keys
-               (12 13))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -24415,7 +22605,6 @@
    (version 30))
 (getup
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -24424,18 +22613,6 @@
                (3 4))
             (vocals 5)
             (keys 6)))
-      #else
-      (tracks
-         ((drum
-               (0 1))
-            (bass 2)
-            (guitar
-               (3 4))
-            (vocals
-               (5 6))
-            (keys
-               (7 8))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -24453,7 +22630,6 @@
    (version 30))
 (henrietta
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -24462,18 +22638,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -24491,7 +22655,6 @@
    (version 30))
 (imshippingup
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -24500,18 +22663,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -24529,7 +22680,6 @@
    (version 30))
 (jeremy
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -24538,19 +22688,6 @@
                (3 4))
             (vocals 5)
             (keys 6)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass
-               (5 6))
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -24568,7 +22705,6 @@
    (version 30))
 (kingsandqueens
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2))
@@ -24577,18 +22713,6 @@
                (4 5))
             (vocals 6)
             (keys 7)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2))
-            (bass 3)
-            (guitar
-               (4 5))
-            (vocals
-               (6 7))
-            (keys
-               (8 9))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -24606,7 +22730,6 @@
    (version 30))
 (lesstalkmorerokk
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -24615,19 +22738,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass
-               (5 6))
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -24645,7 +22755,6 @@
    (version 30))
 (missmurder
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -24654,18 +22763,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -24683,7 +22780,6 @@
    (version 30))
 (monymony
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -24692,18 +22788,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -24722,7 +22806,6 @@
    (version 30))
 (nakedeye
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -24731,18 +22814,6 @@
                (3 4))
             (vocals 5)
             (keys 6)))
-      #else
-      (tracks
-         ((drum
-               (0 1))
-            (bass 2)
-            (guitar
-               (3 4))
-            (vocals
-               (5 6))
-            (keys
-               (7 8))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -24760,7 +22831,6 @@
    (version 30))
 (oceanavenue
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -24769,18 +22839,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3))
-            (bass 4)
-            (guitar
-               (5 6))
-            (vocals
-               (7 8))
-            (keys
-               (9 10))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -24798,7 +22856,6 @@
    (version 30))
 (onceinalifetime
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2))
@@ -24808,18 +22865,6 @@
             (vocals 6)
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2))
-            (bass 3)
-            (guitar
-               (4 5))
-            (vocals
-               (6 7))
-            (keys
-               (8 9))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -24838,7 +22883,6 @@
    (version 30))
 (ourlipsaresealed
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -24847,18 +22891,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -24877,7 +22909,6 @@
    (version 30))
 (outhereallnight
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -24886,18 +22917,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -24915,7 +22934,6 @@
    (version 30))
 (pickupthepieces
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -24924,18 +22942,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -24953,7 +22959,6 @@
    (version 30))
 (poison
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -24963,18 +22968,6 @@
             (vocals 5)
             (keys
                (6 7))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -24992,7 +22985,6 @@
    (version 30))
 (porkandbeans
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -25001,18 +22993,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -25030,7 +23010,6 @@
    (version 30))
 (radioradio
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -25039,18 +23018,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3))
-            (bass 4)
-            (guitar
-               (5 6))
-            (vocals
-               (7 8))
-            (keys
-               (9 10))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -25068,7 +23035,6 @@
    (version 30))
 (rebelyell
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -25077,18 +23043,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -25106,7 +23060,6 @@
    (version 30))
 (rehash
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -25115,19 +23068,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass
-               (6 7))
-            (guitar
-               (8 9))
-            (vocals
-               (10 11))
-            (keys
-               (12 13))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -25145,7 +23085,6 @@
    (version 30))
 (renegade
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -25154,18 +23093,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -25184,7 +23111,6 @@
    (year_recorded 2009))
 (runnindownadream
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -25193,18 +23119,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -25222,7 +23136,6 @@
    (version 30))
 (sciencegeniusgirl
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -25231,19 +23144,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass
-               (6 7))
-            (guitar
-               (8 9))
-            (vocals
-               (10 11))
-            (keys
-               (12 13))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -25261,7 +23161,6 @@
    (version 30))
 (shesagenius
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -25270,18 +23169,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -25299,7 +23186,6 @@
    (version 30))
 (smashitup
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -25309,18 +23195,6 @@
             (vocals 5)
             (keys
                (6 7))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -25339,7 +23213,6 @@
    (version 30))
 (steadyasshegoes
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -25348,18 +23221,6 @@
                (3 4))
             (vocals 5)
             (keys 6)))
-      #else
-      (tracks
-         ((drum
-               (0 1))
-            (bass 2)
-            (guitar
-               (3 4))
-            (vocals
-               (5 6))
-            (keys
-               (7 8))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -25377,7 +23238,6 @@
    (version 30))
 (stricken
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -25386,18 +23246,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -25415,7 +23263,6 @@
    (version 30))
 (takeitontherun
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -25424,18 +23271,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -25453,7 +23288,6 @@
    (version 30))
 (takemeout
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -25462,18 +23296,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -25491,7 +23313,6 @@
    (version 30))
 (theclairvoyant
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -25500,18 +23321,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -25529,7 +23338,6 @@
    (version 30))
 (thefixer
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -25538,18 +23346,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -25567,7 +23363,6 @@
    (version 30))
 (theresnootherway
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -25576,18 +23371,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -25605,7 +23388,6 @@
    (version 30))
 (therockshow
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -25614,19 +23396,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass
-               (6 7))
-            (guitar
-               (8 9))
-            (vocals
-               (10 11))
-            (keys
-               (12 13))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -25644,7 +23413,6 @@
    (version 30))
 (timebomb2
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -25653,18 +23421,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -25682,7 +23438,6 @@
    (version 30))
 (typical
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -25691,18 +23446,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -25720,7 +23463,6 @@
    (version 30))
 (walklikeanegyptian
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -25729,18 +23471,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -25758,7 +23488,6 @@
    (version 30))
 (wheels
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -25767,18 +23496,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -25796,7 +23513,6 @@
    (version 30))
 (wolflikeme
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -25805,18 +23521,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -25834,7 +23538,6 @@
    (version 30))
 (wordforward
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -25843,18 +23546,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -25872,7 +23563,6 @@
    (version 30))
 (adamssong
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -25881,18 +23571,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -25910,7 +23588,6 @@
    (version 30))
 (adioslepido
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -25920,19 +23597,6 @@
             (vocals 5)
             (keys
                (6 7))))
-      #else
-      (tracks
-         ((drum
-               (0 1))
-            (bass
-               (2 3))
-            (guitar
-               (4 5))
-            (vocals
-               (6 7))
-            (keys
-               (8 9))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -25951,7 +23615,6 @@
    (encoding latin1))
 (agirllikeyou
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -25960,18 +23623,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -25989,7 +23640,6 @@
    (version 30))
 (alivepod
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -25998,18 +23648,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -26027,7 +23665,6 @@
    (version 30))
 (allstar
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -26036,19 +23673,6 @@
                (3 4))
             (vocals 5)
             (keys 6)))
-      #else
-      (tracks
-         ((drum
-               (0 1))
-            (bass
-               (2 3))
-            (guitar
-               (4 5))
-            (vocals
-               (6 7))
-            (keys
-               (8 9))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -26066,7 +23690,6 @@
    (version 30))
 (animal
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -26075,18 +23698,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -26104,7 +23715,6 @@
    (version 30))
 (badromance
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -26114,19 +23724,6 @@
                (4 5))
             (vocals 6)
             (keys 7)))
-      #else
-      (tracks
-         ((drum
-               (0 1))
-            (bass
-               (2 3))
-            (guitar
-               (4 5))
-            (vocals
-               (6 7))
-            (keys
-               (8 9))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -26144,7 +23741,6 @@
    (version 30))
 (borntoquit
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -26153,18 +23749,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -26182,7 +23766,6 @@
    (version 30))
 (childrenoftherevolution
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2))
@@ -26192,17 +23775,6 @@
             (vocals 6)
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3))
-            (bass 4)
-            (guitar
-               (5 6))
-            (vocals 7)
-            (keys
-               (8 9))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -26221,7 +23793,6 @@
    (year_recorded 1994))
 (digginmedown
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -26230,18 +23801,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -26259,7 +23818,6 @@
    (version 30))
 (driver8
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -26270,18 +23828,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3))
-            (bass 4)
-            (guitar
-               (5 6))
-            (vocals
-               (7 8))
-            (keys
-               (9 10))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -26299,7 +23845,6 @@
    (version 30))
 (feelgooddrag
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -26309,18 +23854,6 @@
             (vocals 5)
             (keys
                (6 7))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -26338,7 +23871,6 @@
    (version 30))
 (fijatebien
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -26348,19 +23880,6 @@
             (vocals 5)
             (keys
                (6 7))))
-      #else
-      (tracks
-         ((drum
-               (0 1))
-            (bass
-               (2 3))
-            (guitar
-               (4 5))
-            (vocals
-               (6 7))
-            (keys
-               (8 9))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -26379,7 +23898,6 @@
    (encoding latin1))
 (fireitup
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -26388,18 +23906,6 @@
                (3 4))
             (vocals 5)
             (keys 6)))
-      #else
-      (tracks
-         ((drum
-               (0 1))
-            (bass 2)
-            (guitar
-               (3 4))
-            (vocals
-               (5 6))
-            (keys
-               (7 8))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -26418,7 +23924,6 @@
    (version 30))
 (firstdate
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -26427,18 +23932,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -26456,7 +23949,6 @@
    (version 30))
 (floods
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2))
@@ -26465,18 +23957,6 @@
                (4 5))
             (vocals 6)
             (keys 7)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2))
-            (bass 3)
-            (guitar
-               (4 5))
-            (vocals
-               (6 7))
-            (keys
-               (8 9))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -26495,7 +23975,6 @@
    (version 30))
 (gotasdeaguadulce
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -26504,18 +23983,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -26534,7 +24001,6 @@
    (encoding latin1))
 (hesarocker
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -26543,18 +24009,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3))
-            (bass 4)
-            (guitar
-               (5 6))
-            (vocals
-               (7 8))
-            (keys
-               (9 10))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -26572,7 +24026,6 @@
    (version 30))
 (idontwannastop
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -26581,19 +24034,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass
-               (6 7))
-            (guitar
-               (8 9))
-            (vocals
-               (10 11))
-            (keys
-               (12 13))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -26611,7 +24051,6 @@
    (version 30))
 (igotmine
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -26620,18 +24059,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3))
-            (bass 4)
-            (guitar
-               (5 6))
-            (vocals
-               (7 8))
-            (keys
-               (9 10))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -26649,7 +24076,6 @@
    (version 30))
 (ihearditthrough
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -26657,18 +24083,6 @@
             (guitar 3)
             (vocals 4)
             (keys 5)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -26687,7 +24101,6 @@
    (version 30))
 (imissyou
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2))
@@ -26696,18 +24109,6 @@
                (4 5))
             (vocals 6)
             (keys 7)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2))
-            (bass 3)
-            (guitar
-               (4 5))
-            (vocals
-               (6 7))
-            (keys
-               (8 9))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -26725,7 +24126,6 @@
    (version 30))
 (irishbloodenglishheart
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -26736,18 +24136,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -26765,7 +24153,6 @@
    (version 30))
 (itstheendoftheworld
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -26776,18 +24163,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -26805,7 +24180,6 @@
    (version 30))
 (jesusfreak
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -26814,18 +24188,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -26844,7 +24206,6 @@
    (version 30))
 (justdance
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -26854,19 +24215,6 @@
                (4 5))
             (vocals 6)
             (keys 7)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass
-               (6 7))
-            (guitar
-               (8 9))
-            (vocals
-               (10 11))
-            (keys
-               (12 13))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -26884,7 +24232,6 @@
    (version 30))
 (lacamisanegra
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -26894,19 +24241,6 @@
             (vocals 5)
             (keys
                (6 7))))
-      #else
-      (tracks
-         ((drum
-               (0 1))
-            (bass
-               (2 3))
-            (guitar
-               (4 5))
-            (vocals
-               (6 7))
-            (keys
-               (8 9))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -26925,7 +24259,6 @@
    (encoding latin1))
 (letmehearyouscream
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -26934,18 +24267,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -26990,7 +24311,6 @@
    (version 30))
 (lookingoutmybackdoor
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2))
@@ -26999,18 +24319,6 @@
                (4 5))
             (vocals 6)
             (keys 7)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2))
-            (bass 3)
-            (guitar
-               (4 5))
-            (vocals
-               (6 7))
-            (keys
-               (8 9))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -27028,7 +24336,6 @@
    (version 30))
 (loveaddict
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -27037,19 +24344,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass
-               (5 6))
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -27067,7 +24361,6 @@
    (version 30))
 (lovemyway
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2))
@@ -27076,18 +24369,6 @@
                (4 5))
             (vocals 6)
             (keys 7)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2))
-            (bass 3)
-            (guitar
-               (4 5))
-            (vocals
-               (6 7))
-            (keys
-               (8 9))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -27105,7 +24386,6 @@
    (version 30))
 (malagente
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -27115,19 +24395,6 @@
             (vocals 5)
             (keys
                (6 7))))
-      #else
-      (tracks
-         ((drum
-               (0 1))
-            (bass
-               (2 3))
-            (guitar
-               (4 5))
-            (vocals
-               (6 7))
-            (keys
-               (8 9))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -27146,7 +24413,6 @@
    (encoding latin1))
 (meaningoflife
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -27155,18 +24421,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -27184,7 +24438,6 @@
    (version 30))
 (minerva
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -27194,18 +24447,6 @@
             (vocals 5)
             (keys
                (6 7))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -27223,7 +24464,6 @@
    (version 30))
 (monsterskillet
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -27232,18 +24472,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -27261,7 +24489,6 @@
    (version 30))
 (mybesttheory
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -27272,18 +24499,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -27302,7 +24517,6 @@
    (encoding latin1))
 (nightmare2
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -27312,18 +24526,6 @@
             (vocals 5)
             (keys
                (6 7))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -27341,7 +24543,6 @@
    (version 30))
 (nineteeneightythree
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -27350,18 +24551,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -27379,7 +24568,6 @@
    (version 30))
 (nomoretears
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -27388,19 +24576,6 @@
                (3 4))
             (vocals 5)
             (keys 6)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass
-               (6 7))
-            (guitar
-               (8 9))
-            (vocals
-               (10 11))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -27418,7 +24593,6 @@
    (version 30))
 (panicswitch
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -27427,19 +24601,6 @@
                (3 4))
             (vocals 5)
             (keys 6)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass
-               (5 6))
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -27457,7 +24618,6 @@
    (version 30))
 (pokerface
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -27467,19 +24627,6 @@
                (4 5))
             (vocals 6)
             (keys 7)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass
-               (5 6))
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -27497,7 +24644,6 @@
    (version 30))
 (pokerfacecartman
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -27507,19 +24653,6 @@
                (4 5))
             (vocals 6)
             (keys 7)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass
-               (5 6))
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -27537,7 +24670,6 @@
    (version 30))
 (ridininmychevy
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -27548,18 +24680,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -27577,7 +24697,6 @@
    (version 30))
 (snoopsupsideyahead
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -27588,19 +24707,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3))
-            (bass
-               (4 5))
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -27618,7 +24724,6 @@
    (version 30))
 (spanishcastlemagic
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2))
@@ -27627,18 +24732,6 @@
                (4 5))
             (vocals 6)
             (keys 7)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2))
-            (bass 3)
-            (guitar
-               (4 5))
-            (vocals
-               (6 7))
-            (keys
-               (8 9))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -27656,7 +24749,6 @@
    (version 30))
 (stand
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -27667,18 +24759,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -27696,7 +24776,6 @@
    (version 30))
 (swing
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -27705,18 +24784,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -27734,7 +24801,6 @@
    (version 30))
 (thashiznit
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -27745,18 +24811,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -27774,7 +24828,6 @@
    (version 30))
 (thatsthahomie
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -27784,19 +24837,6 @@
             (vocals
                (5 6))
             (keys 7)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass
-               (6 7))
-            (guitar
-               (8 9))
-            (vocals
-               (10 11))
-            (keys
-               (12 13))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -27814,7 +24854,6 @@
    (version 30))
 (theblackparade
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -27824,18 +24863,6 @@
             (vocals 5)
             (keys
                (6 7))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -27855,7 +24882,6 @@
    (version 30))
 (thedopeshow
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -27864,19 +24890,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass
-               (5 6))
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -27894,7 +24907,6 @@
    (version 30))
 (touchofgrey
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -27903,18 +24915,6 @@
                (3 4))
             (vocals 5)
             (keys 6)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -27932,7 +24932,6 @@
    (version 30))
 (tragickingdom
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -27942,18 +24941,6 @@
             (vocals 5)
             (keys
                (6 7))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -27971,7 +24958,6 @@
    (version 30))
 (voices
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -27980,18 +24966,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -28009,7 +24983,6 @@
    (version 30))
 (walkingonthemoon
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -28018,18 +24991,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -28047,7 +25008,6 @@
    (version 30))
 (whatwasithinkin
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -28057,18 +25017,6 @@
             (vocals 5)
             (keys
                (6 7))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -28086,7 +25034,6 @@
    (version 30))
 (whoamiwhatsmyname
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -28097,19 +25044,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass
-               (5 6))
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -28127,7 +25061,6 @@
    (version 30))
 (yerbatero
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2))
@@ -28137,19 +25070,6 @@
             (vocals 6)
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2))
-            (bass
-               (3 4))
-            (guitar
-               (5 6))
-            (vocals
-               (7 8))
-            (keys
-               (9 10))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -28168,7 +25088,6 @@
    (encoding utf8))
 (capricididiablo
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -28176,16 +25095,6 @@
             (guitar
                (5 6))
             (keys 7)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (keys
-               (9 10))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -28203,7 +25112,6 @@
    (version 30))
 (runthroughthejungle
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2))
@@ -28212,17 +25120,6 @@
                (4 5))
             (vocals 6)
             (keys 7)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2))
-            (bass 3)
-            (guitar
-               (4 5))
-            (vocals 6)
-            (keys
-               (7 8))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -28240,7 +25137,6 @@
    (version 30))
 (travellingband
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -28249,18 +25145,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3))
-            (bass 4)
-            (guitar
-               (5 6))
-            (vocals
-               (7 8))
-            (keys
-               (9 10))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -28278,7 +25162,6 @@
    (version 30))
 (hongkonggarden
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -28287,18 +25170,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -31349,7 +28220,6 @@
    (upgrade_version 1)
    (extra_authoring disc_update)
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2))
@@ -31358,19 +28228,6 @@
                (4 5))
             (vocals 6)
             (keys 7)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2))
-            (bass
-               (3 4))
-            (guitar
-               (5 6))
-            (vocals
-               (7 8))
-            (keys
-               (9 10))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -31398,7 +28255,6 @@
    (upgrade_version 1)
    (extra_authoring disc_update)
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -31409,18 +28265,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -31449,7 +28293,6 @@
    (upgrade_version 1)
    (extra_authoring disc_update)
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -31458,18 +28301,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -31494,7 +28325,6 @@
 (panicattack
    (upgrade_version 1)
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -31502,20 +28332,7 @@
             (guitar
                (3 4))
             (vocals 5)
-            (keys 6)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass
-               (5))
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif)
+            (keys 6))))
    (rank
       (drum 550)
       (guitar 491)
@@ -31538,7 +28355,6 @@
 (pda
    (upgrade_version 1)
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -31547,20 +28363,7 @@
                (3 4))
             (vocals 5)
             (keys
-               (6 7))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3))
-            (bass
-               (4))
-            (guitar
-               (5 6))
-            (vocals
-               (7 8))
-            (keys
-               (9 10))))
-      #endif)
+               (6 7)))))
    (rank
       (drum 264)
       (guitar 250)
@@ -31582,7 +28385,6 @@
    (upgrade_version 1)
    (extra_authoring disc_update)
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -31593,19 +28395,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass
-               (6))
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -31633,7 +28422,6 @@
    (upgrade_version 1)
    (extra_authoring disc_update)
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -31642,18 +28430,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3))
-            (bass 4)
-            (guitar
-               (5 6))
-            (vocals
-               (7 8))
-            (keys
-               (9 10))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -31679,7 +28455,6 @@
    (upgrade_version 1)
    (extra_authoring disc_update)
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -31688,18 +28463,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -31725,7 +28488,6 @@
    (upgrade_version 1)
    (extra_authoring disc_update)
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -31735,18 +28497,6 @@
             (vocals 5)
             (keys
                (6 7))))
-      #else
-      (tracks
-         ((drum
-               (0 1))
-            (bass 2)
-            (guitar
-               (3 4))
-            (vocals
-               (5 6))
-            (keys
-               (7 8))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -31775,7 +28525,6 @@
    (upgrade_version 1)
    (extra_authoring disc_update)
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -31785,17 +28534,6 @@
             (vocals 5)
             (keys
                (6 7))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3))
-            (bass 4)
-            (guitar
-               (5 6))
-            (vocals 7)
-            (keys
-               (8 9))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -31823,7 +28561,6 @@
    (upgrade_version 1)
    (extra_authoring disc_update)
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -31832,18 +28569,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -31871,7 +28596,6 @@
    (upgrade_version 1)
    (extra_authoring disc_update)
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -31883,19 +28607,6 @@
                (8 9))
             (keys
                (6 7))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3))
-            (bass
-               (4 5))
-            (guitar
-               (6 7))
-            (vocals
-               (10 11))
-            (keys
-               (8 9))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -31925,7 +28636,6 @@
    (upgrade_version 1)
    (extra_authoring disc_update)
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -31934,18 +28644,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -31971,7 +28669,6 @@
    (upgrade_version 1)
    (extra_authoring disc_update)
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -31980,18 +28677,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -32017,7 +28702,6 @@
    (upgrade_version 1)
    (extra_authoring disc_update)
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2))
@@ -32026,18 +28710,6 @@
                (4 5))
             (vocals 6)
             (keys 7)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2))
-            (bass 3)
-            (guitar
-               (4 5))
-            (vocals
-               (6 7))
-            (keys
-               (8 9))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -32063,7 +28735,6 @@
    (upgrade_version 1)
    (extra_authoring disc_update)
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -32072,18 +28743,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -32111,7 +28770,6 @@
    (upgrade_version 1)
    (extra_authoring disc_update)
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -32122,18 +28780,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -32159,7 +28805,6 @@
    (upgrade_version 1)
    (extra_authoring disc_update)
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -32170,18 +28815,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -32209,7 +28842,6 @@
    (upgrade_version 1)
    (extra_authoring disc_update)
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -32220,19 +28852,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass
-               (6 7))
-            (guitar
-               (8 9))
-            (vocals
-               (10 11))
-            (keys
-               (12 13))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -32261,7 +28880,6 @@
    (upgrade_version 1)
    (extra_authoring disc_update)
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -32272,18 +28890,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -32314,7 +28920,6 @@
    (upgrade_version 1)
    (extra_authoring disc_update)
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -32323,18 +28928,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -32362,7 +28955,6 @@
    (upgrade_version 1)
    (extra_authoring disc_update)
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -32372,19 +28964,6 @@
             (vocals 5)
             (keys
                (6 7))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3))
-            (bass
-               (4 5))
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -32412,7 +28991,6 @@
    (upgrade_version 1)
    (extra_authoring disc_update)
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -32423,18 +29001,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -32462,7 +29028,6 @@
    (version 30))
 (feelgoodinc
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -32471,18 +29036,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -32502,7 +29055,6 @@
    (upgrade_version 1)
    (extra_authoring disc_update)
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -32513,18 +29065,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -32552,7 +29092,6 @@
    (upgrade_version 1)
    (extra_authoring disc_update)
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -32563,19 +29102,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2))
-            (bass
-               (3))
-            (guitar
-               (4 5))
-            (vocals
-               (6 7))
-            (keys
-               (8 9))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -32603,7 +29129,6 @@
    (upgrade_version 1)
    (extra_authoring disc_update)
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -32614,18 +29139,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -32655,7 +29168,6 @@
    (upgrade_version 1)
    (extra_authoring disc_update)
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -32665,18 +29177,6 @@
             (vocals 5)
             (keys
                (6 7))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -32702,7 +29202,6 @@
    (upgrade_version 1)
    (extra_authoring disc_update)
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -32711,18 +29210,6 @@
                (3 4))
             (vocals 5)
             (keys 6)))
-      #else
-      (tracks
-         ((drum
-               (0 1))
-            (bass 2)
-            (guitar
-               (3 4))
-            (vocals
-               (5 6))
-            (keys
-               (7 8))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -32750,7 +29237,6 @@
    (upgrade_version 1)
    (extra_authoring disc_update)
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -32759,18 +29245,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3))
-            (bass 4)
-            (guitar
-               (5 6))
-            (vocals
-               (7 8))
-            (keys
-               (9 10))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -32798,7 +29272,6 @@
    (upgrade_version 1)
    (extra_authoring disc_update)
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -32809,18 +29282,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -32849,7 +29310,6 @@
    (upgrade_version 1)
    (extra_authoring disc_update)
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -32860,18 +29320,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -32899,7 +29347,6 @@
    (upgrade_version 1)
    (extra_authoring disc_update)
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -32910,18 +29357,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -32949,7 +29384,6 @@
    (upgrade_version 1)
    (extra_authoring disc_update)
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -32958,18 +29392,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -32995,7 +29417,6 @@
    (upgrade_version 1)
    (extra_authoring disc_update)
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -33004,18 +29425,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -33080,7 +29489,6 @@
    (upgrade_version 1)
    (extra_authoring disc_update)
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -33089,18 +29497,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -33128,7 +29524,6 @@
    (upgrade_version 1)
    (extra_authoring disc_update)
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -33137,18 +29532,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -33176,7 +29559,6 @@
    (upgrade_version 1)
    (extra_authoring disc_update)
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -33186,19 +29568,6 @@
                (4 5))
             (vocals 6)
             (keys 7)))
-      #else
-      (tracks
-         ((drum
-               (0 1))
-            (bass
-               (2 3))
-            (guitar
-               (4 5))
-            (vocals
-               (6 7))
-            (keys
-               (8 9))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -33226,7 +29595,6 @@
    (upgrade_version 1)
    (extra_authoring disc_update)
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -33237,18 +29605,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -33276,7 +29632,6 @@
    (upgrade_version 1)
    (extra_authoring disc_update)
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -33285,18 +29640,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -33324,7 +29667,6 @@
    (upgrade_version 1)
    (extra_authoring disc_update)
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -33335,18 +29677,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass 6)
-            (guitar
-               (7 8))
-            (vocals
-               (9 10))
-            (keys
-               (11 12))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -33372,7 +29702,6 @@
    (upgrade_version 1)
    (extra_authoring disc_update)
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -33383,19 +29712,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4 5))
-            (bass
-               (6 7))
-            (guitar
-               (8 9))
-            (vocals
-               (10 11))
-            (keys
-               (12 13))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -33423,7 +29739,6 @@
    (upgrade_version 1)
    (extra_authoring disc_update)
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -33434,18 +29749,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3))
-            (bass 4)
-            (guitar
-               (5 6))
-            (vocals
-               (7 8))
-            (keys
-               (9 10))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -33475,7 +29778,6 @@
    (upgrade_version 1)
    (extra_authoring disc_update)
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -33486,18 +29788,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3))
-            (bass 4)
-            (guitar
-               (5 6))
-            (vocals
-               (7 8))
-            (keys
-               (9 10))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -33527,7 +29817,6 @@
    (upgrade_version 1)
    (extra_authoring disc_update)
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -33538,19 +29827,6 @@
                (5 6))
             (keys
                (7 8))))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass
-               (5))
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -33578,7 +29854,6 @@
    (upgrade_version 1)
    (extra_authoring disc_update)
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1 2 3))
@@ -33587,19 +29862,6 @@
                (5 6))
             (vocals 7)
             (keys 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass
-               (5))
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
@@ -33664,7 +29926,6 @@
    (upgrade_version 1)
    (extra_authoring disc_update)
    (song
-      #ifdef HX_WII
       (tracks
          ((drum
                (0 1))
@@ -33673,18 +29934,6 @@
                (3 4))
             (vocals 5 6)
             (keys 7 8)))
-      #else
-      (tracks
-         ((drum
-               (0 1 2 3 4))
-            (bass 5)
-            (guitar
-               (6 7))
-            (vocals
-               (8 9))
-            (keys
-               (10 11))))
-      #endif
       (drum_solo
          (seqs
             (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
