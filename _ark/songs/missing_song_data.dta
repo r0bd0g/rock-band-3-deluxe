@@ -1,3 +1,512 @@
+; RB4 on-disc upgrades
+(aintmessinround
+   (upgrade_version 1) (extra_authoring disc_update)
+   (rank
+      (drum 447)
+      (guitar 267)
+      (bass 150)
+      (vocals 410)
+      (real_guitar 352)
+      (real_bass 280)
+      (band 292))
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   (strings_author "Ruggy"))
+(alloveryou
+   (upgrade_version 1) (extra_authoring disc_update)
+   (rank
+      (drum 297)
+      (guitar 210)
+      (bass 258)
+      (vocals 278)
+      (real_guitar 199)
+      (real_bass 220)
+      (band 264))
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   (strings_author "Ruggy"))
+(dreamgenie
+   (upgrade_version 1) (extra_authoring disc_update)
+   (rank
+      (drum 500)
+      (guitar 422)
+      (bass 480)
+      (vocals 441)
+      (real_guitar 442)
+      (real_bass 442)
+      (band 474))
+   (real_guitar_tuning (-2 0 0 0 0 0))
+   (real_bass_tuning (-2 0 0 0))
+   (strings_author "Augusto & Ruggy"))
+(metropolis
+   (upgrade_version 1) (extra_authoring disc_update)
+   (song
+      (tracks
+         ((drum
+               (0 1))
+            (bass 2)
+            (guitar
+               (3 4))
+            (vocals
+               (5 6))
+            (keys
+               (7 8))))
+      (drum_solo
+         (seqs
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
+      (drum_freestyle
+         (seqs
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))))
+   (rank
+      (drum 480)
+      (guitar 480)
+      (bass 495)
+      (vocals 478)
+      (keys 443)
+      (real_keys 443)
+      (band 490))
+   (keys_author "farottone")
+;   (version 30)
+)
+(mygodisthesun
+   (upgrade_version 1) (extra_authoring disc_update)
+   (rank
+      (drum 389)
+      (guitar 252)
+      (bass 363)
+      (vocals 303)
+      (real_guitar 267)
+      (real_bass 208)
+      (band 275))
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   (strings_author "Ruggy"))
+(shortskirtlongjacket
+   (upgrade_version 1) (extra_authoring disc_update)
+   (song
+      (tracks
+         ((drum
+               (0 1))
+            (bass 2)
+            (guitar
+               (3 4))
+            (vocals
+               (5 6))
+            (keys
+               (7 8))))
+      (drum_solo
+         (seqs
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
+      (drum_freestyle
+         (seqs
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))))
+   (rank
+      (drum 133)
+      (guitar 205)
+      (bass 345)
+      (vocals 103)
+      (keys 1)
+      (real_keys 1)
+      (real_guitar 208)
+      (real_bass 325)
+      (band 177))
+;   (version 30)
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (-2 0 0 0))
+   (keys_author "pksage")
+   (strings_author "Ruggy"))
+(somebodytoldme
+   (upgrade_version 1) (extra_authoring disc_update)
+   (song
+      (tracks
+         ((drum
+               (0 1))
+            (bass 2)
+            (guitar
+               (3 4))
+            (vocals
+               (5 6))
+            (keys
+               (7 8))))
+      (drum_solo
+         (seqs
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
+      (drum_freestyle
+         (seqs
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))))
+   (rank
+      (drum 464)
+      (guitar 221)
+      (bass 364)
+      (vocals 190)
+      (keys 211)
+      (real_keys 211)
+      (real_guitar 267)
+      (real_bass 325)
+      (band 310))
+;   (version 30)
+   (real_guitar_tuning (-1 -1 -1 -1 -1 -1))
+   (real_bass_tuning (-1 -1 -1 -1))
+   (keys_author "GHtoRB3")
+   (strings_author "Ruggy"))
+(stillintoyou
+   (upgrade_version 1) (extra_authoring disc_update)
+   (rank
+      (drum 241)
+      (guitar 172)
+      (bass 372)
+      (vocals 427)
+      (real_guitar 209)
+      (real_bass 267)
+      (band 279))
+   (real_guitar_tuning (-2 0 0 0 0 0))
+   (real_bass_tuning (-3 -3 -3 -3))
+   (strings_author "Augusto & Ruggy"))
+(theimpressionthatiget
+   (upgrade_version 1) (extra_authoring disc_update)
+   (song
+      (tracks
+         ((drum
+               (0 1))
+            (bass 2)
+            (guitar
+               (3 4))
+            (vocals
+               (5 6))
+            (keys
+               (7 8))))
+      (drum_solo
+         (seqs
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
+      (drum_freestyle
+         (seqs
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))))
+   (rank
+      (drum 411)
+      (guitar 323)
+      (bass 442)
+      (vocals 212)
+      (keys 211)
+      (real_keys 211)
+      (band 338))
+;   (version 30)
+   (keys_author "GHtoRB3"))
+(yourlove
+   (upgrade_version 1) (extra_authoring disc_update)
+   (rank
+      (drum 139)
+      (guitar 227)
+      (bass 112)
+      (vocals 295)
+      (real_guitar 208)
+      (real_bass 110)
+      (band 183))
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   (strings_author "kevinturner"))
+; RB4 DLC upgrades
+(angel3
+   (upgrade_version 1) (extra_authoring disc_update)
+   (song
+      (tracks
+         ((drum
+               (0 1))
+            (bass
+               (2 3))
+            (guitar
+               (4 5))
+            (vocals
+               (6 7))
+            (keys
+               (8 9))))
+      (drum_solo
+         (seqs
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
+      (drum_freestyle
+         (seqs
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))))
+   (rank
+      (drum 111)
+      (guitar 270)
+      (bass 111)
+      (vocals 333)
+      (keys 1)
+      (real_keys 153)
+      (band 220))
+   (keys_author "C0Assassin")
+;   (version 30)
+)
+(borntobewild
+   (upgrade_version 1) (extra_authoring disc_update)
+   (song
+      (tracks
+         ((drum
+               (0 1))
+            (bass
+               (2 3))
+            (guitar
+               (4 5))
+            (vocals
+               (6 7))
+            (keys
+               (8 9))))
+      (drum_solo
+         (seqs
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
+      (drum_freestyle
+         (seqs
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))))
+   (rank
+      (drum 260)
+      (guitar 235)
+      (bass 255)
+      (vocals 299)
+      (keys 385)
+      (real_keys 443)
+      (real_guitar 325)
+      (real_bass 325)
+      (band 249))
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   (keys_author "Septekka")
+   (strings_author "columbo777")
+;   (version 30)
+)
+(burninforyou
+   (upgrade_version 1) (extra_authoring disc_update)
+   (song
+      (tracks
+         ((drum
+               (0 1))
+            (bass
+               (2 3))
+            (guitar
+               (4 5))
+            (vocals
+               (6 7))
+            (keys
+               (8 9))))
+      (drum_solo
+         (seqs
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
+      (drum_freestyle
+         (seqs
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))))
+   (rank
+      (drum 231)
+      (guitar 327)
+      (bass 233)
+      (vocals 215)
+      (keys 211)
+      (real_keys 211)
+      (band 259))
+   (keys_author "GHtoRB3")
+;   (version 30)
+)
+(fcpremix
+   (upgrade_version 1) (extra_authoring disc_update)
+   (rank
+      (drum 355)
+      (guitar 450)
+      (bass 390)
+      (vocals 340)
+      (real_guitar 390)
+      (real_bass 341)
+      (band 320))
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   (strings_author "AddyMills"))
+(gimmechocolate
+   (upgrade_version 1) (extra_authoring disc_update)
+   (song
+      (tracks
+         ((drum
+               (0 1))
+            (bass
+               (2 3))
+            (guitar
+               (4 5))
+            (vocals
+               (6 7))
+            (keys
+               (8 9))))
+      (drum_solo
+         (seqs
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
+      (drum_freestyle
+         (seqs
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))))
+   (rank
+      (drum 449)
+      (guitar 440)
+      (bass 293)
+      (vocals 220)
+      (keys 153)
+      (real_keys 153)
+      (band 320))
+   (keys_author "C0Assassin")
+;   (version 30)
+)
+(holdtheline
+   (upgrade_version 1) (extra_authoring disc_update)
+   (song
+      (tracks
+         ((drum
+               (0 1))
+            (bass
+               (2 3))
+            (guitar
+               (4 5))
+            (vocals
+               (6 7))
+            (keys
+               (8 9))))
+      (drum_solo
+         (seqs
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
+      (drum_freestyle
+         (seqs
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))))
+   (rank
+      (drum 235)
+      (guitar 326)
+      (bass 175)
+      (vocals 275)
+      (keys 269)
+      (real_keys 269)
+      (real_guitar 325)
+      (real_bass 208)
+      (band 264))
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   (keys_author "Nyxyxylyth")
+   (strings_author "columbo777")
+;   (version 30)
+)
+(jane
+   (upgrade_version 1) (extra_authoring disc_update)
+   (song
+      (tracks
+         ((drum
+               (0 1))
+            (bass 2)
+            (guitar
+               (3 4))
+            (vocals
+               (5 6))
+            (keys
+               (7 8))))
+      (drum_solo
+         (seqs
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
+      (drum_freestyle
+         (seqs
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))))
+   (rank
+      (drum 244)
+      (guitar 240)
+      (bass 158)
+      (vocals 434)
+      (keys 269)
+      (real_keys 269)
+      (real_guitar 267)
+      (real_bass 208)
+      (band 267))
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   (keys_author "Nyxyxylyth")
+   (strings_author "Nyxyxylyth")
+;   (version 30)
+)
+(labamba
+   (upgrade_version 1) (extra_authoring disc_update)
+   (song
+      (tracks
+         ((drum
+               (0 1))
+            (bass
+               (2 3))
+            (guitar
+               (4 5))
+            (vocals
+               (6 7))
+            (keys
+               (8 9))))
+      (drum_solo
+         (seqs
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
+      (drum_freestyle
+         (seqs
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))))
+   (rank
+      (drum 202)
+      (guitar 377)
+      (bass 251)
+      (vocals 250)
+      (keys 211)
+      (real_keys 211)
+      (band 272))
+   (keys_author "GHtoRB3")
+;   (version 30)
+)
+(seasonsofwither
+   (upgrade_version 1) (extra_authoring disc_update)
+   (rank
+      (drum 120)
+      (guitar 140)
+      (bass 100)
+      (vocals 200)
+      (real_guitar 208)
+      (real_bass 208)
+      (band 166))
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   (strings_author "The Other Side"))
+(thembones
+   (upgrade_version 1) (extra_authoring disc_update)
+   (rank
+      (drum 233)
+      (guitar 275)
+      (bass 255)
+      (vocals 238)
+      (real_guitar 325)
+      (real_bass 267)
+      (band 262))
+   (real_guitar_tuning (-3 -1 -1 -1 -1 -1))
+   (real_bass_tuning (-3 -1 -1 -1))
+   (strings_author "SquibbleNibs"))
+(yourethebest
+   (upgrade_version 1) (extra_authoring disc_update)
+   (song
+      (tracks
+         ((drum
+               (0 1))
+            (bass
+               (2 3))
+            (guitar
+               (4 5))
+            (vocals
+               (6 7))
+            (keys
+               (8 9))))
+      (drum_solo
+         (seqs
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
+      (drum_freestyle
+         (seqs
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))))
+   (rank
+      (drum 153)
+      (guitar 240)
+      (bass 201)
+      (vocals 365)
+      (keys 1)
+      (real_keys 1)
+      (band 241))
+   (keys_author "The Other Side")
+;   (version 30)
+)
+; vanilla pro g
 (ijustdiedinyourarms
    (extra_authoring disc_update)
    (rank
@@ -4074,8 +4583,6 @@
    (game_origin rb_blitz))
 (thewickerman
    (game_origin rb_blitz))
-(16candles
-   (game_origin rb3dlc))
 (2112full
    (game_origin rb3dlc))
 (2112pt1
@@ -4103,8 +4610,6 @@
 (alone
    (game_origin rb3dlc))
 (alright2
-   (game_origin rb3dlc))
-(always
    (game_origin rb3dlc))
 (amaranth
    (game_origin rb3dlc))
@@ -4147,8 +4652,6 @@
 (badmedicine
    (game_origin rb3dlc))
 (bandontherun
-   (game_origin rb3dlc))
-(bangyourhead
    (game_origin rb3dlc))
 (barkatthemoon
    (game_origin rb3dlc))
@@ -4266,8 +4769,6 @@
    (game_origin rb3dlc))
 (crythunder
    (game_origin rb3dlc))
-(cultofpersonality
-   (game_origin rb3dlc))
 (curloftheburl
    (game_origin rb3dlc))
 (dameaire2
@@ -4276,11 +4777,7 @@
    (game_origin rb3dlc))
 (daysgoby2
    (game_origin rb3dlc))
-(deathontwolegs
-   (game_origin rb3dlc))
 (deathorglory
-   (game_origin rb3dlc))
-(diamondeyes
    (game_origin rb3dlc))
 (diaryofamadman
    (game_origin rb3dlc))
@@ -4512,8 +5009,6 @@
    (game_origin rb3dlc))
 (imnotdown
    (game_origin rb3dlc))
-(imstillstanding
-   (game_origin rb3dlc))
 (infinitedreams
    (game_origin rb3dlc))
 (inmyhead
@@ -4572,13 +5067,9 @@
    (game_origin rb3dlc))
 (jessica
    (game_origin rb3dlc))
-(jessiesgirl
-   (game_origin rb3dlc))
 (jimmyjazz
    (game_origin rb3dlc))
 (jivetalkin
-   (game_origin rb3dlc))
-(jungleboogie
    (game_origin rb3dlc))
 (justthewayyouare
    (game_origin rb3dlc))
@@ -4587,8 +5078,6 @@
 (keeponlovingyou
    (game_origin rb3dlc))
 (keepyourselfalive
-   (game_origin rb3dlc))
-(kidsinthestreet
    (game_origin rb3dlc))
 (killerqueen2
    (game_origin rb3dlc))
@@ -4700,8 +5189,6 @@
    (game_origin rb3dlc))
 (mouthforwar
    (game_origin rb3dlc))
-(moveslikejagger
-   (game_origin rb3dlc))
 (movinout
    (game_origin rb3dlc))
 (mrcrowley
@@ -4756,11 +5243,7 @@
    (game_origin rb3dlc))
 (ohyoko
    (game_origin rb3dlc))
-(oncebittentwiceshy
-   (game_origin rb3dlc))
 (onevision2
-   (game_origin rb3dlc))
-(oneweek
    (game_origin rb3dlc))
 (onlyone
    (game_origin rb3dlc))
@@ -4844,8 +5327,6 @@
    (game_origin rb3dlc))
 (pulseofthemaggots
    (game_origin rb3dlc))
-(pumpedupkicks
-   (game_origin rb3dlc))
 (radiogaga
    (game_origin rb3dlc))
 (raindancemaggie
@@ -4853,8 +5334,6 @@
 (rainingblood
    (game_origin rb3dlc))
 (rainisagoodthing2
-   (game_origin rb3dlc))
-(raiseyourglass
    (game_origin rb3dlc))
 (rapeme
    (game_origin rb3dlc))
@@ -4950,17 +5429,11 @@
    (game_origin rb3dlc))
 (shetalkstoangels
    (game_origin rb3dlc))
-(shine
-   (game_origin rb3dlc))
 (shootingthemoon
-   (game_origin rb3dlc))
-(shout
    (game_origin rb3dlc))
 (sideways2
    (game_origin rb3dlc))
 (silentlucidity
-   (game_origin rb3dlc))
-(sing
    (game_origin rb3dlc))
 (singlewhitefemale2
    (game_origin rb3dlc))
@@ -4975,8 +5448,6 @@
 (snuff
    (game_origin rb3dlc))
 (sober
-   (game_origin rb3dlc))
-(sofaraway
    (game_origin rb3dlc))
 (sofaraway2
    (game_origin rb3dlc))
@@ -5132,8 +5603,6 @@
    (game_origin rb3dlc))
 (thescientist
    (game_origin rb3dlc))
-(thesedaysfoo
-   (game_origin rb3dlc))
 (theshowmustgoon
    (game_origin rb3dlc))
 (thespiritofradiolive
@@ -5145,8 +5614,6 @@
 (thethrillisgone
    (game_origin rb3dlc))
 (theweight
-   (game_origin rb3dlc))
-(thewickerman
    (game_origin rb3dlc))
 (thislove
    (game_origin rb3dlc))
@@ -5226,8 +5693,6 @@
    (game_origin rb3dlc))
 (wearethechampions2
    (game_origin rb3dlc))
-(weareyoung
-   (game_origin rb3dlc))
 (webelong
    (game_origin rb3dlc))
 (webuiltthiscity
@@ -5243,8 +5708,6 @@
 (wewerentborn
    (game_origin rb3dlc))
 (wewillrockyou2
-   (game_origin rb3dlc))
-(whatdoesntkillyou2
    (game_origin rb3dlc))
 (whatigot
    (game_origin rb3dlc))
@@ -9643,9 +10106,34 @@
 (UGC_5012040
    (game_origin ugc2))
 
+; RBN 2.0 updates
+(UGC_5006348
+   (song (vocal_parts 3))
+   (upgrade_version 1) (extra_authoring disc_update)
+   (vocal_tonic_note 8)
+   (song_tonality 1)
+   ;(song_id 5006348)
+   ;(rbhp_harmonies_author espher)
+  ;(rbhp_version 1)
+)
+(UGC_5010012
+   (upgrade_version 1) (extra_authoring disc_update)
+   (rank
+      (drum 448)
+      (guitar 409)
+      (bass 436)
+      (vocals 0)
+      (keys 443)
+      (real_keys 443)
+      (real_guitar 598)
+      (real_bass 588)
+      (band 345)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (-2 0 0 0))
+   (strings_author "MatthNerd, RK"))
+
 ; RBN 1.0 harmonies/chart updates
-(UGC_5001547 (song (vocal_parts 3)) (extra_authoring disc_update) (vocal_tonic_note 4) (song_tonality 1))
-(UGC_5001591 (song (vocal_parts 3)) (extra_authoring disc_update) (vocal_tonic_note 4) (song_tonality 0)) ; Clutch - The Mob Goes Wild
 ;keys ugc
 (UGC_5000968 ; The Main Drag - Don't Let Me Down (Slowly)
    (extra_authoring disc_update)
@@ -9676,7 +10164,7 @@
       (keys 385)
       (real_keys 385)
       (band 274))
-   (version 30)
+;   (version 30)
    (vocal_tonic_note 4)
    (song_tonality 0)
    (keys_author "espher"))
@@ -9709,7 +10197,7 @@
       (keys 170)
       (real_keys 170)
       (band 328))
-   (version 30)
+;   (version 30)
    (vocal_tonic_note 4)
    (song_tonality 1)
    (keys_author "TheSheepQueen"))
@@ -9742,7 +10230,7 @@
       (keys 1)
       (real_keys 1)
       (band 328))
-   (version 30)
+;   (version 30)
    (vocal_tonic_note 9)
    (song_tonality 1)
    (keys_author "FujiSkunk"))
@@ -9775,7 +10263,7 @@
       (keys 220)
       (real_keys 220)
       (band 219))
-   (version 30)
+;   (version 30)
    (vocal_tonic_note 0)
    (song_tonality 1)
    (keys_author "Nightmare Lyra"))
@@ -9808,7 +10296,7 @@
       (keys 153)
       (real_keys 153)
       (band 328))
-   (version 30)
+;   (version 30)
    (vocal_tonic_note 2)
    (song_tonality 0)
    (keys_author "FujiSkunk"))
@@ -9841,7 +10329,7 @@
       (keys 269)
       (real_keys 327)
       (band 274))
-   (version 30)
+;   (version 30)
    (vocal_tonic_note 7)
    (song_tonality 1)
    (keys_author "Linos Melendi"))
@@ -9873,7 +10361,7 @@
       (keys 153)
       (real_keys 153)
       (band 219))
-   (version 30)
+;   (version 30)
    (vocal_tonic_note 1)
    (song_tonality 0)
    (keys_author "FujiSkunk"))
@@ -9906,7 +10394,7 @@
       (keys 153)
       (real_keys 153)
       (band 328))
-   (version 30)
+;   (version 30)
    (vocal_tonic_note 5)
    (song_tonality 0)
    (keys_author "FujiSkunk"))
@@ -9939,7 +10427,7 @@
       (keys 211)
       (real_keys 211)
       (band 274))
-   (version 30)
+;   (version 30)
    (vocal_tonic_note 0)
    (song_tonality 1)
    (keys_author "i0brendan0"))
@@ -9972,7 +10460,7 @@
       (keys 300)
       (real_keys 300)
       (band 219))
-   (version 30)
+;   (version 30)
    (keys_author "non_zero"))
 (UGC_5005410 ; Kutless - Strong Tower
    (extra_authoring disc_update)
@@ -10003,22 +10491,12 @@
       (keys 153)
       (real_keys 153)
       (band 159))
-   (version 30)
+;   (version 30)
    (vocal_tonic_note 4)
    (song_tonality 0)
    (keys_author "FujiSkunk"))
 
-;other ugc stuff
 ;has harmonies and RB3 scroll information
-(UGC_5006348
-   (song (vocal_parts 3))
-   (upgrade_version 1) (extra_authoring disc_update)
-   (vocal_tonic_note 8)
-   (song_tonality 1)
-   ;(song_id 5006348)
-   ;(rbhp_harmonies_author espher)
-  ;(rbhp_version 1)
-)
 (UGC_5005118
    (song (vocal_parts 3))
    (upgrade_version 1) (extra_authoring disc_update)
@@ -10273,12 +10751,11 @@
 	;(rbhp_prodrums_author GreenPanda12)
 	;(rbhp_version 1)
 )
-(UGC_5003100
-   (upgrade_version 1) (extra_authoring disc_update)
-   ;(song_id 5003100)
-   ;(rbhp_harmonies_author espher)
-  ;(rbhp_version 1)
-)
+(UGC_5001547
+   (song (vocal_parts 3))
+   (extra_authoring disc_update)
+   (vocal_tonic_note 4)
+   (song_tonality 1))
 (UGC_5001204
     (song (vocal_parts 3))
 	(upgrade_version 1) (extra_authoring disc_update)
@@ -10503,13 +10980,6 @@
    ;(rbhp_harmonies_author espher)
   ;(rbhp_version 1)
 )
-(UGC_5003300
-   (song (vocal_parts 3))
-   (upgrade_version 1) (extra_authoring disc_update)
-   ;(song_id 5003300)
-   ;(rbhp_prodrums_author Sideshow)
-   ;(rbhp_version 1)
-)
 
 ;no harmonies
 ;wii exclusive shortnames
@@ -10526,9 +10996,20 @@
 	;(rbhp_version 1)
 )
 ;end of wii exclusive shortnames
+(UGC_5003300
+   (upgrade_version 1) (extra_authoring disc_update)
+   ;(song_id 5003300)
+   ;(rbhp_prodrums_author Sideshow)
+   ;(rbhp_version 1)
+)
 (UGC_5003216
    (upgrade_version 1) (extra_authoring disc_update)
    ;(song_id 5003216)
+   ;(rbhp_harmonies_author espher)
+  ;(rbhp_version 1)
+)(UGC_5003100
+   (upgrade_version 1) (extra_authoring disc_update)
+   ;(song_id 5003100)
    ;(rbhp_harmonies_author espher)
   ;(rbhp_version 1)
 )(UGC_5002598
@@ -12057,12 +12538,14 @@
    ;(song_id 5003692)
    ;(rbhp_harmonies_author espher)
   ;(rbhp_version 1)
-)(UGC_5003677
-   (upgrade_version 1) (extra_authoring disc_update)
+)
+;(UGC_5003677
+;   (upgrade_version 1) (extra_authoring disc_update)
    ;(song_id 5003677)
    ;(rbhp_harmonies_author espher)
   ;(rbhp_version 1)
-)(UGC_5002990
+;)
+(UGC_5002990
    (upgrade_version 1) (extra_authoring disc_update)
    ;(song_id 5002990)
    ;(rbhp_prodrums_author Sideshow)
@@ -12546,10 +13029,10 @@
   ;(rbhp_version 1)
 )
 (UGC_5001591
-    (song (vocal_parts 3))
-    (upgrade_version 1) (extra_authoring disc_update)
+   (song (vocal_parts 3))
+   (upgrade_version 1) (extra_authoring disc_update)
    (vocal_tonic_note 4) 
-   (song_tonality 1)
+   (song_tonality 0)
    ;(song_id 5001591)
    ;(rbhp_harmonies_author espher)
    ;(rbhp_prodrums_author steve25469)
@@ -12948,8 +13431,8 @@
    ;(rbhp_prodrums_author GreenPanda12)
    ;(rbhp_version 1)
 )
-
 ;end of rbhp ugc
+
 (anywayyouwantit
    (song
       (vocal_parts 3))
@@ -17319,6 +17802,8 @@
       (vocal_parts 3))
    (extra_authoring disc_update))
 (tomorrow
+   (song
+      (vocal_parts 2))
    (extra_authoring disc_update))
 (tomsawyer2
    (extra_authoring disc_update))
@@ -18111,9 +18596,14 @@
    (album_name
       "Cheap Trills")
    (album_track_number 4))
+(sensualseduction
+   (name
+      "Sexual Eruption"))
 (UGC_5000729
    (album_name
       "This Ain't No Goddamn Mirage"))
+(whipit
+   (year_recorded 2009))
 ;(hadadad
 ;   (alternate_path TRUE))
 ;(idiotsrule
@@ -18261,6 +18751,9 @@
    (genre punk)
    (album_name
       "Pleased to Meet Me"))
+(chopsuey
+   (name
+      "Chop Suey!"))
 ;(getclean
 ;   (alternate_path TRUE))
 (girlsnotgrey
@@ -18596,6 +19089,8 @@
 (UGC_5000895
    (artist
       "Scratching the Itch"))
+(UGC_5000968
+   (song_length 210024))
 (UGC_5001156
    (name
       "Race the Hourglass"))
@@ -18776,6 +19271,9 @@
 (UGC_5003355
    (name
       "To the Otherside"))
+(UGC_5003388
+   (artist
+      "Day of Fire"))
 (UGC_5003518
    (album_name
       "Rules to Rock By"))
@@ -18797,6 +19295,9 @@
       "Noah Engh the Kid Fantastic")
    (album_name
       "Take 'Yer Pants Off and Dance"))
+(UGC_5003766
+   (name
+      "Determined (Vows of Vengeance)"))
 (UGC_5003845
    (album_name
       "E for Everyone"))
@@ -18842,6 +19343,9 @@
 (UGC_5004778
    (album_name
       "The Truth in Sand"))
+(UGC_5004779
+   (name
+      "Determined (Vows of Vengeance) (2x Bass Pedal)"))
 (UGC_5004855
    (album_name
       "Welcome to this Glow"))
@@ -19000,6 +19504,9 @@
 (UGC_5007558
    (album_name
       "This is Where it Ends"))
+(UGC_5007573
+   (name
+      "Bombshell from Hell"))
 (UGC_5007719
    (name
       "Run Away with Me"))
@@ -19137,12 +19644,18 @@
 (UGC_5010449
    (album_name
       "We Support the Ride!"))
+(UGC_5010864
+   (artist
+      "Escape the Day"))
 (UGC_5010895
    (album_name
       "What's Born in the Basement"))
 (UGC_5010897
    (name
       "Werewolf Grandma with Knives (Part Two: Don't Die)"))
+(UGC_5011128
+   (artist
+      "Escape the Day"))
 (UGC_5011158
    (artist
       "We Butter the Bread with Butter"))
@@ -19256,6 +19769,9 @@
 (imgonnabe500miles
    (album_name
       "Sunshine on Leith"))
+(iwannadancewithsomebody
+   (name
+      "I Wanna Dance with Somebody (Who Loves Me)"))
 (janiesgotagun
    (name
       "Janie's Got a Gun"))
@@ -19314,6 +19830,9 @@
 (takemetochurch
    (name
       "Take Me to Church"))
+(takincareofbusiness
+   (name
+      "Takin' Care of Business"))
 (tasteofregret
    (name
       "Taste of Regret"))
@@ -19369,6 +19888,9 @@
 ;   (album_name
 ;      "the classic symptoms of a broken spirit")
 ;   (album_track_number 6))
+(whereibelong
+   (name
+      "Where I Belong (ft. We the Kings)"))
 (wrongsideofheaven
    (name
       "Wrong Side of Heaven"))
@@ -20089,6 +20611,330 @@
 (young
    (vocal_tonic_note 0)
    (song_tonality 1))
+(eyeofthetiger
+   (upgrade_version 1)
+   (song
+      (tracks
+         ((drum (0 1))
+          (bass (2))
+          (guitar (3 4))
+          (vocals (5 6))
+          (keys (7 8))
+         )
+      )
+   )
+   (rank
+      (drum 100)
+      (guitar 100)
+      (bass 100)
+      (vocals 210)
+      (keys 173)
+      (real_keys 183)
+      (real_guitar 180)
+      (real_bass 95)
+      (band 100))
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+;   (version 30)
+   (extra_authoring disc_update)
+   (keys_author "Linos")
+   (strings_author "RK"))
+(creep
+   (upgrade_version 1) (extra_authoring disc_update)
+   (song
+      (tracks
+         ((drum (0 1))
+          (bass (2))
+          (guitar (3 4))
+          (vocals (5 6))
+          (keys (7 8))
+         )
+      )
+   )
+   (rank
+      (drum 110)
+      (guitar 225)
+      (bass 225)
+      (vocals 110)
+      (keys 234)
+      (real_keys 234)
+      (real_guitar 285)
+      (real_bass 160)
+      (band 140))
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   (strings_author "Ruggy")
+   (keys_author "FujiSkunk")
+;   (version 30)
+)
+(gowiththeflow
+   (upgrade_version 1) (extra_authoring disc_update)
+   (song
+      (tracks
+         ((drum (0 1))
+          (bass (2 3))
+          (guitar (4 5))
+          (vocals (6 7))
+          (keys (8 9)))
+      )
+   )
+   (rank
+      (drum 350)
+      (guitar 210)
+      (bass 210)
+      (vocals 125)
+      (band 330)
+      (keys 222)
+      (real_keys 222)
+      (real_guitar 190)
+      (real_bass 210)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   (keys_author "FujiSkunk")
+   (strings_author "Ruggy")
+;   (version 30)
+)
+(highwaystar
+   (song
+      (tracks
+         (
+            (drum (0 1))
+            (bass (2))
+            (guitar (3 4))
+            (vocals (5 6))
+            (keys (7 8))
+         )
+      )
+   )
+   (rank
+      (drum 430)
+      (guitar 385)
+      (bass 385)
+      (vocals 290)
+      (band 440)
+      (keys 477)
+      (real_keys 476))
+   (keys_author "Ruggy")
+;   (version 30)
+)
+(hellothere
+   (upgrade_version 1) (extra_authoring disc_update)
+   (song
+      (tracks
+         ((drum (0 1))
+          (bass (2 3))
+          (guitar (4 5))
+          (vocals (6 7))
+          (keys (8))
+         )
+      )
+   )
+   (rank
+      (drum 138)
+      (guitar 157)
+      (bass 261)
+      (vocals 114)
+      (keys 204)
+      (real_keys 214)
+      (band 174)
+      (real_guitar 208)
+      (real_bass 325)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+;   (version 30)
+   (strings_author "JohnSmith")
+   (keys_author "RK")
+   ;(rbhp_version 1)
+)
+(ifyouhavetoask
+   (upgrade_version 1) (extra_authoring disc_update)
+   (song
+      (tracks
+         (
+            (drum (0 1 2))
+            (bass 3)
+            (guitar (4 5))
+            (vocals 6)
+            (keys 7)
+         )
+      )
+   )
+   (rank
+      (drum 291)
+      (guitar 252)
+      (bass 293)
+      (vocals 215)
+      (band 289)
+      (keys 128)
+      (real_keys 128)
+      (real_guitar 254)
+      (real_bass 344)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (-2 0 0 0))
+;   (version 30)
+   (strings_author "RK")
+   (keys_author "RK")
+)
+(mellowshipslinkyinbmajor
+   (upgrade_version 1) (extra_authoring disc_update)
+   (song
+      (tracks
+         (
+            (drum (0 1 2 3))
+            (bass (4))
+            (guitar (5 6))
+            (vocals (7))
+            (keys (8))
+         )
+      )
+   )
+   (rank
+      (drum 331)
+      (guitar 243)
+      (bass 243)
+      (vocals 260)
+      (band 280)
+      (real_guitar 211)
+      (real_bass 411)
+      (keys 180)
+      (real_keys 200)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+;   (version 30)
+   (strings_author "RK")
+)
+(nakedintherain
+   (upgrade_version 1) (extra_authoring disc_update)
+   (song
+      (tracks
+         (
+            (drum (0 1 2 3))
+            (bass (5))
+            (guitar (5 6))
+            (vocals (7))
+            (keys (8))
+         )
+      )
+   )
+   (rank
+      (drum 251)
+      (guitar 258)
+      (bass 300)
+      (vocals 235)
+      (band 263)
+      (real_guitar 300)
+      (real_bass 400)
+      (keys 93)
+      (real_keys 63)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (-2 0 0 0))
+;   (version 30)
+   (strings_author "RK")
+)
+(redbarchetta
+   (song
+     (tracks
+        ((drum (0 1))
+         (bass 2)
+         (guitar (3 4))
+         (vocals 5)
+         (keys 6)
+        )
+     )
+   )
+   (rank
+      (drum 380)
+      (guitar 228)
+      (bass 199)
+      (vocals 190)
+      (keys 70)
+      (real_keys 70)
+      (band 250))
+;   (version 30)
+)
+(tomsawyer2
+   (upgrade_version 1) (extra_authoring disc_update)
+   (song
+     (tracks
+        ((drum (0 1))
+         (bass 2)
+         (guitar (3 4))
+         (vocals 5)
+         (keys 6)
+        )
+     )
+   )
+   (rank
+      (drum 358)
+      (guitar 252)
+      (bass 225)
+      (vocals 157)
+      (keys 217)
+      (real_keys 277)
+      (real_guitar 413)
+      (real_bass 330)
+      (band 248))
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   (strings_author "RK")
+   (keys_author "GreenPanda12")
+;   (version 30)
+)
+(underthebridge
+   (song
+      (tracks
+         (
+            (drum (0 1 2 3))
+            (bass (4))
+            (guitar (5 6))
+            (vocals (7))
+            (keys (8))
+         )
+      )
+   )
+   (rank
+      (drum 111)
+      (guitar 145)
+      (bass 160)
+      (vocals 230)
+      (keys 222)
+      (real_keys 252)
+      (band 115))
+   (keys_author "TheSheepQueen")
+;   (version 30)
+)
+(yyz
+   (upgrade_version 1) (extra_authoring disc_update)
+   (song
+     (tracks
+        ((drum (0 1))
+         (bass 2)
+         (guitar (3 4))
+         (keys 5)
+        )
+     )
+   )
+   (rank
+      (drum 405)
+      (guitar 320)
+      (bass 336)
+      (vocals 0)
+      (keys 40)
+      (real_keys 40)
+      (real_guitar 444)
+      (real_bass 424)
+      (band 350))
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   (strings_author "RK")
+   (keys_author "FujiSkunk")
+;   (version 30)
+)
 (mybestfriendsgirl
    (song
       (tracks
@@ -20115,7 +20961,8 @@
       (band 204))
    (keys_author
       "FujiSkunk")
-   (version 30))
+;   (version 30)
+)
 (minority
    (song
       (tracks
@@ -20140,7 +20987,8 @@
       (keys 153)
       (real_keys 153)
       (band 244))
-   (version 30))
+;   (version 30)
+)
 (wakemeup
    (song
       (tracks
@@ -20165,7 +21013,8 @@
       (real_keys 211)
       (vocals 165)
       (band 144))
-   (version 30))
+;   (version 30)
+)
 (crocodilerock
    (song
       (tracks
@@ -20186,7 +21035,8 @@
       (keys 269)
       (real_keys 327)
       (band 163))
-   (version 30))
+;   (version 30)
+)
 (dig
    (song
       (tracks
@@ -20213,7 +21063,8 @@
       (keys 96)
       (real_keys 99)
       (band 193))
-   (version 30))
+;   (version 30)
+)
 (dreamingofyou
    (song
       (tracks
@@ -20240,7 +21091,8 @@
       (keys 170)
       (real_keys 170)
       (band 149))
-   (version 30))
+;   (version 30)
+)
 (freefallin
    (song
       (tracks
@@ -20267,7 +21119,8 @@
       (keys 1)
       (real_keys 1)
       (band 146))
-   (version 30))
+;   (version 30)
+)
 (iwantyouback
    (song
       (tracks
@@ -20295,7 +21148,8 @@
       (keys 269)
       (real_keys 269)
       (band 241))
-   (version 30))
+;   (version 30)
+)
 (kungfufighting
    (song
       (tracks
@@ -20323,7 +21177,8 @@
       (keys 211)
       (real_keys 269)
       (band 234))
-   (version 30))
+;   (version 30)
+)
 (letsdance
    (song
       (tracks
@@ -20350,7 +21205,8 @@
       (keys 153)
       (real_keys 153)
       (band 145))
-   (version 30))
+;   (version 30)
+)
 (ruby
    (song
       (tracks
@@ -20377,7 +21233,8 @@
       (keys 170)
       (real_keys 170)
       (band 200))
-   (version 30))
+;   (version 30)
+)
 (sowhat
    (song
       (tracks
@@ -20404,7 +21261,8 @@
       (keys 211)
       (real_keys 211)
       (band 201))
-   (version 30))
+;   (version 30)
+)
 (summerof69
    (song
       (tracks
@@ -20431,7 +21289,8 @@
       (keys 134)
       (real_keys 134)
       (band 148))
-   (version 30))
+;   (version 30)
+)
 (swingswing
    (song
       (tracks
@@ -20458,7 +21317,8 @@
       (keys 170)
       (real_keys 211)
       (band 147))
-   (version 30))
+;   (version 30)
+)
 (thefinalcountdown
    (song
       (tracks
@@ -20485,7 +21345,8 @@
       (keys 269)
       (real_keys 327)
       (band 258))
-   (version 30))
+;   (version 30)
+)
 (thepassenger
    (song
       (tracks
@@ -20512,7 +21373,8 @@
       (keys 170)
       (real_keys 170)
       (band 202))
-   (version 30))
+;   (version 30)
+)
 (danicalifornia
    (song
       (tracks
@@ -20539,7 +21401,7 @@
       (keys 1)
       (real_keys 1)
       (band 340))
-   (version 30)
+;   (version 30)
    (keys_author
       "TheSheepQueen"))
 (detroitrockcity
@@ -20568,7 +21430,7 @@
       (keys 170)
       (real_keys 170)
       (band 380))
-   (version 30)
+;   (version 30)
    (keys_author
       "TheSheepQueen"))
 (foreplaylongtime
@@ -20607,7 +21469,7 @@
       (band 450)
       (keys 478)
       (real_keys 479))
-   (version 30)
+;   (version 30)
    (keys_author
       "mazegeek"))
 (suffragettecity
@@ -20636,7 +21498,7 @@
       (keys 269)
       (real_keys 269)
       (band 270))
-   (version 30)
+;   (version 30)
    (keys_author
       "TheSheepQueen"))
 (thehandthatfeeds
@@ -20660,7 +21522,8 @@
       (keys 153)
       (real_keys 153)
       (band 260))
-   (version 30))
+;   (version 30)
+)
 (wontgetfooled
    (song
       (tracks
@@ -20697,7 +21560,7 @@
       (keys 450)
       (real_keys 450)
       (band 500))
-   (version 30)
+;   (version 30)
    (keys_author
       "mazegeek"))
 (bodhisattva
@@ -20725,7 +21588,8 @@
       (keys 402)
       (real_keys 441)
       (band 500))
-   (version 30))
+;   (version 30)
+)
 (floaton
    (song
       (tracks
@@ -20752,7 +21616,8 @@
       (keys 1)
       (real_keys 1)
       (band 147))
-   (version 30))
+;   (version 30)
+)
 (getclean
    (song
       (tracks
@@ -20779,7 +21644,8 @@
       (keys 1)
       (real_keys 1)
       (band 473))
-   (version 30))
+;   (version 30)
+)
 (goyourownway
    (song
       (tracks
@@ -20806,7 +21672,8 @@
       (keys 1)
       (real_keys 1)
       (band 277))
-   (version 30))
+;   (version 30)
+)
 (lazyeye
    (song
       (tracks
@@ -20832,7 +21699,8 @@
       (keys 153)
       (real_keys 153)
       (band 291))
-   (version 30))
+;   (version 30)
+)
 (shacklersrevenge
    (song
       (tracks
@@ -20859,7 +21727,8 @@
       (keys 1)
       (real_keys 1)
       (band 382))
-   (version 30))
+;   (version 30)
+)
 (wheredyougo
    (song
       (tracks
@@ -20886,7 +21755,7 @@
       (keys 140)
       (real_keys 140)
       (band 305))
-   (version 30)
+;   (version 30)
    (year_recorded 2008))
 (burnyoudown
    (song
@@ -20912,7 +21781,34 @@
       (keys 212)
       (real_keys 212)
       (band 170))
-   (version 30))
+;   (version 30)
+)
+(desperatetimes
+   (song
+      (tracks
+         ((drum
+               (0 1 2 3))
+            (bass 4)
+            (guitar
+               (5 6))
+            (vocals 7)
+            (keys 8)))
+      (drum_solo
+         (seqs
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
+      (drum_freestyle
+         (seqs
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))))
+   (rank
+      (drum 345)
+      (guitar 307)
+      (bass 208)
+      (vocals 181)
+      (keys 1)
+      (real_keys 1)
+      (band 332))
+;   (version 30)
+   (keys_author "FujiSkunk"))
 (imgoneimgoing
    (song
       (tracks
@@ -20937,7 +21833,8 @@
       (keys 265)
       (real_keys 265)
       (band 199))
-   (version 30))
+;   (version 30)
+)
 (iv
    (song
       (tracks
@@ -20962,7 +21859,8 @@
       (vocals 175)
       (band 306)
       (real_keys 269))
-   (version 30))
+;   (version 30)
+)
 (young
    (song
       (tracks
@@ -20987,7 +21885,8 @@
       (keys 153)
       (real_keys 211)
       (band 194))
-   (version 30))
+;   (version 30)
+)
 (3sand7s
    (song
       (tracks
@@ -21012,7 +21911,8 @@
       (keys 153)
       (real_keys 1)
       (band 230))
-   (version 30))
+;   (version 30)
+)
 (attack
    (song
       (tracks
@@ -21037,7 +21937,8 @@
       (keys 270)
       (real_keys 288)
       (band 175))
-   (version 30))
+;   (version 30)
+)
 (dirtylittlesecret
    (song
       (tracks
@@ -21062,7 +21963,8 @@
       (band 187)
       (keys 1)
       (real_keys 1))
-   (version 30))
+;   (version 30)
+)
 (jokerandthe
    (song
       (tracks
@@ -21089,7 +21991,8 @@
       (band 305))
    (keys_author
       "FujiSkunk, Linos")
-   (version 30))
+;   (version 30)
+)
 (movealong
    (song
       (tracks
@@ -21114,7 +22017,8 @@
       (keys 214)
       (real_keys 222)
       (band 275))
-   (version 30))
+;   (version 30)
+)
 (bathwater
    (song
       (tracks
@@ -21139,7 +22043,33 @@
       (keys 211)
       (real_keys 211)
       (band 178))
-   (version 30))
+;   (version 30)
+)
+(bloodsugarsexmagik
+   (song
+      (tracks
+         ((drum
+               (0 1 2 3))
+            (bass 4)
+            (guitar 5 6)
+            (vocals 7)
+            (keys 8)))
+      (drum_solo
+         (seqs
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
+      (drum_freestyle
+         (seqs
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))))
+   (rank
+      (drum 170)
+      (guitar 255)
+      (bass 285)
+      (vocals 190)
+      (keys 1)
+      (real_keys 1)
+      (band 231))
+;   (version 30)
+   (keys_author "FujiSkunk"))
 (cameraeye
    (song
       (tracks
@@ -21166,7 +22096,8 @@
       (band 230))
    (keys_author
       "FujiSkunk")
-   (version 30))
+;   (version 30)
+)
 (closertotheheart
    (song
       (tracks
@@ -21192,7 +22123,8 @@
       (keys 1)
       (real_keys 1)
       (band 192))
-   (version 30))
+;   (version 30)
+)
 (criticalacclaim
    (song
       (tracks
@@ -21218,7 +22150,8 @@
       (keys 182)
       (real_keys 220)
       (band 300))
-   (version 30))
+;   (version 30)
+)
 (dammit
    (song
       (tracks
@@ -21243,7 +22176,8 @@
       (keys 55)
       (real_keys 60)
       (band 307))
-   (version 30))
+;   (version 30)
+)
 (devour
    (song
       (tracks
@@ -21268,7 +22202,34 @@
       (vocals 124)
       (band 183)
       (real_keys 269))
-   (version 30))
+;   (version 30)
+)
+(dontchastop
+   (song
+      (tracks
+         ((drum
+               (0 1 2 3))
+            (bass 4)
+            (guitar
+               (5 6))
+            (vocals 7)
+            (keys 8)))
+      (drum_solo
+         (seqs
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
+      (drum_freestyle
+         (seqs
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))))
+   (rank
+      (drum 270)
+      (guitar 210)
+      (bass 210)
+      (vocals 215)
+      (keys 269)
+      (real_keys 269)
+      (band 226))
+;   (version 30)
+   (keys_author "FujiSkunk"))
 (dontlookbackinanger
    (song
       (tracks
@@ -21294,7 +22255,8 @@
       (keys 170)
       (real_keys 211)
       (band 220))
-   (version 30))
+;   (version 30)
+)
 (dontspeak
    (song
       (tracks
@@ -21319,7 +22281,8 @@
       (keys 269)
       (real_keys 269)
       (band 183))
-   (version 30))
+;   (version 30)
+)
 (dreamin
    (song
       (tracks
@@ -21344,7 +22307,8 @@
       (keys 1)
       (real_keys 1)
       (band 120))
-   (version 30))
+;   (version 30)
+)
 (elscorcho
    (song
       (tracks
@@ -21369,7 +22333,8 @@
       (keys 1)
       (real_keys 1)
       (band 160))
-   (version 30))
+;   (version 30)
+)
 (exgirlfriend
    (song
       (tracks
@@ -21394,7 +22359,8 @@
       (keys 1)
       (real_keys 1)
       (band 226))
-   (version 30))
+;   (version 30)
+)
 (fever
    (song
       (tracks
@@ -21419,7 +22385,8 @@
       (keys 1)
       (real_keys 1)
       (band 270))
-   (version 30))
+;   (version 30)
+)
 (girlsonfilm
    (song
       (tracks
@@ -21444,7 +22411,8 @@
       (keys 153)
       (real_keys 153)
       (band 220))
-   (version 30))
+;   (version 30)
+)
 (goodtimesroll
    (song
       (tracks
@@ -21469,7 +22437,8 @@
       (keys 153)
       (real_keys 153)
       (band 206))
-   (version 30))
+;   (version 30)
+)
 (insidethefire
    (song
       (tracks
@@ -21494,7 +22463,34 @@
       (keys 153)
       (real_keys 153)
       (band 297))
-   (version 30))
+;   (version 30)
+)
+(intouch
+   (song
+      (tracks
+         ((drum
+               (0 1 2 3))
+            (bass 4)
+            (guitar
+               (5 6))
+            (vocals 7)
+            (keys 8)))
+      (drum_solo
+         (seqs
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
+      (drum_freestyle
+         (seqs
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))))
+   (rank
+      (drum 160)
+      (guitar 180)
+      (bass 180)
+      (vocals 245)
+      (band 209)
+      (keys 327)
+      (real_keys 327))
+;   (version 30)
+   (keys_author "FujiSkunk"))
 (ithurts
    (song
       (tracks
@@ -21519,7 +22515,8 @@
       (keys 153)
       (real_keys 153)
       (band 280))
-   (version 30))
+;   (version 30)
+)
 (itsmylife
    (song
       (tracks
@@ -21544,7 +22541,8 @@
       (keys 269)
       (real_keys 269)
       (band 136))
-   (version 30))
+;   (version 30)
+)
 (justagirl
    (song
       (tracks
@@ -21569,7 +22567,34 @@
       (keys 211)
       (real_keys 211)
       (band 190))
-   (version 30))
+;   (version 30)
+)
+(kissthemforme
+   (song
+      (tracks
+         ((drum
+               (0 1))
+            (bass 2)
+            (guitar
+               (3 4))
+            (vocals 5)
+            (keys 6)))
+      (drum_solo
+         (seqs
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
+      (drum_freestyle
+         (seqs
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))))
+   (rank
+      (drum 208)
+      (guitar 244)
+      (bass 170)
+      (vocals 142)
+      (keys 211)
+      (real_keys 211)
+      (band 190))
+;   (version 30)
+   (keys_author "FujiSkunk & StackOverflow0x"))
 (marchofthepigs
    (song
       (tracks
@@ -21594,7 +22619,8 @@
       (keys 1)
       (real_keys 153)
       (band 350))
-   (version 30))
+;   (version 30)
+)
 (monsoon
    (song
       (tracks
@@ -21619,7 +22645,8 @@
       (keys 1)
       (real_keys 1)
       (band 180))
-   (version 30))
+;   (version 30)
+)
 (perfectdrug
    (song
       (tracks
@@ -21644,7 +22671,8 @@
       (keys 1)
       (real_keys 1)
       (band 390))
-   (version 30))
+;   (version 30)
+)
 (promisedland
    (song
       (tracks
@@ -21669,7 +22697,8 @@
       (keys 211)
       (real_keys 211)
       (band 190))
-   (version 30))
+;   (version 30)
+)
 (realgoodlooking
    (song
       (tracks
@@ -21695,7 +22724,34 @@
       (keys 300)
       (real_keys 330)
       (band 212))
-   (version 30))
+;   (version 30)
+)
+(reddevil
+   (song
+      (tracks
+         ((drum
+               (0 1 2 3))
+            (bass 4)
+            (guitar
+               (5 6))
+            (vocals 7)
+            (keys 8)))
+      (drum_solo
+         (seqs
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
+      (drum_freestyle
+         (seqs
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))))
+   (rank
+      (drum 257)
+      (guitar 493)
+      (bass 288)
+      (vocals 138)
+      (keys 1)
+      (real_keys 153)
+      (band 343))
+;   (version 30)
+   (keys_author "FujiSkunk"))
 (running
    (song
       (tracks
@@ -21720,7 +22776,8 @@
       (band 119)
       (keys 220)
       (real_keys 220))
-   (version 30))
+;   (version 30)
+)
 (sheisahandsomewoman
    (song
       (tracks
@@ -21745,7 +22802,8 @@
       (band 155)
       (keys 240)
       (real_keys 240))
-   (version 30))
+;   (version 30)
+)
 (shoottherunner
    (song
       (tracks
@@ -21770,7 +22828,8 @@
       (keys 153)
       (real_keys 153)
       (band 165))
-   (version 30))
+;   (version 30)
+)
 (sliceofyourpie
    (song
       (tracks
@@ -21795,7 +22854,7 @@
       (keys 1)
       (real_keys 1)
       (band 257))
-   (version 30)
+;   (version 30)
    (encoding latin1))
 (smilelikeyoumeanit
    (song
@@ -21821,7 +22880,8 @@
       (keys 1)
       (real_keys 1)
       (band 210))
-   (version 30))
+;   (version 30)
+)
 (smokin
    (song
       (tracks
@@ -21846,7 +22906,8 @@
       (band 320)
       (keys 1)
       (real_keys 1))
-   (version 30))
+;   (version 30)
+)
 (spaceman
    (song
       (tracks
@@ -21871,7 +22932,8 @@
       (keys 269)
       (real_keys 269)
       (band 245))
-   (version 30))
+;   (version 30)
+)
 (spiderwebs
    (song
       (tracks
@@ -21896,7 +22958,8 @@
       (keys 269)
       (real_keys 269)
       (band 216))
-   (version 30))
+;   (version 30)
+)
 (stillalive
    (song
       (tracks
@@ -21921,7 +22984,8 @@
       (keys 211)
       (real_keys 211)
       (band 180))
-   (version 30))
+;   (version 30)
+)
 (sundaymorning
    (song
       (tracks
@@ -21946,7 +23010,7 @@
       (keys 269)
       (real_keys 269)
       (band 230))
-   (version 30)
+;   (version 30)
    (year_recorded 2003))
 (swamped
    (song
@@ -21972,7 +23036,8 @@
       (keys 153)
       (real_keys 153)
       (band 185))
-   (version 30))
+;   (version 30)
+)
 (theysay
    (song
       (tracks
@@ -21997,7 +23062,8 @@
       (keys 90)
       (real_keys 90)
       (band 90))
-   (version 30))
+;   (version 30)
+)
 (thisaintascene
    (song
       (tracks
@@ -22022,7 +23088,8 @@
       (keys 153)
       (real_keys 153)
       (band 220))
-   (version 30))
+;   (version 30)
+)
 (truthhitseverybody
    (song
       (tracks
@@ -22047,7 +23114,8 @@
       (band 300)
       (keys 1)
       (real_keys 1))
-   (version 30))
+;   (version 30)
+)
 (vitalsigns
    (song
       (tracks
@@ -22072,7 +23140,8 @@
       (keys 269)
       (real_keys 269)
       (band 240))
-   (version 30))
+;   (version 30)
+)
 (wecarealot
    (song
       (tracks
@@ -22097,7 +23166,8 @@
       (keys 1)
       (real_keys 1)
       (band 155))
-   (version 30))
+;   (version 30)
+)
 (wellthoughtouttwinkles
    (song
       (tracks
@@ -22122,7 +23192,8 @@
       (keys 1)
       (real_keys 1)
       (band 266))
-   (version 30))
+;   (version 30)
+)
 (whydoyouloveme
    (song
       (tracks
@@ -22147,7 +23218,8 @@
       (keys 1)
       (real_keys 1)
       (band 245))
-   (version 30))
+;   (version 30)
+)
 (witchhunt
    (song
       (tracks
@@ -22172,7 +23244,8 @@
       (keys 153)
       (real_keys 153)
       (band 194))
-   (version 30))
+;   (version 30)
+)
 (yourealligot
    (song
       (tracks
@@ -22197,7 +23270,8 @@
       (band 230)
       (keys 153)
       (real_keys 211))
-   (version 30))
+;   (version 30)
+)
 (21guns
    (song
       (tracks
@@ -22222,7 +23296,8 @@
       (keys 211)
       (real_keys 211)
       (band 126))
-   (version 30))
+;   (version 30)
+)
 (abc
    (song
       (tracks
@@ -22249,7 +23324,8 @@
       (keys 1)
       (real_keys 211)
       (band 224))
-   (version 30))
+;   (version 30)
+)
 (alotlikeme
    (song
       (tracks
@@ -22274,7 +23350,8 @@
       (keys 153)
       (real_keys 153)
       (band 215))
-   (version 30))
+;   (version 30)
+)
 (anotheronebitesthedust
    (song
       (tracks
@@ -22299,7 +23376,8 @@
       (keys 1)
       (real_keys 1)
       (band 180))
-   (version 30))
+;   (version 30)
+)
 (beautifulthieves
    (song
       (tracks
@@ -22324,7 +23402,8 @@
       (keys 211)
       (real_keys 211)
       (band 256))
-   (version 30))
+;   (version 30)
+)
 (beverlyhills
    (song
       (tracks
@@ -22350,7 +23429,8 @@
       (real_keys 1)
       (band 165))
    (tuning_offset_cents -40)
-   (version 30))
+;   (version 30)
+)
 (callmewhenyouresober
    (song
       (tracks
@@ -22375,7 +23455,8 @@
       (keys 269)
       (real_keys 269)
       (band 210))
-   (version 30))
+;   (version 30)
+)
 (clinteastwood
    (song
       (tracks
@@ -22400,7 +23481,8 @@
       (band 199)
       (keys 400)
       (real_keys 385))
-   (version 30))
+;   (version 30)
+)
 (clubfoot
    (song
       (tracks
@@ -22426,7 +23508,34 @@
       (band 211)
       (keys 1)
       (real_keys 1))
-   (version 30))
+;   (version 30)
+)
+(danceepidemic
+   (song
+      (tracks
+         ((drum
+               (0 1 2 3))
+            (bass 4)
+            (guitar
+               (5 6))
+            (vocals 7)
+            (keys 8)))
+      (drum_solo
+         (seqs
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
+      (drum_freestyle
+         (seqs
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))))
+   (rank
+      (drum 289)
+      (guitar 240)
+      (bass 201)
+      (vocals 287)
+      (keys 153)
+      (real_keys 153)
+      (band 252))
+;   (version 30)
+   (keys_author "FujiSkunk"))
 (down
    (song
       (tracks
@@ -22451,7 +23560,8 @@
       (keys 153)
       (real_keys 153)
       (band 216))
-   (version 30))
+;   (version 30)
+)
 (doyouwantto
    (song
       (tracks
@@ -22476,7 +23586,8 @@
       (keys 305)
       (real_keys 400)
       (band 220))
-   (version 30))
+;   (version 30)
+)
 (dragula
    (song
       (tracks
@@ -22501,7 +23612,8 @@
       (band 231)
       (keys 400)
       (real_keys 460))
-   (version 30))
+;   (version 30)
+)
 (duality
    (song
       (tracks
@@ -22526,7 +23638,34 @@
       (keys 1)
       (real_keys 1)
       (band 360))
-   (version 30))
+;   (version 30)
+)
+(fakefriends
+   (song
+      (tracks
+         ((drum
+               (0 1 2 3))
+            (bass 4)
+            (guitar
+               (5 6))
+            (vocals 7)
+            (keys 8)))
+      (drum_solo
+         (seqs
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
+      (drum_freestyle
+         (seqs
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))))
+   (rank
+      (drum 310)
+      (guitar 302)
+      (bass 285)
+      (vocals 160)
+      (keys 153)
+      (real_keys 153)
+      (band 303))
+;   (version 30)
+   (keys_author "FujiSkunk"))
 (feelslikethefirsttime
    (song
       (tracks
@@ -22552,7 +23691,8 @@
       (band 214)
       (keys 153)
       (real_keys 153))
-   (version 30))
+;   (version 30)
+)
 (futures
    (song
       (tracks
@@ -22577,7 +23717,8 @@
       (keys 269)
       (real_keys 153)
       (band 217))
-   (version 30))
+;   (version 30)
+)
 (getready2rokk
    (song
       (tracks
@@ -22602,7 +23743,8 @@
       (keys 320)
       (real_keys 325)
       (band 349))
-   (version 30))
+;   (version 30)
+)
 (getup
    (song
       (tracks
@@ -22627,7 +23769,8 @@
       (keys 211)
       (real_keys 269)
       (band 300))
-   (version 30))
+;   (version 30)
+)
 (henrietta
    (song
       (tracks
@@ -22652,7 +23795,34 @@
       (keys 153)
       (real_keys 153)
       (band 283))
-   (version 30))
+;   (version 30)
+)
+(heyjohnwhatsyournameagain
+   (song
+      (tracks
+         ((drum
+               (0 1 2 3))
+            (bass 4)
+            (guitar
+               (5 6))
+            (vocals 7)
+            (keys 8)))
+      (drum_solo
+         (seqs
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
+      (drum_freestyle
+         (seqs
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))))
+   (rank
+      (drum 334)
+      (guitar 268)
+      (bass 270)
+      (vocals 141)
+      (keys 153)
+      (real_keys 153)
+      (band 302))
+;   (version 30)
+   (keys_author "FujiSkunk"))
 (imshippingup
    (song
       (tracks
@@ -22677,7 +23847,8 @@
       (keys 269)
       (real_keys 269)
       (band 266))
-   (version 30))
+;   (version 30)
+)
 (jeremy
    (song
       (tracks
@@ -22702,7 +23873,8 @@
       (keys 211)
       (real_keys 211)
       (band 252))
-   (version 30))
+;   (version 30)
+)
 (kingsandqueens
    (song
       (tracks
@@ -22727,7 +23899,8 @@
       (keys 211)
       (real_keys 211)
       (band 285))
-   (version 30))
+;   (version 30)
+)
 (lesstalkmorerokk
    (song
       (tracks
@@ -22752,7 +23925,34 @@
       (keys 400)
       (real_keys 450)
       (band 380))
-   (version 30))
+;   (version 30)
+)
+(littleofyourtime
+   (song
+      (tracks
+         ((drum
+               (0 1 2 3))
+            (bass 4)
+            (guitar
+               (5 6))
+            (vocals 7)
+            (keys 8)))
+      (drum_solo
+         (seqs
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
+      (drum_freestyle
+         (seqs
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))))
+   (rank
+      (drum 138)
+      (guitar 145)
+      (bass 147)
+      (vocals 248)
+      (keys 153)
+      (real_keys 153)
+      (band 141))
+;   (version 30)
+   (keys_author "CyclopsDragon"))
 (missmurder
    (song
       (tracks
@@ -22777,7 +23977,8 @@
       (band 262)
       (keys 300)
       (real_keys 300))
-   (version 30))
+;   (version 30)
+)
 (monymony
    (song
       (tracks
@@ -22803,7 +24004,8 @@
       (keys 211)
       (real_keys 269)
       (band 145))
-   (version 30))
+;   (version 30)
+)
 (nakedeye
    (song
       (tracks
@@ -22828,7 +24030,8 @@
       (keys 1)
       (real_keys 1)
       (band 173))
-   (version 30))
+;   (version 30)
+)
 (oceanavenue
    (song
       (tracks
@@ -22853,7 +24056,8 @@
       (keys 211)
       (real_keys 269)
       (band 269))
-   (version 30))
+;   (version 30)
+)
 (onceinalifetime
    (song
       (tracks
@@ -22880,7 +24084,8 @@
       (keys 153)
       (real_keys 153)
       (band 268))
-   (version 30))
+;   (version 30)
+)
 (ourlipsaresealed
    (song
       (tracks
@@ -22906,7 +24111,8 @@
       (band 161)
       (keys 211)
       (real_keys 269))
-   (version 30))
+;   (version 30)
+)
 (outhereallnight
    (song
       (tracks
@@ -22931,7 +24137,8 @@
       (keys 1)
       (real_keys 1)
       (band 333))
-   (version 30))
+;   (version 30)
+)
 (pickupthepieces
    (song
       (tracks
@@ -22956,7 +24163,8 @@
       (keys 269)
       (real_keys 327)
       (band 157))
-   (version 30))
+;   (version 30)
+)
 (poison
    (song
       (tracks
@@ -22982,7 +24190,8 @@
       (keys 211)
       (real_keys 269)
       (band 238))
-   (version 30))
+;   (version 30)
+)
 (porkandbeans
    (song
       (tracks
@@ -23007,7 +24216,8 @@
       (keys 158)
       (real_keys 192)
       (band 130))
-   (version 30))
+;   (version 30)
+)
 (radioradio
    (song
       (tracks
@@ -23032,7 +24242,8 @@
       (keys 275)
       (real_keys 300)
       (band 219))
-   (version 30))
+;   (version 30)
+)
 (rebelyell
    (song
       (tracks
@@ -23057,7 +24268,8 @@
       (keys 211)
       (real_keys 269)
       (band 255))
-   (version 30))
+;   (version 30)
+)
 (rehash
    (song
       (tracks
@@ -23082,7 +24294,8 @@
       (band 210)
       (keys 80)
       (real_keys 20))
-   (version 30))
+;   (version 30)
+)
 (renegade
    (song
       (tracks
@@ -23107,7 +24320,7 @@
       (keys 327)
       (real_keys 327)
       (band 300))
-   (version 30)
+;   (version 30)
    (year_recorded 2009))
 (runnindownadream
    (song
@@ -23133,7 +24346,8 @@
       (keys 153)
       (real_keys 153)
       (band 285))
-   (version 30))
+;   (version 30)
+)
 (sciencegeniusgirl
    (song
       (tracks
@@ -23158,7 +24372,8 @@
       (keys 320)
       (real_keys 365)
       (band 322))
-   (version 30))
+;   (version 30)
+)
 (shesagenius
    (song
       (tracks
@@ -23183,7 +24398,8 @@
       (keys 153)
       (real_keys 153)
       (band 298))
-   (version 30))
+;   (version 30)
+)
 (smashitup
    (song
       (tracks
@@ -23210,7 +24426,8 @@
       (band 204)
       (keys 269)
       (real_keys 269))
-   (version 30))
+;   (version 30)
+)
 (steadyasshegoes
    (song
       (tracks
@@ -23235,7 +24452,8 @@
       (band 210)
       (keys 269)
       (real_keys 211))
-   (version 30))
+;   (version 30)
+)
 (stricken
    (song
       (tracks
@@ -23260,7 +24478,8 @@
       (keys 211)
       (real_keys 211)
       (band 278))
-   (version 30))
+;   (version 30)
+)
 (takeitontherun
    (song
       (tracks
@@ -23285,7 +24504,8 @@
       (keys 153)
       (real_keys 153)
       (band 245))
-   (version 30))
+;   (version 30)
+)
 (takemeout
    (song
       (tracks
@@ -23310,7 +24530,8 @@
       (keys 1)
       (real_keys 1)
       (band 211))
-   (version 30))
+;   (version 30)
+)
 (theclairvoyant
    (song
       (tracks
@@ -23335,7 +24556,35 @@
       (keys 1)
       (real_keys 1)
       (band 404))
-   (version 30))
+;   (version 30)
+)
+(theend2
+   (extra_authoring disc_update)
+   (song
+      (tracks
+         ((bass
+               (0 1))
+            (guitar
+               (2 3))
+            (vocals 4)
+            (keys
+               (5 6))))
+      (drum_solo
+         (seqs
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
+      (drum_freestyle
+         (seqs
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))))
+   (rank
+      (drum 0)
+      (guitar 283)
+      (bass 200)
+      (vocals 190)
+      (keys 153)
+      (real_keys 211)
+      (band 205))
+;   (version 30)
+   (keys_author "FujiSkunk"))
 (thefixer
    (song
       (tracks
@@ -23360,7 +24609,8 @@
       (keys 211)
       (real_keys 211)
       (band 245))
-   (version 30))
+;   (version 30)
+)
 (theresnootherway
    (song
       (tracks
@@ -23385,7 +24635,8 @@
       (keys 153)
       (real_keys 153)
       (band 258))
-   (version 30))
+;   (version 30)
+)
 (therockshow
    (song
       (tracks
@@ -23410,7 +24661,8 @@
       (keys 153)
       (real_keys 153)
       (band 303))
-   (version 30))
+;   (version 30)
+)
 (timebomb2
    (song
       (tracks
@@ -23435,7 +24687,8 @@
       (keys 448)
       (real_keys 492)
       (band 249))
-   (version 30))
+;   (version 30)
+)
 (typical
    (song
       (tracks
@@ -23460,7 +24713,8 @@
       (keys 1)
       (real_keys 1)
       (band 330))
-   (version 30))
+;   (version 30)
+)
 (walklikeanegyptian
    (song
       (tracks
@@ -23485,7 +24739,8 @@
       (keys 269)
       (real_keys 211)
       (band 284))
-   (version 30))
+;   (version 30)
+)
 (wheels
    (song
       (tracks
@@ -23510,7 +24765,8 @@
       (keys 211)
       (real_keys 1)
       (band 143))
-   (version 30))
+;   (version 30)
+)
 (wolflikeme
    (song
       (tracks
@@ -23535,7 +24791,8 @@
       (keys 211)
       (real_keys 211)
       (band 244))
-   (version 30))
+;   (version 30)
+)
 (wordforward
    (song
       (tracks
@@ -23560,7 +24817,8 @@
       (band 255)
       (keys 1)
       (real_keys 1))
-   (version 30))
+;   (version 30)
+)
 (adamssong
    (song
       (tracks
@@ -23585,7 +24843,8 @@
       (keys 153)
       (real_keys 153)
       (band 251))
-   (version 30))
+;   (version 30)
+)
 (adioslepido
    (song
       (tracks
@@ -23611,7 +24870,7 @@
       (keys 211)
       (real_keys 269)
       (band 245))
-   (version 30)
+;   (version 30)
    (encoding latin1))
 (agirllikeyou
    (song
@@ -23637,7 +24896,8 @@
       (keys 1)
       (real_keys 1)
       (band 240))
-   (version 30))
+;   (version 30)
+)
 (alivepod
    (song
       (tracks
@@ -23662,7 +24922,8 @@
       (keys 1)
       (real_keys 1)
       (band 218))
-   (version 30))
+;   (version 30)
+)
 (allstar
    (song
       (tracks
@@ -23687,7 +24948,8 @@
       (keys 153)
       (real_keys 153)
       (band 237))
-   (version 30))
+;   (version 30)
+)
 (animal
    (song
       (tracks
@@ -23712,7 +24974,8 @@
       (keys 153)
       (real_keys 153)
       (band 157))
-   (version 30))
+;   (version 30)
+)
 (badromance
    (song
       (tracks
@@ -23738,7 +25001,8 @@
       (keys 211)
       (real_keys 269)
       (band 179))
-   (version 30))
+;   (version 30)
+)
 (borntoquit
    (song
       (tracks
@@ -23763,7 +25027,8 @@
       (keys 211)
       (real_keys 211)
       (band 293))
-   (version 30))
+;   (version 30)
+)
 (childrenoftherevolution
    (song
       (tracks
@@ -23789,7 +25054,7 @@
       (keys 153)
       (real_keys 153)
       (band 145))
-   (version 30)
+;   (version 30)
    (year_recorded 1994))
 (digginmedown
    (song
@@ -23815,7 +25080,8 @@
       (keys 1)
       (real_keys 1)
       (band 359))
-   (version 30))
+;   (version 30)
+)
 (driver8
    (song
       (tracks
@@ -23842,7 +25108,8 @@
       (band 208)
       (keys 1)
       (real_keys 1))
-   (version 30))
+;   (version 30)
+)
 (feelgooddrag
    (song
       (tracks
@@ -23868,7 +25135,8 @@
       (keys 1)
       (real_keys 1)
       (band 288))
-   (version 30))
+;   (version 30)
+)
 (fijatebien
    (song
       (tracks
@@ -23894,7 +25162,7 @@
       (keys 269)
       (real_keys 269)
       (band 260))
-   (version 30)
+;   (version 30)
    (encoding latin1))
 (fireitup
    (song
@@ -23921,7 +25189,8 @@
       (keys 1)
       (real_keys 1)
       (band 270))
-   (version 30))
+;   (version 30)
+)
 (firstdate
    (song
       (tracks
@@ -23946,7 +25215,8 @@
       (keys 1)
       (real_keys 1)
       (band 289))
-   (version 30))
+;   (version 30)
+)
 (floods
    (song
       (tracks
@@ -23972,7 +25242,8 @@
       (keys 1)
       (real_keys 1)
       (band 269))
-   (version 30))
+;   (version 30)
+)
 (gotasdeaguadulce
    (song
       (tracks
@@ -23997,7 +25268,7 @@
       (keys 211)
       (real_keys 211)
       (band 209))
-   (version 30)
+;   (version 30)
    (encoding latin1))
 (hesarocker
    (song
@@ -24023,7 +25294,8 @@
       (keys 1)
       (real_keys 1)
       (band 202))
-   (version 30))
+;   (version 30)
+)
 (idontwannastop
    (song
       (tracks
@@ -24048,7 +25320,8 @@
       (band 285)
       (keys 47)
       (real_keys 67))
-   (version 30))
+;   (version 30)
+)
 (igotmine
    (song
       (tracks
@@ -24073,7 +25346,8 @@
       (keys 1)
       (real_keys 1)
       (band 179))
-   (version 30))
+;   (version 30)
+)
 (ihearditthrough
    (song
       (tracks
@@ -24098,7 +25372,8 @@
       (keys 211)
       (real_keys 269)
       (band 312))
-   (version 30))
+;   (version 30)
+)
 (imissyou
    (song
       (tracks
@@ -24123,7 +25398,8 @@
       (keys 211)
       (real_keys 211)
       (band 200))
-   (version 30))
+;   (version 30)
+)
 (irishbloodenglishheart
    (song
       (tracks
@@ -24150,7 +25426,8 @@
       (keys 153)
       (real_keys 153)
       (band 245))
-   (version 30))
+;   (version 30)
+)
 (itstheendoftheworld
    (song
       (tracks
@@ -24177,7 +25454,8 @@
       (band 200)
       (keys 153)
       (real_keys 153))
-   (version 30))
+;   (version 30)
+)
 (jesusfreak
    (song
       (tracks
@@ -24203,7 +25481,8 @@
       (keys 153)
       (real_keys 153)
       (band 242))
-   (version 30))
+;   (version 30)
+)
 (justdance
    (song
       (tracks
@@ -24229,7 +25508,8 @@
       (keys 1)
       (real_keys 1)
       (band 181))
-   (version 30))
+;   (version 30)
+)
 (lacamisanegra
    (song
       (tracks
@@ -24255,7 +25535,7 @@
       (keys 269)
       (real_keys 327)
       (band 235))
-   (version 30)
+;   (version 30)
    (encoding latin1))
 (letmehearyouscream
    (song
@@ -24281,7 +25561,8 @@
       (keys 1)
       (real_keys 1)
       (band 400))
-   (version 30))
+;   (version 30)
+)
 (littlewing
    (song
       (tracks
@@ -24308,7 +25589,8 @@
       (keys 211)
       (real_keys 211)
       (band 300))
-   (version 30))
+;   (version 30)
+)
 (lookingoutmybackdoor
    (song
       (tracks
@@ -24333,7 +25615,8 @@
       (band 193)
       (keys 211)
       (real_keys 269))
-   (version 30))
+;   (version 30)
+)
 (loveaddict
    (song
       (tracks
@@ -24358,7 +25641,8 @@
       (keys 1)
       (real_keys 1)
       (band 175))
-   (version 30))
+;   (version 30)
+)
 (lovemyway
    (song
       (tracks
@@ -24383,7 +25667,8 @@
       (keys 153)
       (real_keys 153)
       (band 148))
-   (version 30))
+;   (version 30)
+)
 (malagente
    (song
       (tracks
@@ -24409,7 +25694,7 @@
       (keys 269)
       (real_keys 269)
       (band 255))
-   (version 30)
+;   (version 30)
    (encoding latin1))
 (meaningoflife
    (song
@@ -24435,7 +25720,8 @@
       (keys 153)
       (real_keys 153)
       (band 279))
-   (version 30))
+;   (version 30)
+)
 (minerva
    (song
       (tracks
@@ -24461,7 +25747,8 @@
       (keys 1)
       (real_keys 1)
       (band 199))
-   (version 30))
+;   (version 30)
+)
 (monsterskillet
    (song
       (tracks
@@ -24486,7 +25773,8 @@
       (keys 211)
       (real_keys 211)
       (band 220))
-   (version 30))
+;   (version 30)
+)
 (mybesttheory
    (song
       (tracks
@@ -24513,7 +25801,7 @@
       (keys 80)
       (real_keys 89)
       (band 215))
-   (version 30)
+;   (version 30)
    (encoding latin1))
 (nightmare2
    (song
@@ -24540,7 +25828,8 @@
       (keys 211)
       (real_keys 269)
       (band 375))
-   (version 30))
+;   (version 30)
+)
 (nineteeneightythree
    (song
       (tracks
@@ -24565,7 +25854,8 @@
       (keys 153)
       (real_keys 153)
       (band 161))
-   (version 30))
+;   (version 30)
+)
 (nomoretears
    (song
       (tracks
@@ -24590,7 +25880,36 @@
       (keys 211)
       (real_keys 269)
       (band 260))
-   (version 30))
+;   (version 30)
+)
+(onelove
+   (song
+      (tracks
+         ((drum
+               (0 1))
+            (bass 2)
+            (guitar
+               (3 4))
+            (vocals
+               (5 6))
+            (keys
+               (7 8))))
+      (drum_solo
+         (seqs
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
+      (drum_freestyle
+         (seqs
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))))
+   (rank
+      (drum 233)
+      (guitar 145)
+      (bass 140)
+      (vocals 223)
+      (keys 153)
+      (real_keys 153)
+      (band 191))
+;   (version 30)
+   (keys_author "FujiSkunk"))
 (panicswitch
    (song
       (tracks
@@ -24615,7 +25934,8 @@
       (keys 1)
       (real_keys 1)
       (band 338))
-   (version 30))
+;   (version 30)
+)
 (pokerface
    (song
       (tracks
@@ -24641,7 +25961,8 @@
       (keys 1)
       (real_keys 170)
       (band 145))
-   (version 30))
+;   (version 30)
+)
 (pokerfacecartman
    (song
       (tracks
@@ -24667,7 +25988,8 @@
       (keys 1)
       (real_keys 170)
       (band 147))
-   (version 30))
+;   (version 30)
+)
 (ridininmychevy
    (song
       (tracks
@@ -24694,7 +26016,8 @@
       (keys 269)
       (real_keys 269)
       (band 273))
-   (version 30))
+;   (version 30)
+)
 (snoopsupsideyahead
    (song
       (tracks
@@ -24721,7 +26044,8 @@
       (keys 1)
       (real_keys 1)
       (band 213))
-   (version 30))
+;   (version 30)
+)
 (spanishcastlemagic
    (song
       (tracks
@@ -24746,7 +26070,8 @@
       (keys 269)
       (real_keys 269)
       (band 371))
-   (version 30))
+;   (version 30)
+)
 (stand
    (song
       (tracks
@@ -24773,7 +26098,8 @@
       (keys 211)
       (real_keys 269)
       (band 203))
-   (version 30))
+;   (version 30)
+)
 (swing
    (song
       (tracks
@@ -24798,7 +26124,8 @@
       (keys 153)
       (real_keys 153)
       (band 248))
-   (version 30))
+;   (version 30)
+)
 (thashiznit
    (song
       (tracks
@@ -24825,7 +26152,8 @@
       (keys 153)
       (real_keys 153)
       (band 260))
-   (version 30))
+;   (version 30)
+)
 (thatsthahomie
    (song
       (tracks
@@ -24851,7 +26179,8 @@
       (keys 153)
       (real_keys 153)
       (band 325))
-   (version 30))
+;   (version 30)
+)
 (theblackparade
    (song
       (tracks
@@ -24879,7 +26208,8 @@
       (keys 211)
       (real_keys 269)
       (band 284))
-   (version 30))
+;   (version 30)
+)
 (thedopeshow
    (song
       (tracks
@@ -24904,7 +26234,8 @@
       (keys 1)
       (real_keys 1)
       (band 178))
-   (version 30))
+;   (version 30)
+)
 (touchofgrey
    (song
       (tracks
@@ -24929,7 +26260,8 @@
       (band 262)
       (keys 153)
       (real_keys 153))
-   (version 30))
+;   (version 30)
+)
 (tragickingdom
    (song
       (tracks
@@ -24955,7 +26287,8 @@
       (keys 300)
       (real_keys 360)
       (band 399))
-   (version 30))
+;   (version 30)
+)
 (voices
    (song
       (tracks
@@ -24980,7 +26313,8 @@
       (keys 211)
       (real_keys 211)
       (band 284))
-   (version 30))
+;   (version 30)
+)
 (walkingonthemoon
    (song
       (tracks
@@ -25005,7 +26339,8 @@
       (keys 1)
       (real_keys 1)
       (band 179))
-   (version 30))
+;   (version 30)
+)
 (whatwasithinkin
    (song
       (tracks
@@ -25031,7 +26366,8 @@
       (band 259)
       (keys 269)
       (real_keys 269))
-   (version 30))
+;   (version 30)
+)
 (whoamiwhatsmyname
    (song
       (tracks
@@ -25058,7 +26394,8 @@
       (keys 1)
       (real_keys 153)
       (band 235))
-   (version 30))
+;   (version 30)
+)
 (yerbatero
    (song
       (tracks
@@ -25084,7 +26421,7 @@
       (keys 211)
       (real_keys 269)
       (band 230))
-   (version 30)
+;   (version 30)
    (encoding utf8))
 (capricididiablo
    (song
@@ -25109,7 +26446,8 @@
       (vocals 0)
       (band 525)
       (real_keys 443))
-   (version 30))
+;   (version 30)
+)
 (runthroughthejungle
    (song
       (tracks
@@ -25134,7 +26472,8 @@
       (keys 211)
       (real_keys 211)
       (band 179))
-   (version 30))
+;   (version 30)
+)
 (travellingband
    (song
       (tracks
@@ -25159,7 +26498,8 @@
       (keys 170)
       (real_keys 170)
       (band 301))
-   (version 30))
+;   (version 30)
+)
 (hongkonggarden
    (song
       (tracks
@@ -25184,7 +26524,8 @@
       (keys 150)
       (real_keys 150)
       (band 198))
-   (version 30))
+;   (version 30)
+)
 (rizeofthefenix
    (song
       (tracks
@@ -25515,6 +26856,25 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0)))
+(christiansinferno
+   (upgrade_version 1)
+   ;(midi_file "songs_upgrades/christiansinferno_plus.mid")
+   ;(song_id 1005847)
+   (rank
+      (drum 227)
+      (guitar 219)
+      (bass 192)
+      (vocals 150)
+      (band 205)
+      (real_guitar 264)
+      (real_bass 150)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   (strings_author "JohnSmith")
+   ;(rbhp_author JohnSmith (pro strings))
+   ;(rbhp_version 1)
+)
 (pieceofmyheart
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -25575,6 +26935,25 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0)))
+(psychosocial
+   (upgrade_version 1) (extra_authoring disc_update)
+   ;(midi_file "songs_upgrades/psychosocial_plus.mid")
+   ;(song_id 1005853)
+   (rank
+      (drum 400)
+      (guitar 424)
+      (bass 312)
+      (vocals 215)
+      (band 401)
+      (real_guitar 442)
+      (real_bass 325)
+   )
+   (real_guitar_tuning (-7 -5 -5 -5 -5 -5))
+   (real_bass_tuning (-7 -5 -5 -5))
+   (strings_author "JohnSmith")
+   ;(rbhp_author Espher (harmonies), JohnSmith (pro strings))
+   ;(rbhp_version 1)
+)
 (rocknrollhighschool
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -25639,6 +27018,21 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0)))
+(horseshoes
+   (upgrade_version 1)
+   ;(midi_file "songs_upgrades/horseshoes_plus.mid")
+   ;(song_id 3018)
+   (rank
+      (drum 240)
+      (guitar 247)
+      (bass 222)
+      (vocals 178)
+      (real_guitar 323)
+      (real_bass 208)
+      (band 239)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0)))
 (always
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -25675,6 +27069,25 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0)))
+(fireflies
+   (upgrade_version 1) (extra_authoring disc_update)
+   ;(midi_file "songs_upgrades/fireflies_plus.mid")
+   ;(song_id 1010629)
+   (rank
+      (drum 248)
+      (guitar 115)
+      (bass 177)
+      (vocals 347)
+      (keys 338)
+      (real_guitar 150)
+      (real_bass 150)
+      (real_keys 348)
+      (band 242)
+   )
+   (real_guitar_tuning (-1 -1 -1 -1 -1 -1))
+   (real_bass_tuning (-1 -1 -1 -1))
+   (strings_author "JohnSmith")
+)
 (pumpedupkicks
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -26864,25 +28277,6 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
-(almosteasy
-   (upgrade_version 1)
-   (extra_authoring disc_update)
-   (rank
-      (drum 365)
-      (guitar 396)
-      (bass 391)
-      (vocals 307)
-      (keys 0)
-      (real_keys 0)
-      (band 460)
-      (real_guitar 428)
-      (real_bass 328))
-   (real_guitar_tuning
-      (-2 0 0 0 0 0))
-   (real_bass_tuning
-      (-2 0 0 0))
    (strings_author
       "RK"))
 (americanwoman
@@ -28244,13 +29638,47 @@
       (real_keys 1)
       (real_guitar 221)
       (real_bass 181))
-   (version 30)
+;   (version 30)
    (real_guitar_tuning
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
    (strings_author
       "Shroud"))
+(almosteasy
+   (upgrade_version 1) (extra_authoring disc_update)
+   (song
+      (tracks
+         ((drum
+               (0 1))
+            (bass 2)
+            (guitar
+               (3 4))
+            (vocals
+               (5 6))
+            (keys
+               (7 8))))
+      (drum_solo
+         (seqs
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
+      (drum_freestyle
+         (seqs
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))))
+   (rank
+      (drum 365)
+      (guitar 396)
+      (bass 391)
+      (vocals 307)
+      (keys 269)
+      (real_keys 269)
+      (band 460)
+      (real_guitar 428)
+      (real_bass 328))
+;   (version 30)
+   (real_guitar_tuning (-2 0 0 0 0 0))
+   (real_bass_tuning (-2 0 0 0))
+   (keys_author "FujiSkunk")
+   (strings_author "RK"))
 (carryonwaywardson
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28281,7 +29709,7 @@
       (real_guitar 373)
       (real_bass 428)
       (band 433))
-   (version 30)
+;   (version 30)
    (real_guitar_tuning
       (0 0 0 0 0 0))
    (real_bass_tuning
@@ -28317,7 +29745,7 @@
       (real_guitar 193)
       (real_bass 136)
       (band 158))
-   (version 30)
+;   (version 30)
    (real_guitar_tuning
       (0 0 0 0 0 0))
    (real_bass_tuning
@@ -28345,7 +29773,7 @@
       (real_guitar 557)
       (real_bass 556)
       (band 540))
-   (version 30)
+;   (version 30)
    (real_guitar_tuning
       (0 0 0 0 0 0))
    (real_bass_tuning
@@ -28380,7 +29808,8 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (-2 0 0 0))
-   (version 30))
+;   (version 30)
+)
 (alexchilton
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28417,7 +29846,8 @@
       (0 0 0 0))
    (strings_author
       "RK")
-   (version 30))
+;   (version 30)
+)
 (allthesmallthings
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28450,7 +29880,8 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (version 30))
+;   (version 30)
+)
 (andshewas
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28483,7 +29914,8 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (version 30))
+;   (version 30)
+)
 (aqualung
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28513,7 +29945,7 @@
       (real_bass 235)
       (real_keys 379)
       (band 395))
-   (version 30)
+;   (version 30)
    (sonic_tonality 0)
    (real_guitar_tuning
       (0 0 0 0 0 0))
@@ -28550,7 +29982,7 @@
       (real_guitar 208)
       (real_bass 209)
       (band 364))
-   (version 30)
+;   (version 30)
    (real_guitar_tuning
       (0 0 0 0 0 0))
    (real_bass_tuning
@@ -28591,7 +30023,8 @@
       (0 0 0 0))
    (strings_author
       "RK")
-   (version 30))
+;   (version 30)
+)
 (brainpower
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28623,7 +30056,7 @@
       (keys 1)
       (real_keys 170)
       (band 320))
-   (version 30)
+;   (version 30)
    (strings_author
       "Ruggy")
    (keys_author
@@ -28660,7 +30093,7 @@
       (real_bass 290)
       (keys 1)
       (real_keys 1))
-   (version 30)
+;   (version 30)
    (real_guitar_tuning
       (0 0 0 0 0 0))
    (real_bass_tuning
@@ -28693,7 +30126,7 @@
       (real_guitar 160)
       (real_bass 150)
       (real_keys 20))
-   (version 30)
+;   (version 30)
    (real_guitar_tuning
       (0 0 0 0 0 0))
    (real_bass_tuning
@@ -28726,7 +30159,7 @@
       (real_bass 150)
       (real_keys 385)
       (band 213))
-   (version 30)
+;   (version 30)
    (real_guitar_tuning
       (0 0 0 0 0 0))
    (real_bass_tuning
@@ -28765,7 +30198,8 @@
       (0 0 0 0))
    (strings_author
       "Shroud")
-   (version 30))
+;   (version 30)
+)
 (checkyesjuliet
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28796,7 +30230,7 @@
       (real_guitar 168)
       (real_bass 146)
       (real_keys 327))
-   (version 30)
+;   (version 30)
    (real_guitar_tuning
       (0 0 0 0 0 0))
    (real_bass_tuning
@@ -28837,7 +30271,8 @@
       (-2 0 0 0))
    (strings_author
       "Ziggy/RK")
-   (version 30))
+;   (version 30)
+)
 (coolforcats
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28868,7 +30303,7 @@
       (real_bass 254)
       (real_keys 350)
       (band 168))
-   (version 30)
+;   (version 30)
    (real_guitar_tuning
       (0 0 0 0 0 0))
    (real_bass_tuning
@@ -28906,7 +30341,7 @@
       (real_guitar 370)
       (real_bass 340)
       (band 350))
-   (version 30)
+;   (version 30)
    (real_guitar_tuning
       (0 0 0 0 0 0))
    (real_bass_tuning
@@ -28950,7 +30385,8 @@
       (0 0 0 0))
    (strings_author
       "RK")
-   (version 30))
+;   (version 30)
+)
 (downwiththesickness
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28986,7 +30422,8 @@
       (-2 0 0 0))
    (strings_author
       "RK")
-   (version 30))
+;   (version 30)
+)
 (epic
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29025,7 +30462,8 @@
       "RK")
    (keys_author
       "TheSheepQueen")
-   (version 30))
+;   (version 30)
+)
 (feelgoodinc
    (song
       (tracks
@@ -29050,7 +30488,8 @@
       (band 209)
       (keys 60)
       (real_keys 130))
-   (version 30))
+;   (version 30)
+)
 (ghostbusters
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29087,7 +30526,8 @@
       (0 0 0 0))
    (strings_author
       "RK")
-   (version 30))
+;   (version 30)
+)
 (hungrylikethewolf
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29124,7 +30564,8 @@
       (0 0 0 0))
    (strings_author
       "RK")
-   (version 30))
+;   (version 30)
+)
 (ithinkimparanoid
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29163,7 +30604,41 @@
       "RK")
    (keys_author
       "TheSheepQueen")
-   (version 30))
+;   (version 30)
+)
+(indestructible
+   (upgrade_version 1) (extra_authoring disc_update)
+   (song
+      (tracks
+         ((drum
+               (0 1 2 3))
+            (bass 4)
+            (guitar
+               (5 6))
+            (vocals 7)
+            (keys 8)))
+      (drum_solo
+         (seqs
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
+      (drum_freestyle
+         (seqs
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))))
+   (rank
+      (drum 350)
+      (guitar 320)
+      (bass 320)
+      (vocals 146)
+      (keys 211)
+      (real_guitar 325)
+      (real_bass 325)
+      (real_keys 211)
+      (band 300))
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   (keys_author "JohnSmith")
+   (strings_author "JohnSmith")
+;   (version 30)
+)
 (iwontbackdown
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29197,7 +30672,8 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (version 30))
+;   (version 30)
+)
 (mrbrightside
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29232,7 +30708,8 @@
       (0 0 0 0))
    (strings_author
       "RK")
-   (version 30))
+;   (version 30)
+)
 (naturaldisaster
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29267,7 +30744,8 @@
       (-2 0 0 0))
    (strings_author
       "RK")
-   (version 30))
+;   (version 30)
+)
 (nineintheafternoon
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29298,7 +30776,7 @@
       (real_guitar 173)
       (real_bass 182)
       (band 142))
-   (version 30)
+;   (version 30)
    (real_guitar_tuning
       (0 0 0 0 0 0))
    (real_bass_tuning
@@ -29342,7 +30820,8 @@
       (-2 0 0 0))
    (strings_author
       "RK")
-   (version 30))
+;   (version 30)
+)
 (onewayoranother
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29379,7 +30858,8 @@
       (0 0 0 0))
    (strings_author
       "espher")
-   (version 30))
+;   (version 30)
+)
 (roxanne
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29412,7 +30892,8 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (version 30))
+;   (version 30)
+)
 (snowheyoh
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29447,7 +30928,8 @@
       (0 0 0 0))
    (strings_author
       "RK")
-   (version 30))
+;   (version 30)
+)
 (sowhatchawant
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29484,7 +30966,8 @@
       (-2 0 0 0))
    (strings_author
       "RK")
-   (version 30))
+;   (version 30)
+)
 (spacetruckin
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29519,7 +31002,8 @@
       (0 0 0 0))
    (strings_author
       "RK")
-   (version 30))
+;   (version 30)
+)
 (synchronicity2
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29554,7 +31038,8 @@
       (0 0 0 0))
    (strings_author
       "Shroud")
-   (version 30))
+;   (version 30)
+)
 (thetrees
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29590,7 +31075,43 @@
       (0 0 0 0))
    (strings_author
       "RK")
-   (version 30))
+;   (version 30)
+)
+(thunder
+   (upgrade_version 1) (extra_authoring disc_update)
+   (song
+      (tracks
+         ((drum
+               (0 1))
+            (bass 2)
+            (guitar
+               (3 4))
+            (vocals
+               (5 6))
+            (keys
+               (7 8))))
+      (drum_solo
+         (seqs
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
+      (drum_freestyle
+         (seqs
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))))
+   (rank
+      (drum 119)
+      (guitar 136)
+      (bass 140)
+      (vocals 160)
+      (keys 211)
+      (real_guitar 1)
+      (real_bass 1)
+      (real_keys 211)
+      (band 126))
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+   (keys_author "JohnSmith")
+   (strings_author "JohnSmith")
+;   (version 30)
+)
 (ticktickboom
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29627,7 +31148,8 @@
       (0 0 0 0))
    (strings_author
       "RK")
-   (version 30))
+;   (version 30)
+)
 (toxicity
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29662,7 +31184,8 @@
       (-2 0 0 0))
    (strings_author
       "RK")
-   (version 30))
+;   (version 30)
+)
 (walkingonsunshine
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29697,7 +31220,8 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (version 30))
+;   (version 30)
+)
 (wegotthebeat
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29734,7 +31258,8 @@
       (0 0 0 0))
    (strings_author
       "espher")
-   (version 30))
+;   (version 30)
+)
 (welcomehome
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29771,9 +31296,10 @@
       (0 0 0 0))
    (strings_author
       "Ziggy")
-   (strings_author
+   (keys_author
       "Linos")
-   (version 30))
+;   (version 30)
+)
 (whenyouwereyoung
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29812,7 +31338,8 @@
       "Ruggy")
    (keys_author
       "Linos")
-   (version 30))
+;   (version 30)
+)
 (whitewedding
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29849,7 +31376,8 @@
       (0 0 0 0))
    (strings_author
       "RK")
-   (version 30))
+;   (version 30)
+)
 (wonderwall
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29884,7 +31412,8 @@
       (0 0 0 0))
    (strings_author
       "espher")
-   (version 30))
+;   (version 30)
+)
 (yououghtaknow
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29921,7 +31450,8 @@
       (0 0 0 0))
    (strings_author
       "RK")
-   (version 30))
+;   (version 30)
+)
 (electricversion
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29958,7 +31488,8 @@
       "RK")
    (keys_author
       "Linos")
-   (version 30))
+;   (version 30)
+)
 (100000years
    (song_id 1005737)
    (song_length 346363)
@@ -37703,7 +39234,7 @@
    (extra_authoring disc_update)
 ;   (album_art TRUE)
    (album_name
-      "Timmy & The Lords of the Underworld")
+      "Timmy & the Lords of the Underworld")
    (album_track_number 1))
 (tnt_live
    (song_id 1005284)
