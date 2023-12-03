@@ -3,7 +3,8 @@
    (drums1d drums1)
    (drums2d drums2)
    (drums3d drums3)
-   (drums4d drums4))
+   (drums4d drums4)
+   (drums5d drums5))
 (submixes
    (basic
       (0 1 2 3 4))
@@ -168,4 +169,46 @@
          (0 1 2)
          (0 1 2)
          (0 1 2)
-         (0 1 2))))
+         (0 1 2)))
+   (drums5
+      ((0)
+         (1 2)
+         (3 4)
+         (3 4)
+         (3 4)))
+   (drums5a
+      ((0 1 2 3 4)
+         (0 1 2 3 4)
+         (0 1 2 3 4)
+         (0 1 2 3 4)
+         (0 1 2 3 4)))
+   (drums5easy
+      ((0)
+         (1 2 3 4)
+         (1 2 3 4)
+         (1 2 3 4)
+         (1 2 3 4)))
+   (drums5easynokick
+      ((0)
+         (1 2)
+         (0 3 4)
+         (0 3 4)
+         (0 3 4)))
+   (drums5easysnareonly
+      ((0)
+         (0 1 2 3 4)
+         (0 3 4)
+         (0 3 4)
+         (0 3 4)))
+   (drums5d
+      ((0)
+         (3 4)
+         (1 2)
+         (3 4)
+         (3 4)))
+   (drums5dnoflip
+      ((0)
+         (3 4)
+         (1 2)
+         (3 4)
+         (3 4))))

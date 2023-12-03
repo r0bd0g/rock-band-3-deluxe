@@ -562,6 +562,20 @@
          (1.0 0.33 1.0 0.33 0.33))
       (drums4easynokick
          (1.0 1.0 0.33 0.33 0.33))
+      (drums5
+         (1.0 1.0 0.33 0.33 0.33))
+      (drums5a
+         (1.0 1.0 0.33 0.33 0.33))
+      (drums5easy
+         (1.0 1.0 0.33 0.33 0.33))
+      (drums5easynokick
+         (1.0 1.0 0.33 0.33 0.33))
+      (drums5easysnareonly
+         (1.0 1.0 0.33 0.33 0.33))
+      (drums5d
+         (1.0 0.33 1.0 0.33 0.33))
+      (drums5dnoflip
+         (1.0 0.33 1.0 0.33 0.33))
       (default_weights basic))
    (multiplayer_lose_level 0.2)
    (save_level 0.8333)
