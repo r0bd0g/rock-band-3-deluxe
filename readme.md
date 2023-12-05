@@ -61,7 +61,7 @@ Dot Net is required to build an ARK file, the archive format the game needs to r
 Paste a copy of vanilla Rock Band 3 for Wii into the _build folder. This file MUST be named either SZBE69.wbfs (for USA version) or SZBP69.wbfs (for PAL version).
 (One way to obtain this file could be to install it from disc to a harddrive using USB Loader GX, and then use Wii-Backup-Manager to transfer a wbfs from your drive to your computer.)
 
-Run either _build_usa.bat or _build_pal.bat (depending on Rock Band 3's filename), and after several minutes, RB3DX.wbfs will be created next to the bat file.
+Run either _build_usa.bat or _build_pal.bat (depending on Rock Band 3's filename), and after several minutes, RB3DX.wbfs will be created (it should be in the same folder as the .bat file).
 You can copy RB3DX.wbfs to your Wii using whatever method you usually use (perhaps Wii-Backup-Manager), or drag it into Dolphin to boot.
 
 If you need to update, first delete or move RB3DX.wbfs from the location that it was originally created (the batch file will not replace a wbfs that already exists).
