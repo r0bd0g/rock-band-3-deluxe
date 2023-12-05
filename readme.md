@@ -6,6 +6,7 @@
 
 ### Rock Band 3 Deluxe is no longer supported on Wii ###
 
+But don't let that stop you!
 This Repo contains everything you need to build an ark for Rock Band 3 Deluxe for Wii.
 
 ## Features
@@ -58,9 +59,11 @@ In the Dependencies folder, there's an exe that are needed for install, [Dot Net
 Dot Net is required to build an ARK file, the archive format the game needs to run. You can use default options throughout the Dot Net setup process.
 
 Paste a copy of vanilla Rock Band 3 for Wii into the _build folder. This file MUST be named either SZBE69.wbfs (for USA version) or SZBP69.wbfs (for PAL version).
-One way to obtain this file could be to install it from disc to a harddrive using USB Loader GX, and then use Wii-Backup-Manager to transfer a wbfs from your drive to your computer.
+(One way to obtain this file could be to install it from disc to a harddrive using USB Loader GX, and then use Wii-Backup-Manager to transfer a wbfs from your drive to your computer.)
+
 Run either _build_usa.bat or _build_pal.bat (depending on Rock Band 3's filename), and after several minutes, RB3DX.wbfs will be created.
 You can copy RB3DX.wbfs to your Wii using whatever method you usually use (perhaps Wii-Backup-Manager), or drag it into Dolphin to boot.
+
 If you need to update, first delete or move RB3DX.wbfs from the location that it was originally created (the batch file will not replace a wbfs that already exists).
 Then, replace the files in the _ark in your local copy with the updated files in this repo, and run the batch file again. It should take a bit less time to build the second time around.
 
