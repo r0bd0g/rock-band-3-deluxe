@@ -84,6 +84,6 @@ The Wii Converter in the latest version of [C3 Tools](https://keepitfishy.com/rb
 
 [Dot Net 6.0 Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime) - Needed to run ArkHelper
 
-[Mackiloha](https://github.com/PikminGuts92/Mackiloha) - ArkHelper for building Rock Band 3 ARK - Superfreq for building .bmp_xbox highway images
+[Mackiloha](https://github.com/PikminGuts92/Mackiloha) - ArkHelper for building Rock Band 3 ARK
 
 [dtab](https://github.com/mtolly/dtab) - For serializing Rock Band dtb files
