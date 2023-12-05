@@ -69,7 +69,7 @@ Then, replace the files in the _ark in your local copy with the updated files in
 
 It is recommended to use a small USB Thumb Drive to store the game for playing on a real Wii.
 If you load DX from an SD card, you will not be able to use RB3Enhanced, nor will you be able load DLC from the SD card.
-If you load from a real harddrive and you try to playing online, Rock Band 3 Wii has always suffered from severe stuttering in these conditions, making the game largely unplayable.
+If you load from a real harddrive and you try to play online, Rock Band 3 Wii has always suffered from severe stuttering in these conditions, making the game largely unplayable.
 
 ## Songs
 
