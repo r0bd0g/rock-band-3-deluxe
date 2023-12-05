@@ -76,7 +76,8 @@ If you load from a real harddrive, if you're playing online, you can expect the 
 If you're adding songs to Wii as customs that never saw an official Wii DLC release, there are certain steps you must take to ensure best compatibility with many of the upgrade files in this repo.
 If there are more than two drum tracks, ALWAYS collapse them down to only two tracks (including updating the songs.dta and .mid file to reflect this change), and it's recommended also that you remove any crowd audio, if present.
 No further changes to the number of audio tracks in the song should be made.
-The latest version of [C3 Tools](https://keepitfishy.com/rb3/c3tools/C3Tools.zip) can do these steps for you automatically.
+
+The Wii Converter in the latest version of [C3 Tools](https://keepitfishy.com/rb3/c3tools/C3Tools.zip) can do these steps for you automatically.
 
 ## Included Dependencies
 
