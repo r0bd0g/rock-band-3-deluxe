@@ -65,7 +65,7 @@ Run either _build_usa.bat or _build_pal.bat (depending on Rock Band 3's filename
 You can copy RB3DX.wbfs to your Wii using whatever method you usually use (perhaps Wii-Backup-Manager), or drag it into Dolphin to boot.
 
 If you need to update, first delete or move RB3DX.wbfs from the location that it was originally created (the batch file will not replace a wbfs that already exists).
-Then, replace the files in the _ark in your local copy with the updated files in this repo, and run the batch file again. It should take a bit less time to build the second time around.
+Then, replace the _ark folder in your local copy with the updated _ark folder in this repo, and run the batch file again. It should take a bit less time to build the second time around.
 
 It is recommended to use a small USB Thumb Drive to store the game for playing on a real Wii.
 If you load DX from an SD card, you will not be able to use RB3Enhanced, nor will you be able load DLC from the SD card.
