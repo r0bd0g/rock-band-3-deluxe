@@ -1,0 +1,2 @@
+Paste the Rock Band 3 wbfs file into this folder!
+It should be named either "SZBE69.wbfs" for USA Version, or "SZBP69.wbfs" for PAL version.
