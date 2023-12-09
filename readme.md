@@ -55,7 +55,7 @@ This Repo contains everything you need to build a WBFS for Rock Band 3 Deluxe fo
 
 Download this branch by clicking the green "Code" button above.
 
-In the Dependencies folder, there's an exe that are needed for install, [Dot Net 6.0 Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime).
+In the Dependencies folder, there's an exe that is needed for install, [Dot Net 6.0 Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime).
 Dot Net is required to build an ARK file, the archive format the game needs to run. You can use default options throughout the Dot Net setup process.
 
 Paste a copy of vanilla Rock Band 3 for Wii into the _build folder. This file MUST be named either SZBE69.wbfs (for USA version) or SZBP69.wbfs (for PAL version).
