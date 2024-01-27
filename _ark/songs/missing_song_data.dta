@@ -11,7 +11,8 @@
       (band 292))
    (real_guitar_tuning (0 0 0 0 0 0))
    (real_bass_tuning (0 0 0 0))
-   (strings_author "Ruggy"))
+;   (strings_author "Ruggy")
+)
 (alloveryou
    (upgrade_version 1) (extra_authoring disc_update)
    (rank
@@ -24,7 +25,8 @@
       (band 264))
    (real_guitar_tuning (0 0 0 0 0 0))
    (real_bass_tuning (0 0 0 0))
-   (strings_author "Ruggy"))
+;   (strings_author "Ruggy")
+)
 (dreamgenie
    (upgrade_version 1) (extra_authoring disc_update)
    (rank
@@ -37,7 +39,8 @@
       (band 474))
    (real_guitar_tuning (-2 0 0 0 0 0))
    (real_bass_tuning (-2 0 0 0))
-   (strings_author "Augusto & Ruggy"))
+;   (strings_author "Augusto & Ruggy")
+)
 (metropolis
    (upgrade_version 1) (extra_authoring disc_update)
    (song
@@ -65,7 +68,7 @@
       (keys 443)
       (real_keys 443)
       (band 490))
-   (keys_author "farottone")
+;   (keys_author "farottone")
 ;   (version 30)
 )
 (mygodisthesun
@@ -80,7 +83,8 @@
       (band 275))
    (real_guitar_tuning (0 0 0 0 0 0))
    (real_bass_tuning (0 0 0 0))
-   (strings_author "Ruggy"))
+;   (strings_author "Ruggy")
+)
 (shortskirtlongjacket
    (upgrade_version 1) (extra_authoring disc_update)
    (song
@@ -113,8 +117,9 @@
 ;   (version 30)
    (real_guitar_tuning (0 0 0 0 0 0))
    (real_bass_tuning (-2 0 0 0))
-   (keys_author "pksage")
-   (strings_author "Ruggy"))
+;   (keys_author "pksage")
+;   (strings_author "Ruggy")
+)
 (somebodytoldme
    (upgrade_version 1) (extra_authoring disc_update)
    (song
@@ -147,8 +152,9 @@
 ;   (version 30)
    (real_guitar_tuning (-1 -1 -1 -1 -1 -1))
    (real_bass_tuning (-1 -1 -1 -1))
-   (keys_author "GHtoRB3")
-   (strings_author "Ruggy"))
+;   (keys_author "GHtoRB3")
+;   (strings_author "Ruggy")
+)
 (stillintoyou
    (upgrade_version 1) (extra_authoring disc_update)
    (rank
@@ -161,7 +167,8 @@
       (band 279))
    (real_guitar_tuning (-2 0 0 0 0 0))
    (real_bass_tuning (-3 -3 -3 -3))
-   (strings_author "Augusto & Ruggy"))
+;   (strings_author "Augusto & Ruggy")
+)
 (theimpressionthatiget
    (upgrade_version 1) (extra_authoring disc_update)
    (song
@@ -190,7 +197,8 @@
       (real_keys 211)
       (band 338))
 ;   (version 30)
-   (keys_author "GHtoRB3"))
+;   (keys_author "GHtoRB3")
+)
 (yourlove
    (upgrade_version 1) (extra_authoring disc_update)
    (rank
@@ -203,7 +211,8 @@
       (band 183))
    (real_guitar_tuning (0 0 0 0 0 0))
    (real_bass_tuning (0 0 0 0))
-   (strings_author "kevinturner"))
+;   (strings_author "kevinturner")
+)
 ; RB4 DLC upgrades
 (angel3
    (upgrade_version 1) (extra_authoring disc_update)
@@ -233,7 +242,7 @@
       (keys 1)
       (real_keys 153)
       (band 220))
-   (keys_author "C0Assassin")
+;   (keys_author "C0Assassin")
 ;   (version 30)
 )
 (borntobewild
@@ -268,8 +277,8 @@
       (band 249))
    (real_guitar_tuning (0 0 0 0 0 0))
    (real_bass_tuning (0 0 0 0))
-   (keys_author "Septekka")
-   (strings_author "columbo777")
+;   (keys_author "Septekka")
+;   (strings_author "columbo777")
 ;   (version 30)
 )
 (burninforyou
@@ -300,7 +309,7 @@
       (keys 211)
       (real_keys 211)
       (band 259))
-   (keys_author "GHtoRB3")
+;   (keys_author "GHtoRB3")
 ;   (version 30)
 )
 (fcpremix
@@ -315,7 +324,8 @@
       (band 320))
    (real_guitar_tuning (0 0 0 0 0 0))
    (real_bass_tuning (0 0 0 0))
-   (strings_author "AddyMills"))
+;   (strings_author "AddyMills")
+)
 (gimmechocolate
    (upgrade_version 1) (extra_authoring disc_update)
    (song
@@ -344,7 +354,7 @@
       (keys 153)
       (real_keys 153)
       (band 320))
-   (keys_author "C0Assassin")
+;   (keys_author "C0Assassin")
 ;   (version 30)
 )
 (holdtheline
@@ -379,8 +389,8 @@
       (band 264))
    (real_guitar_tuning (0 0 0 0 0 0))
    (real_bass_tuning (0 0 0 0))
-   (keys_author "Nyxyxylyth")
-   (strings_author "columbo777")
+;   (keys_author "Nyxyxylyth")
+;   (strings_author "columbo777")
 ;   (version 30)
 )
 (jane
@@ -414,8 +424,8 @@
       (band 267))
    (real_guitar_tuning (0 0 0 0 0 0))
    (real_bass_tuning (0 0 0 0))
-   (keys_author "Nyxyxylyth")
-   (strings_author "Nyxyxylyth")
+;   (keys_author "Nyxyxylyth")
+;   (strings_author "Nyxyxylyth")
 ;   (version 30)
 )
 (labamba
@@ -446,7 +456,7 @@
       (keys 211)
       (real_keys 211)
       (band 272))
-   (keys_author "GHtoRB3")
+;   (keys_author "GHtoRB3")
 ;   (version 30)
 )
 (seasonsofwither
@@ -461,7 +471,8 @@
       (band 166))
    (real_guitar_tuning (0 0 0 0 0 0))
    (real_bass_tuning (0 0 0 0))
-   (strings_author "The Other Side"))
+;   (strings_author "The Other Side")
+)
 (thembones
    (upgrade_version 1) (extra_authoring disc_update)
    (rank
@@ -474,7 +485,8 @@
       (band 262))
    (real_guitar_tuning (-3 -1 -1 -1 -1 -1))
    (real_bass_tuning (-3 -1 -1 -1))
-   (strings_author "SquibbleNibs"))
+;   (strings_author "SquibbleNibs")
+)
 (yourethebest
    (upgrade_version 1) (extra_authoring disc_update)
    (song
@@ -503,7 +515,7 @@
       (keys 1)
       (real_keys 1)
       (band 241))
-   (keys_author "The Other Side")
+;   (keys_author "The Other Side")
 ;   (version 30)
 )
 ; vanilla pro g
@@ -4495,42 +4507,1098 @@
    (album_name
       "Adrenaline")
    (album_track_number 7))
-(backinblack_live
-   (game_origin rbtp_acdc))
-(dirtydeeds_live
-   (game_origin rbtp_acdc))
-(fireyourguns_live
-   (game_origin rbtp_acdc))
-(forthoseabouttorock_live
-   (game_origin rbtp_acdc))
-(heatseeker_live
-   (game_origin rbtp_acdc))
-(hellaintabadplace_live
-   (game_origin rbtp_acdc))
-(hellsbells_live
-   (game_origin rbtp_acdc))
-(highvoltage_live
-   (game_origin rbtp_acdc))
-(highwaytohell_live
-   (game_origin rbtp_acdc))
-(jailbreak_live
-   (game_origin rbtp_acdc))
-(letthereberock_live
-   (game_origin rbtp_acdc))
-(moneytalks_live
-   (game_origin rbtp_acdc))
-(shoottothrill_live
-   (game_origin rbtp_acdc))
-(thejack_live
-   (game_origin rbtp_acdc))
-(thunderstruck_live
-   (game_origin rbtp_acdc))
-(tnt_live
-   (game_origin rbtp_acdc))
-(wholelottarosie_live
-   (game_origin rbtp_acdc))
-(youshookme_live
-   (game_origin rbtp_acdc))
+(backinblack_live (game_origin rbtp_acdc) (vocal_tonic_note 0) (song_tonality 0))
+(dirtydeeds_live (game_origin rbtp_acdc) (vocal_tonic_note 0) (song_tonality 0))
+(fireyourguns_live (game_origin rbtp_acdc) (vocal_tonic_note 0) (song_tonality 0))
+(forthoseabouttorock_live (game_origin rbtp_acdc) (vocal_tonic_note 0) (song_tonality 0))
+(heatseeker_live (game_origin rbtp_acdc) (vocal_tonic_note 0) (song_tonality 0))
+(hellaintabadplace_live (game_origin rbtp_acdc) (vocal_tonic_note 0) (song_tonality 0))
+(hellsbells_live (game_origin rbtp_acdc) (vocal_tonic_note 0) (song_tonality 0))
+(highvoltage_live (game_origin rbtp_acdc) (vocal_tonic_note 0) (song_tonality 0))
+(highwaytohell_live (game_origin rbtp_acdc) (vocal_tonic_note 0) (song_tonality 0))
+(jailbreak_live (game_origin rbtp_acdc) (vocal_tonic_note 0) (song_tonality 0))
+(letthereberock_live (game_origin rbtp_acdc) (vocal_tonic_note 0) (song_tonality 0))
+(moneytalks_live (game_origin rbtp_acdc) (vocal_tonic_note 0) (song_tonality 0))
+(shoottothrill_live (game_origin rbtp_acdc) (vocal_tonic_note 0) (song_tonality 0))
+(thejack_live (game_origin rbtp_acdc) (vocal_tonic_note 0) (song_tonality 0))
+(thunderstruck_live (game_origin rbtp_acdc) (vocal_tonic_note 0) (song_tonality 0))
+(tnt_live (game_origin rbtp_acdc) (vocal_tonic_note 0) (song_tonality 0))
+(wholelottarosie_live (game_origin rbtp_acdc) (vocal_tonic_note 0) (song_tonality 0))
+(youshookme_live (game_origin rbtp_acdc) (vocal_tonic_note 0) (song_tonality 0))
+(29fingers (vocal_tonic_note 2) (song_tonality 1))
+(areyougonnabemygirl (vocal_tonic_note 9) (song_tonality 0))
+(ballroomblitz (vocal_tonic_note 4) (song_tonality 0))
+(blackholesun (vocal_tonic_note 7) (song_tonality 0))
+(blitzkriegbop (vocal_tonic_note 9) (song_tonality 0))
+(blooddoll (vocal_tonic_note 2) (song_tonality 1))
+(brainpower (vocal_tonic_note 0) (song_tonality 1))
+(cantletgo (vocal_tonic_note 6) (song_tonality 1))
+(celebrityskin (vocal_tonic_note 6) (song_tonality 0))
+(cherubrock (vocal_tonic_note 4) (song_tonality 0))
+(creep (vocal_tonic_note 8) (song_tonality 0))
+(danicalifornia (vocal_tonic_note 9) (song_tonality 0))
+(daylatedollarshort (vocal_tonic_note 11) (song_tonality 0))
+(deadonarrival (vocal_tonic_note 0) (song_tonality 0))
+(detroitrockcity (vocal_tonic_note 0) (song_tonality 0))
+(dontfearthereaper (vocal_tonic_note 9) (song_tonality 0))
+(electricversion (vocal_tonic_note 4) (song_tonality 0))
+(entersandman (vocal_tonic_note 4) (song_tonality 1))
+(epic (vocal_tonic_note 4) (song_tonality 0))
+(flirtinwithdisaster (vocal_tonic_note 9) (song_tonality 0))
+(foreplaylongtime (vocal_tonic_note 1) (song_tonality 0))
+(gimmeshelter (vocal_tonic_note 0) (song_tonality 0))
+(gowiththeflow (vocal_tonic_note 4) (song_tonality 0))
+(greengrass (vocal_tonic_note 4) (song_tonality 0))
+(hereitgoesagain (vocal_tonic_note 0) (song_tonality 0))
+(highwaystar (vocal_tonic_note 7) (song_tonality 0))
+(igetby (vocal_tonic_note 11) (song_tonality 0))
+(imsosick (vocal_tonic_note 2) (song_tonality 1))
+(inbloom (vocal_tonic_note 8) (song_tonality 0))
+(ithinkimparanoid (vocal_tonic_note 7) (song_tonality 0))
+(learntofly (vocal_tonic_note 11) (song_tonality 0))
+(mainoffender (vocal_tonic_note 2) (song_tonality 0))
+(maps (vocal_tonic_note 7) (song_tonality 0))
+(missqueen (vocal_tonic_note 4) (song_tonality 0))
+(nexttoyou (vocal_tonic_note 9) (song_tonality 0))
+(nightmare (vocal_tonic_note 4) (song_tonality 1))
+(orangecrush (vocal_tonic_note 7) (song_tonality 0))
+(outside (vocal_tonic_note 0) (song_tonality 0))
+(paranoid (vocal_tonic_note 4) (song_tonality 1))
+(pleasure (vocal_tonic_note 8) (song_tonality 1))
+(reptilia (vocal_tonic_note 11) (song_tonality 1))
+(runtothehills (vocal_tonic_note 4) (song_tonality 0))
+(sabotage (vocal_tonic_note 8) (song_tonality 0))
+(sayitaintso (vocal_tonic_note 0) (song_tonality 0))
+(seven (vocal_tonic_note 11) (song_tonality 0))
+(shouldistay (vocal_tonic_note 2) (song_tonality 0))
+(suffragettecity (vocal_tonic_note 9) (song_tonality 0))
+(thehandthatfeeds (vocal_tonic_note 9) (song_tonality 1))
+(timewehad (vocal_tonic_note 0) (song_tonality 0))
+(timmy (vocal_tonic_note 3) (song_tonality 1))
+(tomsawyer (vocal_tonic_note 4) (song_tonality 1))
+(trainkeptarollin (vocal_tonic_note 4) (song_tonality 1))
+(vasoline (vocal_tonic_note 0) (song_tonality 0))
+(waveofmutilation (vocal_tonic_note 5) (song_tonality 0))
+(welcomehome (vocal_tonic_note 2) (song_tonality 0))
+(whenyouwereyoung (vocal_tonic_note 11) (song_tonality 0))
+(wontgetfooled (vocal_tonic_note 9) (song_tonality 0))
+
+
+; Rock Band 1/2 DLC
+(10s (vocal_tonic_note 3) (song_tonality 0))
+(13stepstonowhere (vocal_tonic_note 2))
+(21stcentdigiboy (vocal_tonic_note 1) (song_tonality 1))
+(2minutestomidnight (vocal_tonic_note 9) (song_tonality 0))
+(3dimesdown (vocal_tonic_note 2) (song_tonality 0))
+(3sand7s (vocal_tonic_note 10) (song_tonality 1))
+(7things (vocal_tonic_note 4) (song_tonality 0))
+(abc (vocal_tonic_note 8) (song_tonality 0))
+(aboutagirl (vocal_tonic_note 3) (song_tonality 1))
+(accordingtoyou (vocal_tonic_note 5) (song_tonality 0))
+(acleanshot (vocal_tonic_note 2) (song_tonality 1))
+(action (vocal_tonic_note 2) (song_tonality 0))
+(adamssong (vocal_tonic_note 0) (song_tonality 0))
+(adaylikethis (vocal_tonic_note 9) (song_tonality 0))
+(adioslepido (vocal_tonic_note 9) (song_tonality 0))
+(aestheticsofhate (vocal_tonic_note 1) (song_tonality 1))
+(afavorhouseatlantic (vocal_tonic_note 1) (song_tonality 1))
+(afterlife (vocal_tonic_note 2) (song_tonality 1))
+(again (vocal_tonic_note 7) (song_tonality 1))
+(agirllikeyou (vocal_tonic_note 8) (song_tonality 1))
+(aintnotelling (vocal_tonic_note 1) (song_tonality 1))
+(alivepod (vocal_tonic_note 2) (song_tonality 1))
+(allamericangirl (vocal_tonic_note 9) (song_tonality 0))
+(allgoingouttogether (vocal_tonic_note 0) (song_tonality 0))
+(alliwant (vocal_tonic_note 6) (song_tonality 0))
+(allmixedup (vocal_tonic_note 4) (song_tonality 0))
+(allmylife (vocal_tonic_note 7) (song_tonality 1))
+(allofthis (vocal_tonic_note 11) (song_tonality 0))
+(alloveragain (vocal_tonic_note 0) (song_tonality 0))
+(allstar (vocal_tonic_note 9) (song_tonality 0))
+(allthesmallthings (vocal_tonic_note 0) (song_tonality 0))
+(allthethingsthatgo (vocal_tonic_note 1) (song_tonality 1))
+(aloneinmyhead (vocal_tonic_note 9) (song_tonality 1))
+(alookinginview (vocal_tonic_note 1) (song_tonality 1))
+(alotlikeme (vocal_tonic_note 11) (song_tonality 0))
+(america (vocal_tonic_note 4) (song_tonality 0))
+(americangirl (vocal_tonic_note 2) (song_tonality 0))
+(americanmusic (vocal_tonic_note 0) (song_tonality 0))
+(amongtheliving (vocal_tonic_note 3) (song_tonality 1))
+(andjusticeforall (vocal_tonic_note 4) (song_tonality 1))
+(andres (vocal_tonic_note 4) (song_tonality 1))
+(andshewas (vocal_tonic_note 4) (song_tonality 0))
+(animal (vocal_tonic_note 5) (song_tonality 0))
+(anotheronebitesthedust (vocal_tonic_note 4) (song_tonality 0))
+(anotherwaytodie (vocal_tonic_note 1) (song_tonality 1))
+(anymanofmine (vocal_tonic_note 8) (song_tonality 0))
+(apacherosepeacock (vocal_tonic_note 4) (song_tonality 1))
+(areyougonnagomyway (vocal_tonic_note 4) (song_tonality 1))
+(ashestofire (vocal_tonic_note 3) (song_tonality 1))
+(asylum (vocal_tonic_note 3) (song_tonality 1))
+(athingaboutyou (vocal_tonic_note 9) (song_tonality 0))
+(attack (vocal_tonic_note 5) (song_tonality 1))
+(awomaninlovelive (vocal_tonic_note 11) (song_tonality 0))
+(backfromthedead (vocal_tonic_note 4) (song_tonality 1))
+(badluck (vocal_tonic_note 8) (song_tonality 0))
+(badromance (vocal_tonic_note 2) (song_tonality 1))
+(bandages (vocal_tonic_note 8) (song_tonality 1))
+(bandontherunlive (vocal_tonic_note 0) (song_tonality 0))
+(bangagong (vocal_tonic_note 5) (song_tonality 0))
+(bangbang (vocal_tonic_note 7) (song_tonality 0))
+(batcountry (vocal_tonic_note 5) (song_tonality 0))
+(bathwater (vocal_tonic_note 4) (song_tonality 1))
+(beatitondowntheline (vocal_tonic_note 0))
+(beautiful (vocal_tonic_note 5) (song_tonality 1))
+(beautifulthieves (vocal_tonic_note 6) (song_tonality 1))
+(beerformyhorses (vocal_tonic_note 10) (song_tonality 0))
+(beethovensc (vocal_tonic_note 0) (song_tonality 0))
+(beetlebum (vocal_tonic_note 10) (song_tonality 1))
+(behindblueeyes (vocal_tonic_note 4) (song_tonality 1))
+(bestdayever (vocal_tonic_note 11) (song_tonality 0))
+(bestofme (vocal_tonic_note 4) (song_tonality 1))
+(bestofyou (vocal_tonic_note 1) (song_tonality 1))
+(better (vocal_tonic_note 1) (song_tonality 1))
+(beverlyhills (vocal_tonic_note 5) (song_tonality 0))
+(bigempty (vocal_tonic_note 7) (song_tonality 0))
+(blackened (vocal_tonic_note 4) (song_tonality 1))
+(blackfriday (vocal_tonic_note 4) (song_tonality 1))
+(blacksunshine (vocal_tonic_note 9) (song_tonality 1))
+(bleedamerican (vocal_tonic_note 6) (song_tonality 1))
+(blew (vocal_tonic_note 2) (song_tonality 1))
+(bloodonmyhands (vocal_tonic_note 2) (song_tonality 0))
+(bloodstone (vocal_tonic_note 6) (song_tonality 1))
+(bluecollarman (vocal_tonic_note 2) (song_tonality 1))
+(bluejeans (vocal_tonic_note 1)  (song_tonality 1))
+(bluemorningblueday (vocal_tonic_note 11) (song_tonality 1))
+(bluesky (vocal_tonic_note 4) (song_tonality 0))
+(bluespark (song_tonality 0))
+(bodyioccupy (vocal_tonic_note 7) (song_tonality 1))
+(borntoquit (vocal_tonic_note 2) (song_tonality 0))
+(bounce (vocal_tonic_note 11) (song_tonality 0))
+(boysarebackintown (vocal_tonic_note 8) (song_tonality 0))
+(breakdownlive (vocal_tonic_note 9) (song_tonality 0))
+(breakingthegirl (vocal_tonic_note 8) (song_tonality 1))
+(breakmyheart (song_tonality 1))
+(bringmetolife (vocal_tonic_note 4) (song_tonality 1))
+(buddyholly (vocal_tonic_note 8) (song_tonality 0))
+(buffalosoldier (vocal_tonic_note 9) (song_tonality 0))
+(buildabridge (vocal_tonic_note 4) (song_tonality 0))
+(bulletproof (vocal_tonic_note 3) (song_tonality 1))
+(bulletsandguns (vocal_tonic_note 7) (song_tonality 1))
+(burn (vocal_tonic_note 2) (vocal_tonic_note 2) (song_tonality 1))
+(burnittotheground (vocal_tonic_note 11) (song_tonality 1))
+(burnrz (vocal_tonic_note 0) (song_tonality 1))
+(burnyoudown (vocal_tonic_note 2) (song_tonality 0))
+(burymealive (vocal_tonic_note 11) (song_tonality 1))
+(byebyelove (vocal_tonic_note 9) (song_tonality 0))
+(byob (vocal_tonic_note 1) (song_tonality 1))
+(californiauberalles (vocal_tonic_note 3) (song_tonality 1))
+(callingdrlove (vocal_tonic_note 3) (song_tonality 1))
+(callme (vocal_tonic_note 2) (song_tonality 1))
+(callmewhenyouresober (vocal_tonic_note 4) (song_tonality 0))
+(caniplaywithmadness (vocal_tonic_note 0) (song_tonality 0))
+(cantbetamed (vocal_tonic_note 11) (song_tonality 1))
+(cantletgo_lucinda (vocal_tonic_note 7) (song_tonality 1))
+(cantstandlosingyou (vocal_tonic_note 2) (song_tonality 1))
+(cantstoprockin (vocal_tonic_note 8) (song_tonality 1))
+(capitalg (vocal_tonic_note 2) (song_tonality 1))
+(caseyjones (vocal_tonic_note 0) (song_tonality 0))
+(catcherintherye (vocal_tonic_note 4) (song_tonality 0))
+(centurycitylive (vocal_tonic_note 9) (song_tonality 0))
+(checkmybrain (vocal_tonic_note 5) (song_tonality 1))
+(cheeseburgerinparadise (vocal_tonic_note 2) (song_tonality 0))
+(cherrybomb (vocal_tonic_note 11) (song_tonality 0))
+(cherrywaves (vocal_tonic_note 9) (song_tonality 0))
+(chestfeverlive (vocal_tonic_note 4) (song_tonality 0))
+(childrenoftherevolution (vocal_tonic_note 4) (song_tonality 1))
+(chinacatsunflower (vocal_tonic_note 7) (song_tonality 0))
+(chinesedemocracy (vocal_tonic_note 2) (song_tonality 1))
+(chiron (vocal_tonic_note 1) (song_tonality 1))
+(clinteastwood (vocal_tonic_note 3) (song_tonality 1))
+(closer (vocal_tonic_note 9) (song_tonality 1))
+(closertotheedge (vocal_tonic_note 6) (song_tonality 0))
+(clubfoot (vocal_tonic_note 0) (song_tonality 1))
+(cmoncmon (vocal_tonic_note 0) (song_tonality 0))
+(coffinnails (vocal_tonic_note 4) (song_tonality 0))
+(coldrainandsnow (vocal_tonic_note 2) (song_tonality 0))
+(comeasyouarelive (vocal_tonic_note 4) (song_tonality 1))
+(completecontrol (vocal_tonic_note 4) (song_tonality 0))
+(conquerall (vocal_tonic_note 1) (song_tonality 1))
+(constantmotion (vocal_tonic_note 4) (song_tonality 1))
+(control (vocal_tonic_note 3) (song_tonality 1))
+(cosmicdancer (vocal_tonic_note 7) (song_tonality 0))
+(couldyoubeloved (vocal_tonic_note 11) (song_tonality 1))
+(countdowntoinsanity (vocal_tonic_note 10) (song_tonality 1))
+(crackerman (vocal_tonic_note 6) (song_tonality 1))
+(crawl (vocal_tonic_note 2) (song_tonality 1))
+(crazybabies (vocal_tonic_note 3) (song_tonality 1))
+(crazylittlething (vocal_tonic_note 2) (song_tonality 0))
+(crazytuesday (vocal_tonic_note 0) (song_tonality 1))
+(creamandbastards (vocal_tonic_note 6) (song_tonality 0))
+(creepinupthebackstairs (vocal_tonic_note 7) (song_tonality 0))
+(creepstp (vocal_tonic_note 4) (song_tonality 1))
+(crosseyedandpainless (vocal_tonic_note 11) (song_tonality 1))
+(crushcrushcrush (vocal_tonic_note 1) (song_tonality 1))
+(crylonely (vocal_tonic_note 4) (song_tonality 1))
+(cumberlandblues (vocal_tonic_note 7) (song_tonality 0))
+(cupsandcakes (vocal_tonic_note 0) (song_tonality 0))
+(cuzurnext (vocal_tonic_note 0) (song_tonality 0))
+(damnationgame (vocal_tonic_note 0) (song_tonality 0))
+(danceepidemic (vocal_tonic_note 4) (song_tonality 1))
+(darlingdear (vocal_tonic_note 6) (song_tonality 0))
+(databasecorrupted (vocal_tonic_note 2) (song_tonality 0))
+(datewiththenight (vocal_tonic_note 4) (song_tonality 1))
+(daysgoby (vocal_tonic_note 2) (song_tonality 0))
+(deadandbloated (vocal_tonic_note 2) (song_tonality 1))
+(dearestimsosorry (vocal_tonic_note 2) (song_tonality 1))
+(debaser (vocal_tonic_note 5) (song_tonality 0))
+(decentdaysandnights (vocal_tonic_note 4) (song_tonality 0))
+(deuce (vocal_tonic_note 8) (song_tonality 1))
+(devilschild (vocal_tonic_note 0) (song_tonality 0))
+(devilsisland (vocal_tonic_note 0) (song_tonality 0))
+(devour (vocal_tonic_note 2) (song_tonality 1))
+(diaryofjane (vocal_tonic_note 10)  (song_tonality 1))
+(dieallright (vocal_tonic_note 4) (song_tonality 1))
+(differentpeople (vocal_tonic_note 1) (song_tonality 1))
+(digginmedown (vocal_tonic_note 0) (song_tonality 1))
+(dirtylittlesecret (vocal_tonic_note 10) (song_tonality 0))
+(disposableteens (vocal_tonic_note 2) (song_tonality 1))
+(distracted (vocal_tonic_note 10) (song_tonality 1))
+(doa_foos (vocal_tonic_note 9) (song_tonality 1))
+(dontchastop (vocal_tonic_note 9) (song_tonality 0))
+(donteasemein (vocal_tonic_note 4) (song_tonality 0))
+(dontgoawaymad (vocal_tonic_note 2) (song_tonality 0))
+(dontlookbackinanger (vocal_tonic_note 0) (song_tonality 0))
+(dontmakemewait (vocal_tonic_note 9) (song_tonality 0))
+(dontspeak (vocal_tonic_note 5) (song_tonality 1))
+(dontstop (vocal_tonic_note 4) (song_tonality 0))
+(dontstopbelieving (vocal_tonic_note 0) (song_tonality 0))
+(donttellme (vocal_tonic_note 11))
+(donttellmeyouloveme (vocal_tonic_note 6) (song_tonality 1))
+(dontyouevah (vocal_tonic_note 1) (song_tonality 1))
+(down (vocal_tonic_note 11) (song_tonality 0))
+(downatthewhiskey (vocal_tonic_note 2) (song_tonality 0))
+(downfall (vocal_tonic_note 3) (song_tonality 1))
+(downonthecorner (vocal_tonic_note 0) (song_tonality 0))
+(doyouwantto (vocal_tonic_note 7) (song_tonality 1))
+(dragthewaters (vocal_tonic_note 1))
+(dragula (vocal_tonic_note 0) (song_tonality 1))
+(draintheblood (vocal_tonic_note 9) (song_tonality 1))
+(dreamin (vocal_tonic_note 2) (song_tonality 0))
+(dreamingoflove (vocal_tonic_note 0) (song_tonality 0))
+(drfeelgood (vocal_tonic_note 4) (song_tonality 0))
+(driver8 (vocal_tonic_note 4) (song_tonality 1))
+(dropitlikeitshot (vocal_tonic_note 1) (song_tonality 0))
+(dunebuggy (vocal_tonic_note 1) (song_tonality 0))
+(electriccrown (vocal_tonic_note 5) (song_tonality 1))
+(elscorcho (vocal_tonic_note 8) (song_tonality 0))
+(eminencefront (vocal_tonic_note 5) (song_tonality 1))
+(employeeofthemonth (vocal_tonic_note 0) (song_tonality 0))
+(emptywalls (vocal_tonic_note 0) (song_tonality 1))
+(enditonthis (vocal_tonic_note 2) (song_tonality 1))
+(endtransmission (vocal_tonic_note 5) (song_tonality 1))
+(entangled (vocal_tonic_note 4) (song_tonality 0))
+(eventhelosers (vocal_tonic_note 2) (song_tonality 0))
+(everfalleninlove (vocal_tonic_note 1) (song_tonality 1))
+(excusememr (vocal_tonic_note 2) (song_tonality 1))
+(exgirlfriend (vocal_tonic_note 4) (song_tonality 1))
+(exodus (vocal_tonic_note 9) (song_tonality 1))
+(facedowninthedirt (vocal_tonic_note 7) (song_tonality 1))
+(fafafafafa (vocal_tonic_note 10) (song_tonality 1))
+(fakefriends (vocal_tonic_note 9) (song_tonality 0))
+(fancy (vocal_tonic_note 6) (song_tonality 1))
+(fascination (vocal_tonic_note 9) (song_tonality 0))
+(fatbottomedgirls (vocal_tonic_note 2) (song_tonality 0))
+(featherpluckn (vocal_tonic_note 1) (song_tonality 0))
+(februarystars (vocal_tonic_note 2) (song_tonality 0))
+(feedthetree (vocal_tonic_note 7) (song_tonality 0))
+(feelgooddrag (vocal_tonic_note 5) (song_tonality 1))
+(feelgoodinc (vocal_tonic_note 3) (song_tonality 1))
+(feelingthis (vocal_tonic_note 4) (song_tonality 0))
+(feelslikethefirsttime (vocal_tonic_note 7) (song_tonality 0))
+(fever (vocal_tonic_note 9) (song_tonality 1))
+(figuredyouout (vocal_tonic_note 0) (song_tonality 1))
+(fijatebien (vocal_tonic_note 11) (song_tonality 0))
+(fireitup (vocal_tonic_note 2) (song_tonality 1))
+(fireonthemountain (vocal_tonic_note 11) (song_tonality 0))
+(firstdate (vocal_tonic_note 0) (song_tonality 0))
+(fivemagics (vocal_tonic_note 4) (song_tonality 1))
+(flathead (vocal_tonic_note 0) (song_tonality 0))
+(floods (vocal_tonic_note 11) (song_tonality 0))
+(flowerpeople (vocal_tonic_note 2) (song_tonality 0))
+(flyonthewall (vocal_tonic_note 7) (song_tonality 1))
+(forever (vocal_tonic_note 8) (song_tonality 1))
+(foxeylady (vocal_tonic_note 6) (song_tonality 1))
+(franklinstower (vocal_tonic_note 9) (song_tonality 0))
+(freeandeasy (vocal_tonic_note 6) (song_tonality 0))
+(funk49 (vocal_tonic_note 9) (song_tonality 1))
+(funkymonks (vocal_tonic_note 7) (song_tonality 1))
+(funkysexfarm (vocal_tonic_note 9) (song_tonality 1))
+(futureperfecttense (vocal_tonic_note 5) (song_tonality 1))
+(futures (vocal_tonic_note 3) (song_tonality 0))
+(gaybar (vocal_tonic_note 2) (song_tonality 1))
+(geraldine (vocal_tonic_note 0) (song_tonality 0))
+(getiton (vocal_tonic_note 11) (song_tonality 1))
+(getout (vocal_tonic_note 1) (song_tonality 0))
+(getready2rokk (vocal_tonic_note 6) (song_tonality 1))
+(getup (vocal_tonic_note 0) (song_tonality 0))
+(getyourrockon (vocal_tonic_note 2) (song_tonality 1))
+(gimmesomemoney (vocal_tonic_note 4) (song_tonality 1))
+(gimmethreesteps (vocal_tonic_note 2) (song_tonality 0))
+(girlfriendisbetter (vocal_tonic_note 2) (song_tonality 1))
+(girlsonfilm (vocal_tonic_note 9) (song_tonality 1))
+(girlswhoplayguitars (vocal_tonic_note 4) (song_tonality 0))
+(girluwant (vocal_tonic_note 4) (song_tonality 0))
+(givesyouhell (vocal_tonic_note 4) (song_tonality 0))
+(godzilla (vocal_tonic_note 6) (song_tonality 1))
+(goingunderground (vocal_tonic_note 11) (song_tonality 0))
+(gone (vocal_tonic_note 1) (song_tonality 1))
+(goneaway (vocal_tonic_note 5) (song_tonality 1))
+(gone_mg (vocal_tonic_note 0) (song_tonality 0))
+(goodmorningblackfriday (vocal_tonic_note 4) (song_tonality 1))
+(goodtime (vocal_tonic_note 4) (song_tonality 1))
+(goodtimesroll (vocal_tonic_note 7) (song_tonality 0))
+(gotasdeaguadulce (vocal_tonic_note 4) (song_tonality 0))
+(gotnuffin (vocal_tonic_note 7) (song_tonality 1))
+(gougeaway (vocal_tonic_note 8) (song_tonality 1))
+(grind (vocal_tonic_note 4) (song_tonality 1))
+(gunpowderandlead (vocal_tonic_note 7) (song_tonality 1))
+(gunsofsummer (vocal_tonic_note 2) (song_tonality 0))
+(hadadad (vocal_tonic_note 9) (song_tonality 1))
+(hairofthedog (vocal_tonic_note 0) (song_tonality 0))
+(hammerhead (song_tonality 1))
+(hammersmashedface (vocal_tonic_note 3) (song_tonality 1))
+(handmedownworld (vocal_tonic_note 4) (song_tonality 0))
+(handsdown (vocal_tonic_note 3) (song_tonality 0))
+(hangingonthetelephone (vocal_tonic_note 7) (song_tonality 1))
+(hanukkahblessings (vocal_tonic_note 2) (song_tonality 0))
+(happynow (vocal_tonic_note 0) (song_tonality 1))
+(haypocorockandroll (vocal_tonic_note 5) (song_tonality 0))
+(headknocker (vocal_tonic_note 9) (song_tonality 0))
+(headoverfeet (vocal_tonic_note 0) (song_tonality 0))
+(headphoneson (vocal_tonic_note 1) (song_tonality 1))
+(heartbreaker (vocal_tonic_note 5) (song_tonality 1))
+(heartkiller (vocal_tonic_note 5) (song_tonality 1))
+(heavenbesideyou (vocal_tonic_note 3) (song_tonality 1))
+(heavyduty (vocal_tonic_note 9) (song_tonality 1))
+(hellagood (vocal_tonic_note 7) (song_tonality 1))
+(hellhole (vocal_tonic_note 9) (song_tonality 1))
+(hellionelectriceye (vocal_tonic_note 4) (song_tonality 1))
+(hellontheheart (vocal_tonic_note 0) (song_tonality 0))
+(henrietta (vocal_tonic_note 11) (song_tonality 0))
+(herecomesmygirl (vocal_tonic_note 9) (song_tonality 0))
+(herecomesyourman (vocal_tonic_note 2) (song_tonality 0))
+(herewearejuggernaut (vocal_tonic_note 1) (song_tonality 0))
+(heroes (vocal_tonic_note 2) (song_tonality 0))
+(hesarocker (vocal_tonic_note 9) (song_tonality 0))
+(hey (vocal_tonic_note 2) (song_tonality 0))
+(heybaby (vocal_tonic_note 4) (song_tonality 1))
+(heydude (vocal_tonic_note 7) (song_tonality 1))
+(heyjohnnypark (vocal_tonic_note 11) (song_tonality 1))
+(heyjohnwhatsyournameagain (vocal_tonic_note 2) (song_tonality 1))
+(heyyou (vocal_tonic_note 2) (song_tonality 0))
+(hillbillydeluxe (vocal_tonic_note 2) (song_tonality 1))
+(hitcharide (vocal_tonic_note 2) (song_tonality 0))
+(hitmewithyourbestshot (vocal_tonic_note 4) (song_tonality 0))
+(holeintheearth (vocal_tonic_note 2) (song_tonality 1))
+(holidayincambodia (vocal_tonic_note 9) (song_tonality 1))
+(holydiver (vocal_tonic_note 0) (song_tonality 1))
+(holywars (vocal_tonic_note 4) (song_tonality 1))
+(hongkonggarden (vocal_tonic_note 0) (song_tonality 0))
+(houndsoflove (vocal_tonic_note 9) (song_tonality 0))
+(howdoyoulikemenow (vocal_tonic_note 0) (song_tonality 0))
+(huckleberrycrumble (vocal_tonic_note 4) (song_tonality 1))
+(hungrywolf (vocal_tonic_note 9) (song_tonality 1))
+(hysteria (vocal_tonic_note 10) (song_tonality 1))
+(iamarock (vocal_tonic_note 0) (song_tonality 0))
+(ibleed (vocal_tonic_note 6) (song_tonality 0))
+(icanttakemyeyes (vocal_tonic_note 5) (song_tonality 0))
+(icarus (vocal_tonic_note 6) (song_tonality 0))
+(ididntsayiwas (vocal_tonic_note 6) (song_tonality 1))
+(idiotsrule (vocal_tonic_note 2) (song_tonality 1))
+(idontcare (vocal_tonic_note 6) (song_tonality 0))
+(idontlikeyou (vocal_tonic_note 7) (song_tonality 0))
+(idontwannastop (vocal_tonic_note 0) (song_tonality 1))
+(idontwanttogotoschool (vocal_tonic_note 7) (song_tonality 0))
+(if6was9 (vocal_tonic_note 3) (song_tonality 1))
+(ifiaintgotyou (vocal_tonic_note 4) (song_tonality 1))
+(ifoughtthelaw (vocal_tonic_note 2) (song_tonality 0))
+(ifyouhavetoask (vocal_tonic_note 0) (song_tonality 1))
+(igotmine (vocal_tonic_note 4) (song_tonality 1))
+(ihearditthrough (vocal_tonic_note 2) (song_tonality 1))
+(iknowwhereyou (vocal_tonic_note 7) (song_tonality 0))
+(illstickaround (vocal_tonic_note 7) (song_tonality 0))
+(ilovethisbar (vocal_tonic_note 2) (song_tonality 0))
+(imageoftheinvisible (vocal_tonic_note 7) (song_tonality 1))
+(imeighteenlive (vocal_tonic_note 4) (song_tonality 1))
+(imissyou (vocal_tonic_note 11) (song_tonality 0))
+(imnotokay (vocal_tonic_note 2) (song_tonality 0))
+(imshippingup (vocal_tonic_note 4) (song_tonality 1))
+(imtheman (vocal_tonic_note 4) (song_tonality 1))
+(imustnotthink (vocal_tonic_note 4) (song_tonality 0))
+(indestructible (vocal_tonic_note 0) (song_tonality 1))
+(indians (vocal_tonic_note 4) (song_tonality 1))
+(indreams (vocal_tonic_note 0) (song_tonality 0))
+(ineedamiracle (vocal_tonic_note 4) (song_tonality 1))
+(insideout (vocal_tonic_note 11) (song_tonality 1))
+(insidethefire (vocal_tonic_note 7) (song_tonality 1))
+(interstatelovesong (vocal_tonic_note 1) (song_tonality 1))
+(intouch (vocal_tonic_note 2) (song_tonality 0))
+(ionlywantyou (vocal_tonic_note 9) (song_tonality 1))
+(ipredictariot (vocal_tonic_note 0) (song_tonality 1))
+(irishbloodenglishheart (vocal_tonic_note 9) (song_tonality 1))
+(ironic (vocal_tonic_note 11) (song_tonality 0))
+(ironmaidenlive (vocal_tonic_note 0) (song_tonality 0))
+(ishotthesheriff (vocal_tonic_note 7) (song_tonality 1))
+(istandalone (vocal_tonic_note 0) (song_tonality 1))
+(isthislove (vocal_tonic_note 5) (song_tonality 1))
+(ithappens (vocal_tonic_note 3) (song_tonality 0))
+(ithurts (vocal_tonic_note 9) (song_tonality 0))
+(itoldyouso (vocal_tonic_note 1) (song_tonality 1))
+(itsmylife (vocal_tonic_note 10) (song_tonality 1))
+(itsnotmytime (vocal_tonic_note 9) (song_tonality 1))
+(itstheendoftheworld (vocal_tonic_note 7) (song_tonality 0))
+(iturnmycameraon (vocal_tonic_note 9) (song_tonality 1))
+(iv (vocal_tonic_note 4) (song_tonality 1))
+(iwantyouto (vocal_tonic_note 2) (song_tonality 0))
+(iwillnotbow (vocal_tonic_note 0) (song_tonality 1))
+(iwontbackdown (vocal_tonic_note 4) (song_tonality 1))
+(jamming (vocal_tonic_note 11) (song_tonality 1))
+(jamminme (vocal_tonic_note 4) (song_tonality 0))
+(janesays (vocal_tonic_note 9) (song_tonality 0))
+(jesusbuiltmyhotrod (vocal_tonic_note 5) (song_tonality 0))
+(jesuschristpose (vocal_tonic_note 2) (song_tonality 1))
+(jesusfreak (vocal_tonic_note 4) (song_tonality 1))
+(jetlive (vocal_tonic_note 9) (song_tonality 0))
+(jokerandthe (vocal_tonic_note 2) (song_tonality 1))
+(jukeboxhero (vocal_tonic_note 4) (song_tonality 0))
+(junkiesforfame (vocal_tonic_note 2) (song_tonality 1))
+(justagirl (vocal_tonic_note 2) (song_tonality 0))
+(justdance (vocal_tonic_note 9) (song_tonality 1))
+(justfortonight (vocal_tonic_note 2) (song_tonality 0))
+(justwhatineeded (vocal_tonic_note 4) (song_tonality 0))
+(kickstartmyheart (vocal_tonic_note 7) (song_tonality 0))
+(killedbydeath (vocal_tonic_note 8) (song_tonality 1))
+(killingjar (vocal_tonic_note 0) (song_tonality 0))
+(kingsandqueens (vocal_tonic_note 3) (song_tonality 0))
+(kissthemforme (vocal_tonic_note 5) (song_tonality 0))
+(knightonthetown (vocal_tonic_note 4) (song_tonality 1))
+(koolthing (vocal_tonic_note 9) (song_tonality 0))
+(lacamisanegra (vocal_tonic_note 6) (song_tonality 0))
+(ladybug (vocal_tonic_note 6) (song_tonality 0))
+(lalaloveyou (vocal_tonic_note 2) (song_tonality 1))
+(last (vocal_tonic_note 2) (song_tonality 1))
+(lastofmykind (vocal_tonic_note 3) (song_tonality 1))
+(lastonetodie (vocal_tonic_note 7) (song_tonality 0))
+(lastresort (vocal_tonic_note 4) (song_tonality 1))
+(lasttraintoclarksville (vocal_tonic_note 0) (song_tonality 0))
+(leavinghere (vocal_tonic_note 1) (song_tonality 1))
+(lesstalkmorerokk (vocal_tonic_note 2) (song_tonality 1))
+(letforeverbe (vocal_tonic_note 3) (song_tonality 0))
+(letitallhangout (vocal_tonic_note 0) (song_tonality 0))
+(letloverule (vocal_tonic_note 4) (song_tonality 1))
+(letmehearyouscream (vocal_tonic_note 2) (song_tonality 1))
+(levitate (vocal_tonic_note 2) (song_tonality 1))
+(liar (vocal_tonic_note 8) (song_tonality 1))
+(lieslieslies (vocal_tonic_note 0) (song_tonality 0))
+(lifeisbeautiful (vocal_tonic_note 2) (song_tonality 1))
+(lifeline (vocal_tonic_note 2) (song_tonality 0))
+(likeafool (vocal_tonic_note 8) (song_tonality 1))
+(limelight2 (vocal_tonic_note 11) (song_tonality 0))
+(linger (vocal_tonic_note 2) (song_tonality 0))
+(listentothemusic (vocal_tonic_note 4) (song_tonality 0))
+(littlemisslover (vocal_tonic_note 6) (song_tonality 1))
+(littleofyourtime (vocal_tonic_note 4) (song_tonality 1))
+(littlesister (vocal_tonic_note 1) (song_tonality 1))
+(liveforever (vocal_tonic_note 7) (song_tonality 0))
+(livelifeloud (vocal_tonic_note 4) (song_tonality 0))
+(livinatthecorner (vocal_tonic_note 4) (song_tonality 0))
+(livingaftermidnightlive (vocal_tonic_note 4) (song_tonality 0))
+(livingthroughme (vocal_tonic_note 3))
+(livingwell (vocal_tonic_note 11) (song_tonality 1))
+(lonelyasyou (vocal_tonic_note 6) (song_tonality 0))
+(longtrainrunnin (vocal_tonic_note 7) (song_tonality 1))
+(lookinforagoodtime (vocal_tonic_note 7) (song_tonality 0))
+(losangeles (vocal_tonic_note 9) (song_tonality 1))
+(losingmyreligion (vocal_tonic_note 9) (song_tonality 1))
+(loveaddict (vocal_tonic_note 2) (song_tonality 1))
+(lovelikewinter (vocal_tonic_note 1) (song_tonality 0))
+(lovemyway (vocal_tonic_note 0) (song_tonality 0))
+(lovespreads (vocal_tonic_note 2) (song_tonality 1))
+(luciddreams (vocal_tonic_note 1) (song_tonality 1))
+(luckydenvermint (vocal_tonic_note 2) (song_tonality 0))
+(lucretia (vocal_tonic_note 6) (song_tonality 1))
+(madagascar (vocal_tonic_note 9) (song_tonality 1))
+(madhouselive (vocal_tonic_note 11) (song_tonality 1))
+(magicbuslive (vocal_tonic_note 9) (song_tonality 1))
+(makedamnsure (vocal_tonic_note 6) (song_tonality 0))
+(makesmewonder (vocal_tonic_note 11) (song_tonality 1))
+(malagente (vocal_tonic_note 11) (song_tonality 0))
+(manuchao (vocal_tonic_note 4) (song_tonality 0))
+(manyshadesofblack (vocal_tonic_note 7) (song_tonality 1))
+(marchofthepigs (vocal_tonic_note 2) (song_tonality 1))
+(margaritaville (vocal_tonic_note 2) (song_tonality 0))
+(maryjane (vocal_tonic_note 9) (song_tonality 1))
+(maythisbelove (vocal_tonic_note 3) (song_tonality 0))
+(meandmygang (vocal_tonic_note 0) (song_tonality 0))
+(meaningoflife (vocal_tonic_note 3) (song_tonality 1))
+(meanttolive (vocal_tonic_note 11) (song_tonality 1))
+(meanwomanblues (vocal_tonic_note 9) (song_tonality 1))
+(medicate (vocal_tonic_note 8) (song_tonality 1))
+(melatonin (vocal_tonic_note 7) (song_tonality 0))
+(mellowshipslinkyinbmajor (vocal_tonic_note 11) (song_tonality 0))
+(messageinabottle (vocal_tonic_note 1) (song_tonality 1))
+(mica (vocal_tonic_note 9) (song_tonality 1))
+(midnightrider (vocal_tonic_note 2) (song_tonality 0))
+(minerva (vocal_tonic_note 1))
+(missindependent (vocal_tonic_note 11) (song_tonality 1))
+(missmurder (vocal_tonic_note 8) (song_tonality 0))
+(mollychambers (vocal_tonic_note 9) (song_tonality 1))
+(monkeygonetoheaven (vocal_tonic_note 2) (song_tonality 0))
+(monkeywrench (vocal_tonic_note 11) (song_tonality 0))
+(monsoon (vocal_tonic_note 3) (song_tonality 1))
+(monstergaga (vocal_tonic_note 7) (song_tonality 0))
+(monsterskillet (vocal_tonic_note 0) (song_tonality 1))
+(monymony (vocal_tonic_note 6) (song_tonality 0))
+(moonagedaydream (vocal_tonic_note 5) (song_tonality 1))
+(morethanafeeling (vocal_tonic_note 2) (song_tonality 0))
+(morethanmeetstheeye (vocal_tonic_note 3) (song_tonality 1))
+(movealong (vocal_tonic_note 3) (song_tonality 0))
+(movingtoseattle (vocal_tonic_note 9) (song_tonality 1))
+(mrcabdriver (vocal_tonic_note 9) (song_tonality 1))
+(mrgrieves (vocal_tonic_note 10) (song_tonality 1))
+(mudonthetires (vocal_tonic_note 2) (song_tonality 0))
+(mybestfriendsgirl (vocal_tonic_note 5) (song_tonality 0))
+(mybesttheory (vocal_tonic_note 4) (song_tonality 1))
+(mycurse (vocal_tonic_note 0) (song_tonality 1))
+(mygeneration (vocal_tonic_note 9) (song_tonality 0))
+(mylastwords (vocal_tonic_note 2) (song_tonality 1))
+(mynameisjonas (vocal_tonic_note 11) (song_tonality 0))
+(myoldschool (vocal_tonic_note 7) (song_tonality 0))
+(mysharona (vocal_tonic_note 7) (song_tonality 1))
+(nakedeye (vocal_tonic_note 7) (song_tonality 0))
+(nakedintherain (vocal_tonic_note 2) (song_tonality 1))
+(naturaldisaster (vocal_tonic_note 2) (song_tonality 0))
+(nearlylostyou (vocal_tonic_note 4) (song_tonality 1))
+(neveragain (vocal_tonic_note 2) (song_tonality 1))
+(new (vocal_tonic_note 6) (song_tonality 1))
+(newdarkages (vocal_tonic_note 2) (song_tonality 0))
+(newmoonrising (vocal_tonic_note 11) (song_tonality 1))
+(newwave (vocal_tonic_note 11) (song_tonality 1))
+(newwayhome (vocal_tonic_note 9) (song_tonality 0))
+(nightmare2 (vocal_tonic_note 2) (song_tonality 0))
+(nightwatchmanlive (vocal_tonic_note 4) (song_tonality 0))
+(nineteeneightythree (vocal_tonic_note 5) (song_tonality 0))
+(nirvana (vocal_tonic_note 4) (song_tonality 1))
+(no13baby (vocal_tonic_note 7) (song_tonality 1))
+(nocontrol (vocal_tonic_note 11) (song_tonality 1))
+(noexcuses (vocal_tonic_note 10) (song_tonality 1))
+(nomoretears (vocal_tonic_note 1) (song_tonality 1))
+(norain (vocal_tonic_note 4) (song_tonality 0))
+(noregrets (vocal_tonic_note 11) (song_tonality 1))
+(notime (vocal_tonic_note 0) (song_tonality 0))
+(nowomannocry (vocal_tonic_note 1) (song_tonality 0))
+(numberofthebeast2 (vocal_tonic_note 7) (song_tonality 0))
+(oceanavenue (vocal_tonic_note 4) (song_tonality 0))
+(oceansize (vocal_tonic_note 4) (song_tonality 1))
+(odetosolitude (vocal_tonic_note 5) (song_tonality 1))
+(ohprettywoman (vocal_tonic_note 9) (song_tonality 0))
+(ohyeah (vocal_tonic_note 3))
+(onaplain (vocal_tonic_note 2) (song_tonality 1))
+(onceinalifetime (vocal_tonic_note 9) (song_tonality 0))
+(onelove (vocal_tonic_note 10) (song_tonality 0))
+(oneofthosenights (vocal_tonic_note 8) (song_tonality 1))
+(onlyamemory (vocal_tonic_note 8) (song_tonality 1))
+(ontheroadagain (vocal_tonic_note 0) (song_tonality 0))
+(orangeamber (vocal_tonic_note 9) (song_tonality 0))
+(ourlipsaresealed (vocal_tonic_note 0) (song_tonality 0))
+(outerspaceaf (vocal_tonic_note 2) (song_tonality 1))
+(outhereallnight (vocal_tonic_note 2) (song_tonality 1))
+(outofline (vocal_tonic_note 9))
+(outtathaway (vocal_tonic_note 9) (song_tonality 0))
+(pain (vocal_tonic_note 0) (song_tonality 1))
+(painandpleasure (vocal_tonic_note 9) (song_tonality 1))
+(panicswitch (vocal_tonic_note 5) (song_tonality 1))
+(parasitelive (vocal_tonic_note 4) (song_tonality 1))
+(parrtyintheusa (vocal_tonic_note 6) (song_tonality 0))
+(peaceofmind (vocal_tonic_note 4) (song_tonality 0))
+(peekaboo (vocal_tonic_note 9) (song_tonality 0))
+(peoplegotalotofnerve (vocal_tonic_note 1) (song_tonality 0))
+(perfectday (vocal_tonic_note 5))
+(perfectdrug (song_tonality 1))
+(perfektewelle (vocal_tonic_note 5) (song_tonality 1))
+(photograph (vocal_tonic_note 3) (song_tonality 0))
+(pickupthepieces (vocal_tonic_note 0) (song_tonality 0))
+(pieceofmyheart (vocal_tonic_note 4) (song_tonality 0))
+(pilgrim (vocal_tonic_note 4) (song_tonality 1))
+(pointofknowreturn (vocal_tonic_note 5) (song_tonality 0))
+(poison (vocal_tonic_note 2) (song_tonality 1))
+(pokerface (vocal_tonic_note 8) (song_tonality 1))
+(pokerfacecartman (vocal_tonic_note 8) (song_tonality 1))
+(policetruck (vocal_tonic_note 4) (song_tonality 1))
+(polly (vocal_tonic_note 4) (song_tonality 1))
+(porkandbeans (vocal_tonic_note 6) (song_tonality 0))
+(powerslave (vocal_tonic_note 0) (song_tonality 0))
+(prayeroftherefugee (vocal_tonic_note 3) (song_tonality 1))
+(precious (vocal_tonic_note 9) (song_tonality 1))
+(prettyflyforawhiteguy (vocal_tonic_note 11) (song_tonality 1))
+(prettynoose (vocal_tonic_note 0) (song_tonality 1))
+(promisedland (vocal_tonic_note 6) (song_tonality 0))
+(proudmary2 (vocal_tonic_note 2) (song_tonality 0))
+(psychosocial (vocal_tonic_note 7) (song_tonality 1))
+(purplehaze (vocal_tonic_note 4) (song_tonality 1))
+(pushit (vocal_tonic_note 0) (song_tonality 1))
+(radiofreeeurope (vocal_tonic_note 9) (song_tonality 0))
+(rattlesnakeshake (vocal_tonic_note 7) (song_tonality 1))
+(rbnmegamix01 (vocal_tonic_note 0) (song_tonality 0))
+(readysetgo (vocal_tonic_note 3) (song_tonality 0))
+(realgoodlooking (vocal_tonic_note 0) (song_tonality 0))
+(realworld (vocal_tonic_note 2) (song_tonality 1))
+(rebound (vocal_tonic_note 1) (song_tonality 1))
+(reddevil (vocal_tonic_note 0) (song_tonality 0))
+(redtandy (vocal_tonic_note 7) (song_tonality 0))
+(reeducation (vocal_tonic_note 3) (song_tonality 1))
+(refugee (vocal_tonic_note 6) (song_tonality 1))
+(rehash (vocal_tonic_note 9) (song_tonality 1))
+(reinventingyourexit (vocal_tonic_note 9) (song_tonality 1))
+(renegade (vocal_tonic_note 7) (song_tonality 1))
+(rescueme (vocal_tonic_note 0) (song_tonality 1))
+(reyourbrains (vocal_tonic_note 0) (song_tonality 0))
+(riadnthebedouins (vocal_tonic_note 5) (song_tonality 1))
+(ride (vocal_tonic_note 1) (song_tonality 0))
+(ridethelightning (vocal_tonic_note 4) (song_tonality 1))
+(ridingonthewind (vocal_tonic_note 11) (song_tonality 1))
+(ridininmychevy (vocal_tonic_note 10) (song_tonality 0))
+(ridinthehook (vocal_tonic_note 5) (song_tonality 0))
+(ridinthestormout (vocal_tonic_note 9) (song_tonality 1))
+(rio (vocal_tonic_note 4) (song_tonality 1))
+(roam (vocal_tonic_note 4) (song_tonality 0))
+(rockandrollband (vocal_tonic_note 4) (song_tonality 0))
+(rockandrollcreation (vocal_tonic_note 4) (song_tonality 1))
+(rockandrollstar (vocal_tonic_note 11) (song_tonality 0))
+(rockawaybeach (vocal_tonic_note 9) (song_tonality 0))
+(rockinamerica (vocal_tonic_note 4) (song_tonality 0))
+(rockme (vocal_tonic_note 6) (song_tonality 1))
+(rocknrolldream (vocal_tonic_note 9) (song_tonality 1))
+(rocknrollhighschool (vocal_tonic_note 0) (song_tonality 0))
+(rocknrollnightmare (vocal_tonic_note 9) (song_tonality 0))
+(rocknrollqueen (vocal_tonic_note 10))
+(rockready (vocal_tonic_note 6) (song_tonality 1))
+(rockrebellion (vocal_tonic_note 0) (song_tonality 1))
+(rockstar (vocal_tonic_note 7) (song_tonality 0))
+(rockyoursocks (vocal_tonic_note 4) (song_tonality 0))
+(rollwiththechanges (vocal_tonic_note 0) (song_tonality 0))
+(rooster (vocal_tonic_note 5) (song_tonality 1))
+(roxanne (vocal_tonic_note 7) (song_tonality 1))
+(rubysoho (vocal_tonic_note 7) (song_tonality 0))
+(runnindownadream (vocal_tonic_note 4) (song_tonality 1))
+(running (vocal_tonic_note 0) (song_tonality 0))
+(runningwild (vocal_tonic_note 5) (song_tonality 1))
+(runtothehills2 (vocal_tonic_note 4) (song_tonality 0))
+(rustinpeace (vocal_tonic_note 6) (song_tonality 1))
+(saintsoflosangeles (vocal_tonic_note 7) (song_tonality 1))
+(saluteyoursolution (vocal_tonic_note 4) (song_tonality 1))
+(sameolsituation (vocal_tonic_note 9) (song_tonality 0))
+(sandblastedskin (vocal_tonic_note 7))
+(satisfymysoul (vocal_tonic_note 7) (song_tonality 0))
+(saturdaymorning (vocal_tonic_note 4) (song_tonality 0))
+(saucyjack (vocal_tonic_note 2) (song_tonality 1))
+(savior (vocal_tonic_note 5) (song_tonality 1))
+(scarletbegonias (vocal_tonic_note 11) (song_tonality 0))
+(schoolsoutlive (vocal_tonic_note 4) (song_tonality 0))
+(sciencegeniusgirl (vocal_tonic_note 0) (song_tonality 0))
+(scraped (vocal_tonic_note 1) (song_tonality 1))
+(scream (vocal_tonic_note 1) (song_tonality 1))
+(screamingfor (vocal_tonic_note 9) (song_tonality 1))
+(seasons (vocal_tonic_note 1) (song_tonality 1))
+(seeyou (vocal_tonic_note 9) (song_tonality 1))
+(seeyouagain (vocal_tonic_note 9) (song_tonality 1))
+(seizetheday (vocal_tonic_note 2) (song_tonality 1))
+(selfesteem (vocal_tonic_note 9) (song_tonality 1))
+(sensualseduction (vocal_tonic_note 3) (song_tonality 0))
+(shake (vocal_tonic_note 9) (song_tonality 1))
+(shedoes (vocal_tonic_note 6) (song_tonality 1))
+(shegoesdown (vocal_tonic_note 2) (song_tonality 1))
+(sheisahandsomewoman (vocal_tonic_note 11) (song_tonality 0))
+(shesagenius (vocal_tonic_note 4) (song_tonality 1))
+(shesahottie (vocal_tonic_note 2) (song_tonality 1))
+(shescountry (vocal_tonic_note 1) (song_tonality 1))
+(shesellssanctuary (vocal_tonic_note 2) (song_tonality 0))
+(shesfetching (vocal_tonic_note 7) (song_tonality 0))
+(shesnotthere (vocal_tonic_note 9) (song_tonality 1))
+(shessofine (vocal_tonic_note 8) (song_tonality 1))
+(shethinksmytractorssexy (vocal_tonic_note 0) (song_tonality 0))
+(shhh (vocal_tonic_note 4) (song_tonality 1))
+(shimmerandshine (vocal_tonic_note 0) (song_tonality 0))
+(shiningstar (vocal_tonic_note 0) (song_tonality 0))
+(shockwave (vocal_tonic_note 7) (song_tonality 1))
+(shoottherunner (vocal_tonic_note 9) (song_tonality 1))
+(shouldvebeenacowboy (vocal_tonic_note 7) (song_tonality 0))
+(showmetheway (vocal_tonic_note 2) (song_tonality 1))
+(sicksicksick (vocal_tonic_note 10) (song_tonality 1))
+(silver (vocal_tonic_note 9) (song_tonality 1))
+(simplekindoflife (vocal_tonic_note 0) (song_tonality 0))
+(singthechanges (vocal_tonic_note 5) (song_tonality 0))
+(sinsofmyyouth (vocal_tonic_note 4))
+(sinwagon (vocal_tonic_note 0) (song_tonality 0))
+(sirpsychosexy (vocal_tonic_note 4) (song_tonality 1))
+(siva (vocal_tonic_note 4) (song_tonality 1))
+(sixteen (vocal_tonic_note 9) (song_tonality 1))
+(skullcrushermt (vocal_tonic_note 4) (song_tonality 0))
+(skyisover (vocal_tonic_note 7) (song_tonality 1))
+(sliceofyourpie (vocal_tonic_note 2) (song_tonality 1))
+(smashitup (vocal_tonic_note 7) (song_tonality 0))
+(smilelikeyoumeanit (vocal_tonic_note 6) (song_tonality 0))
+(smokin (vocal_tonic_note 9) (song_tonality 0))
+(smoothcriminalaaf (vocal_tonic_note 9) (song_tonality 0))
+(snoopsupsideyahead (vocal_tonic_note 4) (song_tonality 0))
+(snowheyoh (vocal_tonic_note 8) (song_tonality 0))
+(socold (vocal_tonic_note 0) (song_tonality 1))
+(somethingaboutyou (vocal_tonic_note 2) (song_tonality 0))
+(somethingintheway (vocal_tonic_note 6) (song_tonality 1))
+(songwithamission (vocal_tonic_note 11) (song_tonality 0))
+(sonsanddaughters (vocal_tonic_note 4) (song_tonality 0))
+(sorrow (vocal_tonic_note 7) (song_tonality 0))
+(sorry (vocal_tonic_note 2) (song_tonality 1))
+(sortof (vocal_tonic_note 9) (song_tonality 1))
+(soulsucker (vocal_tonic_note 11) (song_tonality 1))
+(soundsofsilence (vocal_tonic_note 2) (song_tonality 0))
+(spacecowboy (vocal_tonic_note 7) (song_tonality 0))
+(spaceman (vocal_tonic_note 4) (song_tonality 0))
+(spiderwebs (vocal_tonic_note 10) (song_tonality 0))
+(sprode (vocal_tonic_note 0) (song_tonality 0))
+(stand (vocal_tonic_note 4) (song_tonality 0))
+(standingintheshower (vocal_tonic_note 2) (song_tonality 0))
+(standintherain (vocal_tonic_note 1) (song_tonality 1))
+(standupandshout (vocal_tonic_note 9) (song_tonality 1))
+(startallover (vocal_tonic_note 7) (song_tonality 0))
+(stayaway (vocal_tonic_note 2) (song_tonality 1))
+(steadyasshegoes (vocal_tonic_note 11) (song_tonality 1))
+(steadyatthewheel (vocal_tonic_note 9) (song_tonality 1))
+(stickysweet (vocal_tonic_note 7) (song_tonality 1))
+(stigmata (vocal_tonic_note 11) (song_tonality 0))
+(stillalive (vocal_tonic_note 2) (song_tonality 0))
+(stiritup (vocal_tonic_note 9) (song_tonality 0))
+(stonefree (vocal_tonic_note 3) (song_tonality 1))
+(stonehenge (vocal_tonic_note 9) (song_tonality 1))
+(stop (vocal_tonic_note 2) (song_tonality 1))
+(stopstartagain (vocal_tonic_note 11) (song_tonality 1))
+(storyofmylife (vocal_tonic_note 6) (song_tonality 0))
+(strangetimes (vocal_tonic_note 10) (song_tonality 1))
+(straycatstrut (vocal_tonic_note 0) (song_tonality 1))
+(stupify (vocal_tonic_note 9) (song_tonality 0))
+(sturmunddrang (vocal_tonic_note 3) (song_tonality 1))
+(sudsinabucket (vocal_tonic_note 0) (song_tonality 0))
+(sugarbaby (vocal_tonic_note 4) (song_tonality 1))
+(sugarmagnolia (vocal_tonic_note 4) (song_tonality 0))
+(summertimeblues (vocal_tonic_note 9) (song_tonality 0))
+(summertimerolls (vocal_tonic_note 1) (song_tonality 0))
+(sundaymorning (vocal_tonic_note 4) (song_tonality 0))
+(sunhitsthesky (vocal_tonic_note 5) (song_tonality 0))
+(superbeast (vocal_tonic_note 8) (song_tonality 1))
+(superbowlmedley (vocal_tonic_note 11) (song_tonality 1))
+(superman (vocal_tonic_note 5) (song_tonality 0))
+(swamped (vocal_tonic_note 4) (song_tonality 1))
+(sweetness (vocal_tonic_note 5) (song_tonality 0))
+(sweetnessandlight (vocal_tonic_note 3) (song_tonality 0))
+(sweettalk (vocal_tonic_note 11) (song_tonality 0))
+(swing (vocal_tonic_note 0) (song_tonality 0))
+(synchronicity2 (vocal_tonic_note 9) (song_tonality 0))
+(takebackthecity (vocal_tonic_note 10) (song_tonality 0))
+(takeitontherun (vocal_tonic_note 7) (song_tonality 0))
+(takemeout (vocal_tonic_note 4) (song_tonality 1))
+(takenoprisoners (vocal_tonic_note 6) (song_tonality 1))
+(takethemoney (vocal_tonic_note 7) (song_tonality 0))
+(takethesechains (vocal_tonic_note 8) (song_tonality 1))
+(tame (vocal_tonic_note 2) (song_tonality 1))
+(tedjustadmitit (vocal_tonic_note 4) (song_tonality 1))
+(teenagelobotomy (vocal_tonic_note 9) (song_tonality 0))
+(tellherno (vocal_tonic_note 4) (song_tonality 0))
+(tellmebaby (vocal_tonic_note 9) (song_tonality 0))
+(tempted (vocal_tonic_note 11) (song_tonality 0))
+(tenspeed (vocal_tonic_note 8) (song_tonality 1))
+(thashiznit (vocal_tonic_note 5) (song_tonality 0))
+(thatshowiescaped (vocal_tonic_note 11) (song_tonality 0))
+(thatsthahomie (vocal_tonic_note 6) (song_tonality 0))
+(thatswhenireach (vocal_tonic_note 4) (song_tonality 0))
+(theanimal (vocal_tonic_note 3) (song_tonality 1))
+(theblackparade (vocal_tonic_note 7) (song_tonality 0))
+(thebroken (vocal_tonic_note 0) (song_tonality 0))
+(theclimb (vocal_tonic_note 7) (song_tonality 1))
+(theconjuring (vocal_tonic_note 0) (song_tonality 0))
+(thedopeshow (vocal_tonic_note 4) (song_tonality 1))
+(thedownfallofusall (vocal_tonic_note 0) (song_tonality 0))
+(thefeeling (vocal_tonic_note 1) (song_tonality 1))
+(theflood (vocal_tonic_note 0) (song_tonality 0))
+(thegambler (vocal_tonic_note 3) (song_tonality 0))
+(thegreatescape (vocal_tonic_note 4) (song_tonality 0))
+(thegreatestman (vocal_tonic_note 9) (song_tonality 0))
+(thegreatsatan (vocal_tonic_note 0) (song_tonality 0))
+(thegreatsoutherntrendkill (vocal_tonic_note 5))
+(thegreetingsong (vocal_tonic_note 9) (song_tonality 1))
+(thejoker (vocal_tonic_note 5) (song_tonality 0))
+(thekidsarentalright (vocal_tonic_note 10) (song_tonality 1))
+(thekill (vocal_tonic_note 7) (song_tonality 0))
+(theleavingpt2 (vocal_tonic_note 3) (song_tonality 1))
+(themetal (vocal_tonic_note 0) (song_tonality 0))
+(theperfectcrimeno2 (vocal_tonic_note 4) (song_tonality 1))
+(thepowerofequality (vocal_tonic_note 3) (song_tonality 1))
+(thepretender (vocal_tonic_note 9) (song_tonality 1))
+(theregoesmygun (vocal_tonic_note 6) (song_tonality 1))
+(theresnootherway (vocal_tonic_note 4) (song_tonality 0))
+(therewasatime (vocal_tonic_note 11) (song_tonality 1))
+(therighteousandthewicked (vocal_tonic_note 11) (song_tonality 1))
+(therockshow (vocal_tonic_note 9) (song_tonality 0))
+(therunningfree (vocal_tonic_note 9) (song_tonality 1))
+(thesedays (vocal_tonic_note 4) (song_tonality 1))
+(thetasteofink (vocal_tonic_note 7) (song_tonality 0))
+(thetimeiswrong (vocal_tonic_note 10) (song_tonality 1))
+(thetrooper (vocal_tonic_note 4) (song_tonality 0))
+(thewaitinglive (vocal_tonic_note 2) (song_tonality 0))
+(theysay (vocal_tonic_note 1) (song_tonality 1))
+(thieves (vocal_tonic_note 4) (song_tonality 0))
+(thirdfloorstory (vocal_tonic_note 11) (song_tonality 1))
+(thirdstonefromthesun (vocal_tonic_note 4) (song_tonality 1))
+(thisafternoon (vocal_tonic_note 7) (song_tonality 0))
+(thisaintascene (vocal_tonic_note 9) (song_tonality 1))
+(thiscalling (vocal_tonic_note 2) (song_tonality 1))
+(thisilove (vocal_tonic_note 1) (song_tonality 1))
+(thisisacall (song_tonality 0))
+(thisisit (vocal_tonic_note 1) (song_tonality 1))
+(thisiswar (vocal_tonic_note 3) (song_tonality 1))
+(thisonesforthegirls (vocal_tonic_note 8) (song_tonality 0))
+(thrashunreal (vocal_tonic_note 5) (song_tonality 0))
+(threelittlebirds (vocal_tonic_note 9) (song_tonality 0))
+(throughbeingcool (vocal_tonic_note 9) (song_tonality 0))
+(throwingstones (vocal_tonic_note 11) (song_tonality 0))
+(thunderbirdsarego (vocal_tonic_note 11) (song_tonality 0))
+(tieyoudown (vocal_tonic_note 9) (song_tonality 1))
+(tieyourmotherdown (vocal_tonic_note 9) (song_tonality 0))
+(timebomb (vocal_tonic_note 0) (song_tonality 0))
+(timebomb2 (vocal_tonic_note 11) (song_tonality 1))
+(timeforchange (vocal_tonic_note 5) (song_tonality 0))
+(timeisrunningout (vocal_tonic_note 0) (song_tonality 0))
+(timesickson (vocal_tonic_note 2) (song_tonality 0))
+(timeslikethese (vocal_tonic_note 2) (song_tonality 0))
+(tomorrow (vocal_tonic_note 10) (song_tonality 0))
+(tonightimgonna (vocal_tonic_note 9) (song_tonality 1))
+(toomuchtimeonmyhands (vocal_tonic_note 2) (song_tonality 0))
+(tornadoofsouls (vocal_tonic_note 11) (song_tonality 1))
+(touchofgrey (vocal_tonic_note 11) (song_tonality 0))
+(towncalledmalice (vocal_tonic_note 2) (song_tonality 0))
+(tragickingdom (vocal_tonic_note 11) (song_tonality 1))
+(traininvain (vocal_tonic_note 6) (song_tonality 1))
+(treatmelikeyourmother (vocal_tonic_note 2) (song_tonality 1))
+(tribute (vocal_tonic_note 9) (song_tonality 0))
+(trippinonahole (vocal_tonic_note 6) (song_tonality 0))
+(troublecomesrunning (vocal_tonic_note 7) (song_tonality 0))
+(troublemaker (vocal_tonic_note 8) (song_tonality 0))
+(truckin (vocal_tonic_note 4) (song_tonality 0))
+(truthhitseverybody (vocal_tonic_note 1) (song_tonality 1))
+(tuttoepossibile (vocal_tonic_note 2) (song_tonality 0))
+(twoweeks (vocal_tonic_note 1) (song_tonality 1))
+(typical (vocal_tonic_note 3) (song_tonality 0))
+(unclejohnsband (vocal_tonic_note 7) (song_tonality 0))
+(undergroundinamerica (vocal_tonic_note 7) (song_tonality 1))
+(underneathitall (vocal_tonic_note 4) (song_tonality 0))
+(underthebridge (vocal_tonic_note 4) (song_tonality 0))
+(undone (vocal_tonic_note 6) (song_tonality 0))
+(unitedlive (vocal_tonic_note 6) (song_tonality 1))
+(uparoundthebend (vocal_tonic_note 2) (song_tonality 0))
+(upthebeach (vocal_tonic_note 2) (song_tonality 0))
+(usblues (vocal_tonic_note 9) (song_tonality 0))
+(useit (vocal_tonic_note 9) (song_tonality 0))
+(useme (vocal_tonic_note 7) (song_tonality 1))
+(usuck (vocal_tonic_note 10) (song_tonality 1))
+(vengeanceismine (vocal_tonic_note 2) (song_tonality 1))
+(voices (vocal_tonic_note 8) (song_tonality 1))
+(volcano (vocal_tonic_note 5) (song_tonality 0))
+(waitinginvain (vocal_tonic_note 8) (song_tonality 0))
+(waituntiltomorrow (vocal_tonic_note 8) (song_tonality 0))
+(wakeupcall (vocal_tonic_note 4) (song_tonality 1))
+(wakeupdead (vocal_tonic_note 6) (song_tonality 1))
+(walkaway (vocal_tonic_note 8) (song_tonality 0))
+(walkingonthemoon (vocal_tonic_note 3) (song_tonality 0))
+(walklikeanegyptian (vocal_tonic_note 0) (song_tonality 0))
+(warmerthanhell (vocal_tonic_note 0) (song_tonality 0))
+(warnerve (vocal_tonic_note 2))
+(warriorsoftime (vocal_tonic_note 2) (song_tonality 0))
+(warzone (vocal_tonic_note 0) (song_tonality 0))
+(wastedagain (vocal_tonic_note 6) (song_tonality 1))
+(wastedyears (vocal_tonic_note 4) (song_tonality 0))
+(weaponofchoice (vocal_tonic_note 5) (song_tonality 1))
+(wearetheroadcrew (vocal_tonic_note 8) (song_tonality 1))
+(wecarealot (vocal_tonic_note 4) (song_tonality 1))
+(wedieyoung (vocal_tonic_note 1) (song_tonality 1))
+(weightless (vocal_tonic_note 2) (song_tonality 1))
+(weightoftheworld (vocal_tonic_note 1) (song_tonality 0))
+(wellthoughtouttwinkles (vocal_tonic_note 1) (song_tonality 1))
+(whatsitfeellike (vocal_tonic_note 8) (song_tonality 1))
+(whatsmyageagain (vocal_tonic_note 5) (song_tonality 0))
+(whatsthefrequencykenneth (vocal_tonic_note 2) (song_tonality 0))
+(whatwasithinkin (vocal_tonic_note 5) (song_tonality 1))
+(wheels (vocal_tonic_note 9) (song_tonality 0))
+(wheresgary (vocal_tonic_note 2) (song_tonality 0))
+(whitefalconfuzz (vocal_tonic_note 5) (song_tonality 0))
+(whiteunicorn (vocal_tonic_note 2) (song_tonality 0))
+(whoamiwhatsmyname (vocal_tonic_note 11) (song_tonality 0))
+(whoareyou (vocal_tonic_note 4) (song_tonality 0))
+(whoknew (vocal_tonic_note 9) (song_tonality 0))
+(whollstoptherain (vocal_tonic_note 7) (song_tonality 0))
+(whosgoinghome (vocal_tonic_note 1) (song_tonality 0))
+(whosyourdaddy (vocal_tonic_note 9) (song_tonality 0))
+(whydoyouloveme (vocal_tonic_note 4) (song_tonality 1))
+(wilsonlive (vocal_tonic_note 4) (song_tonality 1))
+(windmeup (vocal_tonic_note 2) (song_tonality 1))
+(windup (vocal_tonic_note 11) (song_tonality 1))
+(wingsofabutterfly (vocal_tonic_note 10) (song_tonality 1))
+(withoutyou (vocal_tonic_note 7) (song_tonality 0))
+(wolflikeme (vocal_tonic_note 11) (song_tonality 1))
+(women (vocal_tonic_note 0) (song_tonality 0))
+(wonderwall (vocal_tonic_note 6) (song_tonality 0))
+(wordforward (vocal_tonic_note 7) (song_tonality 0))
+(worldgoround (vocal_tonic_note 7) (song_tonality 0))
+(worldturning (vocal_tonic_note 2) (song_tonality 1))
+(would (vocal_tonic_note 5) (song_tonality 1))
+(wouldyougowithme (vocal_tonic_note 6) (song_tonality 0))
+(writingonthewall (vocal_tonic_note 2) (song_tonality 0))
+(yerbatero (vocal_tonic_note 9) (song_tonality 0))
+(yomp (vocal_tonic_note 0) (song_tonality 1))
+(youcandoit (vocal_tonic_note 2) (song_tonality 1))
+(youdonthavetobeoldlive (vocal_tonic_note 9) (song_tonality 1))
+(youdontknowwhatloveis (vocal_tonic_note 9) (song_tonality 0))
+(yougotanotherthingcoming (vocal_tonic_note 6) (song_tonality 1))
+(yougotit (vocal_tonic_note 9) (song_tonality 0))
+(yougotmefloatin (vocal_tonic_note 8) (song_tonality 1))
+(young (vocal_tonic_note 0) (song_tonality 1))
+(youngerbums (vocal_tonic_note 4) (song_tonality 0))
+(yourdecision (vocal_tonic_note 3) (song_tonality 1))
+(yourealligot (vocal_tonic_note 11) (song_tonality 0))
+(youregonnahearfromme (vocal_tonic_note 9) (song_tonality 1))
+(yourenorocknrollfun (vocal_tonic_note 1) (song_tonality 0))
+(zero (vocal_tonic_note 3) (song_tonality 1))
+(aceofspades (vocal_tonic_note 3) (song_tonality 1))
+(ajaggedgorgeouswinter (vocal_tonic_note 11) (song_tonality 0))
+(alabamagetaway (vocal_tonic_note 9) (song_tonality 0))
+(alexchilton (vocal_tonic_note 9) (song_tonality 0))
+(alive (vocal_tonic_note 9) (song_tonality 0))
+(almosteasy (vocal_tonic_note 1) (song_tonality 0))
+(americanwoman (vocal_tonic_note 4) (song_tonality 0))
+(anywayyouwantit (vocal_tonic_note 7) (song_tonality 0))
+(aqualung (vocal_tonic_note 7) (song_tonality 1))
+(badreputation (vocal_tonic_note 0) (song_tonality 0))
+(battery (vocal_tonic_note 4) (song_tonality 1))
+(bodhisattva (vocal_tonic_note 7) (song_tonality 0))
+(carryonwaywardson (vocal_tonic_note 9) (song_tonality 0))
+(chopsuey (vocal_tonic_note 9) (song_tonality 0))
+(colonyofbirchmen (vocal_tonic_note 4) (song_tonality 0))
+(comeoutandplay (vocal_tonic_note 11) (song_tonality 0))
+(conventionallover (vocal_tonic_note 1) (song_tonality 0))
+(coolforcats (vocal_tonic_note 9) (song_tonality 0))
+(deluxe (vocal_tonic_note 4) (song_tonality 0))
+(downwiththesickness (vocal_tonic_note 3) (song_tonality 1))
+(drainyou (vocal_tonic_note 6) (song_tonality 0))
+(epro (vocal_tonic_note 4) (song_tonality 0))
+(everlong (vocal_tonic_note 2) (song_tonality 0))
+(eyeofthetiger (vocal_tonic_note 0) (song_tonality 1))
+(feelthepain (vocal_tonic_note 0) (song_tonality 0))
+(floaton (vocal_tonic_note 7) (song_tonality 0))
+(getclean (vocal_tonic_note 2) (song_tonality 1))
+(girlsnotgrey (vocal_tonic_note 8) (song_tonality 0))
+(giveitall (vocal_tonic_note 6) (song_tonality 0))
+(goyourownway (vocal_tonic_note 0) (song_tonality 0))
+(hellothere (vocal_tonic_note 9) (song_tonality 0))
+(hungrylikethewolf (vocal_tonic_note 4) (song_tonality 0))
+(iwaswrong (vocal_tonic_note 4) (song_tonality 0))
+(kidsinamerica (vocal_tonic_note 11) (song_tonality 0))
+(lazyeye (vocal_tonic_note 4) (song_tonality 0))
+(letthereberock (vocal_tonic_note 4) (song_tonality 1))
+(lump (vocal_tonic_note 2) (song_tonality 0))
+(maninthebox (vocal_tonic_note 4) (song_tonality 0))
+(masterexploder (vocal_tonic_note 4) (song_tonality 1))
+(mountainsong (vocal_tonic_note 4) (song_tonality 0))
+(myownworstenemy (vocal_tonic_note 4) (song_tonality 0))
+(newkidinschool (vocal_tonic_note 7) (song_tonality 1))
+(nightlies (vocal_tonic_note 3) (song_tonality 1))
+(nineintheafternoon (vocal_tonic_note 10) (song_tonality 0))
+(onestepcloser (vocal_tonic_note 1) (song_tonality 0))
+(onewayoranother (vocal_tonic_note 9) (song_tonality 0))
+(ourtruth (vocal_tonic_note 11) (song_tonality 0))
+(painkiller (vocal_tonic_note 4) (song_tonality 0))
+(panicattack (vocal_tonic_note 0) (song_tonality 0))
+(pda (vocal_tonic_note 11) (song_tonality 0))
+(peacesells (vocal_tonic_note 4) (song_tonality 0))
+(pinballwizard (vocal_tonic_note 2) (song_tonality 0))
+(pretendweredead (vocal_tonic_note 7) (song_tonality 0))
+(psychokiller (vocal_tonic_note 9) (song_tonality 0))
+(pumpitup (vocal_tonic_note 11) (song_tonality 0))
+(ramblinman (vocal_tonic_note 8) (song_tonality 0))
+(rebelgirl (vocal_tonic_note 10) (song_tonality 0))
+(robtheprezodent (vocal_tonic_note 4) (song_tonality 1))
+(rocknme (vocal_tonic_note 9) (song_tonality 0))
+(roundandround (vocal_tonic_note 7) (song_tonality 0))
+(shacklersrevenge (vocal_tonic_note 4) (song_tonality 0))
+(shootingstar (vocal_tonic_note 4) (song_tonality 0))
+(shouldertotheplow (vocal_tonic_note 0) (song_tonality 1))
+(soulsofblack (vocal_tonic_note 3) (song_tonality 1))
+(sowhatchawant (vocal_tonic_note 4) (song_tonality 0))
+(spiritinthesky (vocal_tonic_note 9) (song_tonality 0))
+(supremegirl (vocal_tonic_note 8) (song_tonality 0))
+(tangledupinblue (vocal_tonic_note 9) (song_tonality 0))
+(teenageriot (vocal_tonic_note 7) (song_tonality 0))
+(testify (vocal_tonic_note 2) (song_tonality 1))
+(thatswhatyouget (vocal_tonic_note 4) (song_tonality 0))
+(themiddle (vocal_tonic_note 2) (song_tonality 0))
+(thetrees (vocal_tonic_note 2) (song_tonality 1))
+(today (vocal_tonic_note 3) (song_tonality 0))
+(uncontrollableurge (vocal_tonic_note 9) (song_tonality 0))
+(visions (vocal_tonic_note 4) (song_tonality 1))
+(wegotthebeat (vocal_tonic_note 9) (song_tonality 0))
+(wheredyougo (vocal_tonic_note 9) (song_tonality 0))
+(whitewedding (vocal_tonic_note 6) (song_tonality 0))
+(yououghtaknow (vocal_tonic_note 6) (song_tonality 0))
+(accidentallyinlove (vocal_tonic_note 7) (song_tonality 0))
+(aliensexist (vocal_tonic_note 0) (song_tonality 0))
+(apunk (vocal_tonic_note 2) (song_tonality 0))
+(breakout (vocal_tonic_note 11) (song_tonality 0))
+(checkyesjuliet (vocal_tonic_note 2) (song_tonality 0))
+(crash (vocal_tonic_note 0) (song_tonality 0))
+(crocodilerock (vocal_tonic_note 7) (song_tonality 0))
+(dig (vocal_tonic_note 7) (song_tonality 0))
+(dreamingofyou (vocal_tonic_note 9) (song_tonality 1))
+(everylittlething (vocal_tonic_note 2) (song_tonality 0))
+(fire (vocal_tonic_note 2) (song_tonality 1))
+(freefallin (vocal_tonic_note 5) (song_tonality 0))
+(ghostbusters (vocal_tonic_note 11) (song_tonality 1))
+(girlsandboys (vocal_tonic_note 3) (song_tonality 0))
+(grace (vocal_tonic_note 9) (song_tonality 0))
+(intoodeep (vocal_tonic_note 4) (song_tonality 0))
+(iwantyouback (vocal_tonic_note 8) (song_tonality 0))
+(kungfufighting (vocal_tonic_note 2) (song_tonality 0))
+(letsdance (vocal_tonic_note 10) (song_tonality 1))
+(lifeisahighway (vocal_tonic_note 5) (song_tonality 0))
+(makemesmile (vocal_tonic_note 0) (song_tonality 0))
+(monster (vocal_tonic_note 4) (song_tonality 1))
+(naive (vocal_tonic_note 11) (song_tonality 0))
+(realwildchild (vocal_tonic_note 5) (song_tonality 0))
+(rideawhiteswan (vocal_tonic_note 8) (song_tonality 0))
+(rooftops (vocal_tonic_note 7) (song_tonality 0))
+(ruby (vocal_tonic_note 10) (song_tonality 1))
+(shortandsweet (vocal_tonic_note 4) (song_tonality 0))
+(song2 (vocal_tonic_note 5) (song_tonality 1))
+(sowhat (vocal_tonic_note 6) (song_tonality 1))
+(stumbleandfall (vocal_tonic_note 0) (song_tonality 0))
+(suddenlyisee (vocal_tonic_note 2) (song_tonality 0))
+(summerof69 (vocal_tonic_note 2) (song_tonality 0))
+(swingswing (vocal_tonic_note 7) (song_tonality 0))
+(thefinalcountdown (vocal_tonic_note 6) (song_tonality 1))
+(thepassenger (vocal_tonic_note 9) (song_tonality 1))
+(thunder (vocal_tonic_note 2) (song_tonality 0))
+(ticktickboom (vocal_tonic_note 11) (song_tonality 1))
+(twoprinces (vocal_tonic_note 2) (song_tonality 0))
+(valerie (vocal_tonic_note 3) (song_tonality 0))
+(walkingonsunshine (vocal_tonic_note 10) (song_tonality 0))
+(wordup (vocal_tonic_note 6) (song_tonality 1))
 (16candles
    (game_origin rb_blitz))
 (always
@@ -10131,7 +11199,8 @@
    )
    (real_guitar_tuning (0 0 0 0 0 0))
    (real_bass_tuning (-2 0 0 0))
-   (strings_author "MatthNerd, RK"))
+;   (strings_author "MatthNerd, RK")
+)
 
 ; RBN 1.0 harmonies/chart updates
 ;keys ugc
@@ -10167,7 +11236,8 @@
 ;   (version 30)
    (vocal_tonic_note 4)
    (song_tonality 0)
-   (keys_author "espher"))
+;   (keys_author "espher")
+)
 (UGC_5001220 ; KMFDM - Juke Joint Jezebel
    (extra_authoring disc_update)
    (song
@@ -10200,7 +11270,8 @@
 ;   (version 30)
    (vocal_tonic_note 4)
    (song_tonality 1)
-   (keys_author "TheSheepQueen"))
+;   (keys_author "TheSheepQueen")
+)
 (UGC_5001527 ; Bang Camaro - Push Push (Lady Lightning)
    (extra_authoring disc_update)
    (song
@@ -10233,7 +11304,8 @@
 ;   (version 30)
    (vocal_tonic_note 9)
    (song_tonality 1)
-   (keys_author "FujiSkunk"))
+;   (keys_author "FujiSkunk")
+)
 (UGC_5001770 ; Drowning Pool - Bodies
    (extra_authoring disc_update)
    (song
@@ -10266,7 +11338,8 @@
 ;   (version 30)
    (vocal_tonic_note 0)
    (song_tonality 1)
-   (keys_author "Nightmare Lyra"))
+;   (keys_author "Nightmare Lyra")
+)
 (UGC_5002218 ; The Devil Wears Prada - Dogs Can Grow Beards All Over
    (extra_authoring disc_update)
    (song
@@ -10299,7 +11372,8 @@
 ;   (version 30)
    (vocal_tonic_note 2)
    (song_tonality 0)
-   (keys_author "FujiSkunk"))
+;   (keys_author "FujiSkunk")
+)
 (UGC_5003146 ; Lemon Demon - The Ultimate Showdown
    (extra_authoring disc_update)
    (song
@@ -10332,7 +11406,8 @@
 ;   (version 30)
    (vocal_tonic_note 7)
    (song_tonality 1)
-   (keys_author "Linos Melendi"))
+;   (keys_author "Linos Melendi")
+)
 (UGC_5003366 ; Band of Horses - No One's Gonna Love You
    (extra_authoring disc_update)
    (song
@@ -10364,7 +11439,8 @@
 ;   (version 30)
    (vocal_tonic_note 1)
    (song_tonality 0)
-   (keys_author "FujiSkunk"))
+;   (keys_author "FujiSkunk")
+)
 (UGC_5003503 ; Graveyard BBQ - Cheat on the Church
    (extra_authoring disc_update)
    (song
@@ -10397,7 +11473,8 @@
 ;   (version 30)
    (vocal_tonic_note 5)
    (song_tonality 0)
-   (keys_author "FujiSkunk"))
+;   (keys_author "FujiSkunk")
+)
 (UGC_5003797 ; Breathe Carolina - Hello Fascination
    (extra_authoring disc_update)
    (song
@@ -10430,7 +11507,8 @@
 ;   (version 30)
    (vocal_tonic_note 0)
    (song_tonality 1)
-   (keys_author "i0brendan0"))
+;   (keys_author "i0brendan0")
+)
 (UGC_5004788 ; Evanescence - Going Under
    (extra_authoring disc_update)
    (song
@@ -10461,7 +11539,8 @@
       (real_keys 300)
       (band 219))
 ;   (version 30)
-   (keys_author "non_zero"))
+;   (keys_author "non_zero")
+)
 (UGC_5005410 ; Kutless - Strong Tower
    (extra_authoring disc_update)
    (song
@@ -10494,7 +11573,8 @@
 ;   (version 30)
    (vocal_tonic_note 4)
    (song_tonality 0)
-   (keys_author "FujiSkunk"))
+;   (keys_author "FujiSkunk")
+)
 
 ;has harmonies and RB3 scroll information
 (UGC_5005118
@@ -10542,6 +11622,15 @@
    ;(rbhp_harmonies_author espher)
   ;(rbhp_version 1)
 )
+(UGC_5003886
+   (song (vocal_parts 3))
+   (upgrade_version 1) (extra_authoring disc_update)
+   (vocal_tonic_note 8)
+   (song_tonality 0)
+   ;(song_id 5003886)
+   ;(rbhp_harmonies_author r0bd0g)
+  ;(rbhp_version 1)
+)
 (UGC_5003670
    	(song (vocal_parts 3))
     (upgrade_version 1) (extra_authoring disc_update)
@@ -10581,6 +11670,16 @@
 	;(rbhp_prodrums_author espher)
 	;(rbhp_version 1)
 )
+(UGC_5003182
+   (song (vocal_parts 3))
+   (upgrade_version 1) (extra_authoring disc_update)
+   (vocal_tonic_note 9)
+   (song_tonality 0)
+   ;(song_id 5003182)
+   ;(rbhp_harmonies_author r0bd0g)
+   ;(rbhp_prodrums_author GreenPanda12)
+   ;(rbhp_version 1)
+)
 (UGC_5003064
 	(song (vocal_parts 2))
     (upgrade_version 1) (extra_authoring disc_update)
@@ -10590,6 +11689,16 @@
 	;(rbhp_prodrums_author steve25469)
 	;(rbhp_harmonies_author FujiSkunk)
 	;(rbhp_version 1)
+)
+(UGC_5002994
+   (song (vocal_parts 3))
+   (upgrade_version 1) (extra_authoring disc_update)
+   (vocal_tonic_note 11)
+   (song_tonality 1)
+   ;(song_id 5002994)
+   ;(rbhp_harmonies_author r0bd0g)
+   ;(rbhp_prodrums_author steve25469)
+   ;(rbhp_version 1)
 )
 (UGC_5002892
 	(song (vocal_parts 3))
@@ -10611,6 +11720,26 @@
 	;(rbhp_prodrums_author KyleJCrb)
 	;(rbhp_version 1)
 )
+(UGC_5002868
+   (song (vocal_parts 2))
+   (upgrade_version 1) (extra_authoring disc_update)
+   (vocal_tonic_note 2)
+   (song_tonality 0)
+   ;(song_id 5002868)
+   ;(rbhp_harmonies_author r0bd0g)
+   ;(rbhp_prodrums_author steve25469)
+   ;(rbhp_version 1)
+)
+(UGC_5002786
+   (song (vocal_parts 3))
+   (upgrade_version 1) (extra_authoring disc_update)
+   (vocal_tonic_note 0)
+   (song_tonality 1)
+   ;(song_id 5002786)
+   ;(rbhp_harmonies_author r0bd0g)
+   ;(rbhp_prodrums_author steve25469)
+   ;(rbhp_version 1)
+)
 (UGC_5002768
 	(song (vocal_parts 2))
     (upgrade_version 1) (extra_authoring disc_update)
@@ -10620,6 +11749,26 @@
 	;(rbhp_harmonies_author espher)
 	;(rbhp_prodrums_author MFX)
 	;(rbhp_version 1)
+)
+(UGC_5002764
+   (song (vocal_parts 3))
+   (upgrade_version 1) (extra_authoring disc_update)
+   (vocal_tonic_note 1)
+   (song_tonality 0)
+   ;(song_id 5002764)
+   ;(rbhp_harmonies_author r0bd0g)
+   ;(rbhp_prodrums_author steve25469)
+   ;(rbhp_version 1)
+)
+(UGC_5002742
+   (song (vocal_parts 3))
+   (upgrade_version 1) (extra_authoring disc_update)
+   (vocal_tonic_note 4)
+   (song_tonality 0)
+   ;(song_id 5002742)
+   ;(rbhp_harmonies_author r0bd0g)
+   ;(rbhp_prodrums_author GreenPanda12)
+   ;(rbhp_version 1)
 )
 (UGC_5002676
 	(song (vocal_parts 3))
@@ -10842,6 +11991,16 @@
 	;(rbhp_prodrums_author GreenPanda12)
 	;(rbhp_version 1)
 )
+(UGC_5001277
+   (song (vocal_parts 3))
+   (upgrade_version 1) (extra_authoring disc_update)
+   (vocal_tonic_note 2)
+   (song_tonality 0)
+   ;(song_id 5001277)
+   ;(harmonies_author r0bd0g)
+   ;(rbhp_prodrums_author GreenPanda12)
+   ;(rbhp_version 1)
+)
 (UGC_5001127
    (song (vocal_parts 2))
    (upgrade_version 1) (extra_authoring disc_update)
@@ -10850,6 +12009,16 @@
    ;(song_id 5001127)
    ;(rbhp_prodrums_author Sideshow)
    ;(harmonies_author r0bd0g)
+   ;(rbhp_version 1)
+)
+(UGC_5000780
+   (song (vocal_parts 3))
+   (upgrade_version 1) (extra_authoring disc_update)
+   (vocal_tonic_note 2)
+   (song_tonality 0)
+   ;(song_id 5000780)
+   ;(rbhp_prodrums_author KyleJCrb)
+   ;(rbhp_harmonies_author r0bd0g)
    ;(rbhp_version 1)
 )
 ;missing RB3 scroll information
@@ -10978,6 +12147,13 @@
    (upgrade_version 1) (extra_authoring disc_update)
    ;(song_id 5000310)
    ;(rbhp_harmonies_author espher)
+  ;(rbhp_version 1)
+)
+(UGC_5000101
+   (song (vocal_parts 2))
+   (upgrade_version 1) (extra_authoring disc_update)
+   ;(song_id 5000310)
+   ;(rbhp_harmonies_author C0Assassin)
   ;(rbhp_version 1)
 )
 
@@ -11507,11 +12683,6 @@
    ;(song_id 5003117)
    ;(rbhp_harmonies_author espher)
   ;(rbhp_version 1)
-)(UGC_5003182
-	(upgrade_version 1) (extra_authoring disc_update)
-	;(song_id 5003182)
-	;(rbhp_prodrums_author GreenPanda12)
-	;(rbhp_version 1)
 )(UGC_5001980
    (upgrade_version 1) (extra_authoring disc_update)
    ;(song_id 5001980)
@@ -11743,11 +12914,6 @@
    ;(song_id 5003099)
    ;(rbhp_prodrums_author Sideshow)
    ;(rbhp_version 1)
-)(UGC_5001277
-	(upgrade_version 1) (extra_authoring disc_update)
-	;(song_id 5001277)
-	;(rbhp_prodrums_author GreenPanda12)
-	;(rbhp_version 1)
 )(UGC_5001264
    (upgrade_version 1) (extra_authoring disc_update)
    ;(song_id 5001264)
@@ -12005,11 +13171,6 @@
    ;(song_id 5000708)
    ;(rbhp_harmonies_author espher)
   ;(rbhp_version 1)
-)(UGC_5003064
-	(upgrade_version 1) (extra_authoring disc_update)
-	;(song_id 5003064)
-	;(rbhp_prodrums_author steve25469)
-	;(rbhp_version 1)
 )(UGC_5000701
    (upgrade_version 1) (extra_authoring disc_update)
    ;(song_id 5000701)
@@ -12457,11 +13618,6 @@
    ;(song_id 5003898)
    ;(rbhp_harmonies_author espher)
   ;(rbhp_version 1)
-)(UGC_5003886
-   (upgrade_version 1) (extra_authoring disc_update)
-   ;(song_id 5003886)
-   ;(rbhp_harmonies_author espher)
-  ;(rbhp_version 1)
 )(UGC_5003885
    (upgrade_version 1) (extra_authoring disc_update)
    ;(song_id 5003885)
@@ -12487,11 +13643,6 @@
    ;(song_id 5003813)
    ;(rbhp_harmonies_author espher)
   ;(rbhp_version 1)
-)(UGC_5002994
-	(upgrade_version 1) (extra_authoring disc_update)
-	;(song_id 5002994)
-	;(rbhp_prodrums_author steve25469)
-	;(rbhp_version 1)
 )(UGC_5003807
    (upgrade_version 1) (extra_authoring disc_update)
    ;(song_id 5003807)
@@ -12811,11 +13962,6 @@
    ;(song_id 5002881)
    ;(rbhp_harmonies_author espher)
   ;(rbhp_version 1)
-)(UGC_5002868
-	(upgrade_version 1) (extra_authoring disc_update)
-	;(song_id 5002868)
-	;(rbhp_prodrums_author steve25469)
-	;(rbhp_version 1)
 )(UGC_5002847
    (upgrade_version 1) (extra_authoring disc_update)
    ;(song_id 5002847)
@@ -12871,11 +14017,6 @@
    ;(song_id 5002806)
    ;(rbhp_harmonies_author espher)
   ;(rbhp_version 1)
-)(UGC_5002786
-	(upgrade_version 1) (extra_authoring disc_update)
-	;(song_id 5002786)
-	;(rbhp_prodrums_author steve25469)
-	;(rbhp_version 1)
 )(UGC_5002777
    (upgrade_version 1) (extra_authoring disc_update)
    ;(song_id 5002777)
@@ -12889,11 +14030,6 @@
 )(UGC_5002767
 	(upgrade_version 1) (extra_authoring disc_update)
 	;(song_id 5002767)
-	;(rbhp_prodrums_author steve25469)
-	;(rbhp_version 1)
-)(UGC_5002764
-	(upgrade_version 1) (extra_authoring disc_update)
-	;(song_id 5002764)
 	;(rbhp_prodrums_author steve25469)
 	;(rbhp_version 1)
 )(UGC_5002751
@@ -12916,11 +14052,6 @@
    ;(song_id 5003225)
    ;(rbhp_prodrums_author Sideshow)
    ;(rbhp_version 1)
-)(UGC_5002742
-	(upgrade_version 1) (extra_authoring disc_update)
-	;(song_id 5002742)
-	;(rbhp_prodrums_author GreenPanda12)
-	;(rbhp_version 1)
 )(UGC_5002741
 	(upgrade_version 1) (extra_authoring disc_update)
 	;(song_id 5002741)
@@ -18203,104 +19334,6 @@
    (extra_authoring disc_update))
 (totaleclipse
    (extra_authoring disc_update))
-(burnitdown_rbn
-   (extra_authoring disc_update))
-(businesstime_rbn
-   (song
-      (vocal_parts 3))
-   (extra_authoring disc_update))
-(codemonkey_rbn
-   (song
-      (vocal_parts 3))
-   (extra_authoring disc_update))
-(creepydoll_rbn
-   (song
-      (vocal_parts 3))
-   (extra_authoring disc_update))
-(demonwoman_rbn
-   (song
-      (vocal_parts 3))
-   (extra_authoring disc_update))
-(drunkenlullabieslive_rbn
-   (song
-      (vocal_parts 3))
-   (extra_authoring disc_update))
-(goingunder_rbn
-   (song
-      (vocal_parts 3))
-   (extra_authoring disc_update))
-(heytheremrbrooks_rbn
-   (song
-      (vocal_parts 3))
-   (extra_authoring disc_update))
-(higher_rbn
-   (extra_authoring disc_update))
-(hooklineandsinner_rbn
-   (song
-      (vocal_parts 2))
-   (extra_authoring disc_update))
-(iknowwhatiam_rbn
-   (song
-      (vocal_parts 3))
-   (extra_authoring disc_update))
-(letthegamesbegin_rbn
-   (song
-      (vocal_parts 3))
-   (extra_authoring disc_update))
-(mechanicallove_rbn
-   (song
-      (vocal_parts 3))
-   (extra_authoring disc_update))
-(neverletyougo09_rbn
-   (song
-      (vocal_parts 3))
-   (extra_authoring disc_update))
-(remedy_rbn
-   (song
-      (vocal_parts 3))
-   (extra_authoring disc_update))
-(semicharmedlife09_rbn
-   (song
-      (vocal_parts 3))
-   (extra_authoring disc_update))
-(serpentineoffering_rbn
-   (song
-      (vocal_parts 3))
-   (extra_authoring disc_update))
-(standforsomething_rbn
-   (song
-      (vocal_parts 2))
-   (extra_authoring disc_update))
-(tasteslikekevinbacon_rbn
-   (extra_authoring disc_update))
-(thecomplexityoflight_rbn
-   (song
-      (vocal_parts 3))
-   (extra_authoring disc_update))
-(thefinalepisode_rbn
-   (song
-      (vocal_parts 3))
-   (extra_authoring disc_update))
-(thefuneral_rbn
-   (song
-      (vocal_parts 2))
-   (extra_authoring disc_update))
-(hongkonggarden
-   (song
-      (vocal_parts 2))
-   (extra_authoring disc_update))
-(themobgoeswild_rbn
-   (song
-      (vocal_parts 3))
-   (extra_authoring disc_update))
-(themostbeautifulgirl_rbn
-   (song
-      (vocal_parts 3))
-   (extra_authoring disc_update))
-(whiteknuckles_rbn
-   (song
-      (vocal_parts 3))
-   (extra_authoring disc_update))
 (UGC_5004678
    (name
       "Esto ya lo Toqué Mañana")
@@ -18815,6 +19848,28 @@
    (genre metal))
 (thefinalcountdown
    (genre glam))
+(20thcenturyboy
+   (year_released 1973)
+   (year_recorded 1994))
+(goodvibrationslive
+   (year_released 1968)
+   (year_recorded 1970))
+(ifeelgoodalt
+   (year_released 1974)
+   (year_recorded 2010))
+(iloverocknroll
+   (artist
+      "Joan Jett & the Blackhearts"))
+(radarlove
+   (album_art TRUE))
+(thekillingmoon
+   (artist
+      "Echo & the Bunnymen"))
+(thepoweroflove
+   (year_released 1985)
+   (album_name
+      "Back to the Future: Music from the Motion Picture Soundtrack")
+   (album_track_number 1))
 (apassagetobangkok
    (name
       "A Passage to Bangkok"))
@@ -18888,6 +19943,9 @@
 (emptywalls
    (album_name
       "Elect the Dead"))
+(fakefriends
+   (artist
+      "Joan Jett & the Blackhearts"))
 (fatlip
    (album_name
       "All Killer No Filler"))
@@ -18933,6 +19991,9 @@
 (jailbreak_lizzy
    (album_name
       "Still Dangerous"))
+(jokerandthe
+   (name
+      "Joker & the Thief"))
 (killingloneliness
    (artist
       "HIM"))
@@ -18945,9 +20006,6 @@
 (lookaround
    (album_name
       "I'm with You"))
-(loveisabattlefield
-   (name
-      "Love is a Battlefield"))
 (mollychambers
    (artist
       "Kings of Leon"))
@@ -18963,9 +20021,6 @@
 (onceinalifetime
    (album_name
       "Remain in Light"))
-(psychosocial
-   (album_name
-      "All Hope is Gone"))
 (prettynoose
    (album_name
       "Down on the Upside"))
@@ -19000,9 +20055,6 @@
 (skyisover
    (album_name
       "Elect the Dead"))
-(snuff
-   (album_name
-      "All Hope is Gone"))
 (somebodytolove
    (name
       "Somebody to Love")
@@ -19025,9 +20077,6 @@
 (strutterlive
    (album_name
       "Dressed to Kill Tour"))
-(sulfur
-   (album_name
-      "All Hope is Gone"))
 (sunhitsthesky
    (album_name
       "In It for the Money"))
@@ -19080,9 +20129,9 @@
       "Scratching the Itch"))
 (UGC_5000739
    (name
-      "Whatever is Wrong with You")
+      "Whatever Is Wrong with You")
    (album_name
-      "Happiness is the Road, Volume 2: The Hard Shoulder"))
+      "Happiness Is the Road, Volume 2: The Hard Shoulder"))
 (UGC_5000783
    (album_name
       "Get'n the Van!"))
@@ -19501,9 +20550,6 @@
 (UGC_5007449
    (artist
       "A Call to Remain"))
-(UGC_5007558
-   (album_name
-      "This is Where it Ends"))
 (UGC_5007573
    (name
       "Bombshell from Hell"))
@@ -19528,18 +20574,12 @@
 (UGC_5007910
    (album_name
       "What Separates Me from You"))
-(UGC_5007933
-   (name
-      "He is Good"))
 (UGC_5007941
    (album_name
       "What Separates Me from You"))
 (UGC_5007942
    (album_name
       "What Separates Me from You"))
-(UGC_5008058
-   (name
-      "My God is There Controlling"))
 (UGC_5008095
    (name
       "My Name's Horatio, You Got Me, You Ain't Got Nobody Else, So Deal with It, And Love It"))
@@ -19548,9 +20588,6 @@
       "Hold Me in Your Arms")
    (album_name
       "No Time for Later"))
-(UGC_5008219
-   (album_name
-      "This is Where it Ends"))
 (UGC_5008281
    (album_name
       "They Came from the Shadows"))
@@ -19618,9 +20655,6 @@
 (UGC_5009525
    (album_name
       "How I Learned to Love Our Robot Overlords"))
-(UGC_5009587
-   (album_name
-      "This is Where it Ends"))
 (UGC_5009704
    (name
       "Nobody Gives a Shit About Us"))
@@ -19633,9 +20667,6 @@
 (UGC_5009908
    (name
       "So Far Away/Delirium of the Fallen (2x Bass Pedal)"))
-(UGC_5010274
-   (album_name
-      "This is Where it Ends"))
 (UGC_5010442
    (artist
       "Yogurt with Sprinkles")
@@ -19671,9 +20702,6 @@
 (absolutely
    (name
       "Absolutely (Story of a Girl)"))
-(aintitfun
-   (name
-      "Ain't it Fun"))
 (andthecradlewillrock
    (name
       "And the Cradle Will Rock..."))
@@ -19712,6 +20740,9 @@
 (crazyonyou
    (name
       "Crazy on You"))
+(crosses
+   (artist
+      "Sleeping with Sirens ft. Spencer Chamberlain"))
 (cutewithoutthee
    (name
       "Cute Without the 'E' (Cut from the Team)"))
@@ -19723,6 +20754,12 @@
 ;   (album_name
 ;      "Top Gun: Original Motion Picture Soundtrack")
 ;   (album_track_number 1))
+;(deadinside
+;   (alternate_path TRUE)
+;   (artist "Nita Strauss ft. David Draiman")
+;   (year_released 2023)
+;   (album_name "The Call of the Void")
+;   (album_track_number 6))
 ;(dontyouforgetaboutme
 ;   (alternate_path TRUE)
 ;   (album_name
@@ -19735,9 +20772,12 @@
       "That's the Spirit"))
 (earthisablackhole
    (name
-      "Earth is a Black Hole")
+      "Earth Is a Black Hole")
    (album_name
-      "Earth is a Black Hole"))
+      "Earth Is a Black Hole"))
+(faraway
+   (artist
+      "Breaking Benjamin ft. Scooter Ward"))
 ;(followyou
 ;   (alternate_path TRUE)
 ;   (album_name
@@ -19751,10 +20791,12 @@
       "Hanging by a Moment"))
 (hatemyself
    (name
-      "I Hate Myself for Loving You"))
+      "I Hate Myself for Loving You")
+   (artist
+      "Joan Jett & the Blackhearts"))
 (heavenisaplaceonearth
    (name
-      "Heaven is a Place on Earth"))
+      "Heaven Is a Place on Earth"))
 (highwaytooblivion
    (name
       "Highway to Oblivion"))
@@ -19777,7 +20819,7 @@
       "Janie's Got a Gun"))
 (johnnybgoode
    (album_name
-      "Chuck Berry is on Top"))
+      "Chuck Berry Is on Top"))
 (kingforaday
    (name
       "King for a Day (ft. Kellin Quinn)"))
@@ -19792,7 +20834,7 @@
       "Livin' on the Edge"))
 (lonelyisthenight
    (name
-      "Lonely is the Night"))
+      "Lonely Is the Night"))
 (lyingfromyou
    (name
       "Lying from You"))
@@ -19815,9 +20857,7 @@
       "Shot in the Dark"))
 (shutupanddance
    (artist
-      "Walk the Moon")
-   (album_name
-      "Talking is Hard"))
+      "Walk the Moon"))
 (sing_ed
    (album_name
       "X"))
@@ -19853,11 +20893,6 @@
 (thesoundofsilence
    (name
       "The Sound of Silence"))
-(thisiswhy
-   (name
-      "This is Why")
-   (album_name
-      "This is Why"))
 (thiswillbetheday
    (name
       "This Will Be the Day"))
@@ -19976,31 +21011,15 @@
    (genre reggaeska))
 (wrongway
    (genre reggaeska))
-(20thcenturyboy
-   (year_released 1973)
-   (year_recorded 1994))
 (boysarebackintown
    (year_released 1977)
    (year_recorded 2009))
 (cowboysong_live
    (year_released 1977)
    (year_recorded 2009))
-(goodvibrationslive
-   (year_released 1968)
-   (year_recorded 1970))
-(ifeelgoodalt
-   (year_released 1974)
-   (year_recorded 2010))
 (jailbreak_lizzy
    (year_released 1977)
    (year_recorded 2009))
-(radarlove
-   (album_art TRUE))
-(thepoweroflove
-   (year_released 1985)
-   (album_name
-      "Back to the Future: Music from the Motion Picture Soundtrack")
-   (album_track_number 1))
 (valleysofneptune
    (year_released 1969)
    (year_recorded 2010))
@@ -20029,588 +21048,6 @@
    (album_name
       "Adrenaline")
    (album_track_number 7))
-(anywayyouwantit
-   (vocal_tonic_note 7)
-   (song_tonality 0))
-(battery
-   (vocal_tonic_note 4)
-   (song_tonality 1))
-(entersandman
-   (vocal_tonic_note 4)
-   (song_tonality 1))
-(letthereberock
-   (vocal_tonic_note 4)
-   (song_tonality 1))
-(paranoid
-   (vocal_tonic_note 4)
-   (song_tonality 1))
-(parrtyintheusa
-   (vocal_tonic_note 6)
-   (song_tonality 0))
-(runtothehills
-   (vocal_tonic_note 4)
-   (song_tonality 0))
-(29fingers
-   (vocal_tonic_note 2)
-   (song_tonality 1))
-(areyougonnabemygirl
-   (vocal_tonic_note 9)
-   (song_tonality 0))
-(ballroomblitz
-   (vocal_tonic_note 4)
-   (song_tonality 0))
-(blackholesun
-   (vocal_tonic_note 7)
-   (song_tonality 0))
-(blitzkriegbop
-   (vocal_tonic_note 9)
-   (song_tonality 0))
-(blooddoll
-   (vocal_tonic_note 2)
-   (song_tonality 1))
-(brainpower
-   (vocal_tonic_note 0)
-   (song_tonality 1))
-(cantletgo
-   (vocal_tonic_note 6)
-   (song_tonality 1))
-(celebrityskin
-   (vocal_tonic_note 6)
-   (song_tonality 0))
-(cherubrock
-   (vocal_tonic_note 4)
-   (song_tonality 0))
-(creep
-   (vocal_tonic_note 8)
-   (song_tonality 0))
-(danicalifornia
-   (vocal_tonic_note 9)
-   (song_tonality 0))
-(daylatedollarshort
-   (vocal_tonic_note 11)
-   (song_tonality 0))
-(deadonarrival
-   (vocal_tonic_note 0)
-   (song_tonality 0))
-(detroitrockcity
-   (vocal_tonic_note 0)
-   (song_tonality 0))
-(dontfearthereaper
-   (vocal_tonic_note 9)
-   (song_tonality 0))
-(electricversion
-   (vocal_tonic_note 4)
-   (song_tonality 0))
-(epic
-   (vocal_tonic_note 4)
-   (song_tonality 0))
-(flirtinwithdisaster
-   (vocal_tonic_note 9)
-   (song_tonality 0))
-(foreplaylongtime
-   (vocal_tonic_note 1)
-   (song_tonality 0))
-(gimmeshelter
-   (vocal_tonic_note 0)
-   (song_tonality 0))
-(gowiththeflow
-   (vocal_tonic_note 4)
-   (song_tonality 0))
-(greengrass
-   (vocal_tonic_note 4)
-   (song_tonality 0))
-(hereitgoesagain
-   (vocal_tonic_note 0)
-   (song_tonality 0))
-(highwaystar
-   (vocal_tonic_note 7)
-   (song_tonality 0))
-(igetby
-   (vocal_tonic_note 11)
-   (song_tonality 0))
-(imsosick
-   (vocal_tonic_note 2)
-   (song_tonality 1))
-(inbloom
-   (vocal_tonic_note 8)
-   (song_tonality 0))
-(ithinkimparanoid
-   (vocal_tonic_note 7)
-   (song_tonality 0))
-(learntofly
-   (vocal_tonic_note 11)
-   (song_tonality 0))
-(mainoffender
-   (vocal_tonic_note 2)
-   (song_tonality 0))
-(maps
-   (vocal_tonic_note 7)
-   (song_tonality 0))
-(missqueen
-   (vocal_tonic_note 4)
-   (song_tonality 0))
-(nexttoyou
-   (vocal_tonic_note 9)
-   (song_tonality 0))
-(nightmare
-   (vocal_tonic_note 4)
-   (song_tonality 1))
-(orangecrush
-   (vocal_tonic_note 7)
-   (song_tonality 0))
-(outside
-   (vocal_tonic_note 0)
-   (song_tonality 0))
-(pleasure
-   (vocal_tonic_note 8)
-   (song_tonality 1))
-(reptilia
-   (vocal_tonic_note 11)
-   (song_tonality 1))
-(sabotage
-   (vocal_tonic_note 8)
-   (song_tonality 0))
-(sayitaintso
-   (vocal_tonic_note 0)
-   (song_tonality 0))
-(seven
-   (vocal_tonic_note 11)
-   (song_tonality 0))
-(shouldistay
-   (vocal_tonic_note 2)
-   (song_tonality 0))
-(suffragettecity
-   (vocal_tonic_note 9)
-   (song_tonality 0))
-(thehandthatfeeds
-   (vocal_tonic_note 9)
-   (song_tonality 1))
-(timewehad
-   (vocal_tonic_note 0)
-   (song_tonality 0))
-(timmy
-   (vocal_tonic_note 3)
-   (song_tonality 1))
-(tomsawyer
-   (vocal_tonic_note 4)
-   (song_tonality 1))
-(trainkeptarollin
-   (vocal_tonic_note 4)
-   (song_tonality 1))
-(vasoline
-   (vocal_tonic_note 0)
-   (song_tonality 0))
-(waveofmutilation
-   (vocal_tonic_note 5)
-   (song_tonality 0))
-(welcomehome
-   (vocal_tonic_note 2)
-   (song_tonality 0))
-(whenyouwereyoung
-   (vocal_tonic_note 11)
-   (song_tonality 0))
-(wontgetfooled
-   (vocal_tonic_note 9)
-   (song_tonality 0))
-(aceofspades
-   (vocal_tonic_note 3)
-   (song_tonality 1))
-(ajaggedgorgeouswinter
-   (vocal_tonic_note 11)
-   (song_tonality 0))
-(alabamagetaway
-   (vocal_tonic_note 9)
-   (song_tonality 0))
-(alexchilton
-   (vocal_tonic_note 9)
-   (song_tonality 0))
-(alive
-   (vocal_tonic_note 9)
-   (song_tonality 0))
-(almosteasy
-   (vocal_tonic_note 1)
-   (song_tonality 0))
-(americanwoman
-   (vocal_tonic_note 4)
-   (song_tonality 0))
-(aqualung
-   (vocal_tonic_note 7)
-   (song_tonality 1))
-(badreputation
-   (vocal_tonic_note 0)
-   (song_tonality 0))
-(bodhisattva
-   (vocal_tonic_note 7)
-   (song_tonality 0))
-(carryonwaywardson
-   (vocal_tonic_note 9)
-   (song_tonality 0))
-(chopsuey
-   (vocal_tonic_note 9)
-   (song_tonality 0))
-(colonyofbirchmen
-   (vocal_tonic_note 4)
-   (song_tonality 0))
-(comeoutandplay
-   (vocal_tonic_note 11)
-   (song_tonality 0))
-(conventionallover
-   (vocal_tonic_note 1)
-   (song_tonality 0))
-(coolforcats
-   (vocal_tonic_note 9)
-   (song_tonality 0))
-(deluxe
-   (vocal_tonic_note 4)
-   (song_tonality 0))
-(downwiththesickness
-   (vocal_tonic_note 3)
-   (song_tonality 1))
-(drainyou
-   (vocal_tonic_note 6)
-   (song_tonality 0))
-(epro
-   (vocal_tonic_note 4)
-   (song_tonality 0))
-(everlong
-   (vocal_tonic_note 2)
-   (song_tonality 0))
-(eyeofthetiger
-   (vocal_tonic_note 0)
-   (song_tonality 1))
-(feelthepain
-   (vocal_tonic_note 0)
-   (song_tonality 0))
-(floaton
-   (vocal_tonic_note 7)
-   (song_tonality 0))
-(getclean
-   (vocal_tonic_note 2)
-   (song_tonality 1))
-(girlsnotgrey
-   (vocal_tonic_note 8)
-   (song_tonality 0))
-(giveitall
-   (vocal_tonic_note 6)
-   (song_tonality 0))
-(goyourownway
-   (vocal_tonic_note 0)
-   (song_tonality 0))
-(hellothere
-   (vocal_tonic_note 9)
-   (song_tonality 0))
-(hungrylikethewolf
-   (vocal_tonic_note 4)
-   (song_tonality 0))
-(iwaswrong
-   (vocal_tonic_note 4)
-   (song_tonality 0))
-(kidsinamerica
-   (vocal_tonic_note 11)
-   (song_tonality 0))
-(lazyeye
-   (vocal_tonic_note 4)
-   (song_tonality 0))
-(lump
-   (vocal_tonic_note 2)
-   (song_tonality 0))
-(maninthebox
-   (vocal_tonic_note 4)
-   (song_tonality 0))
-(masterexploder
-   (vocal_tonic_note 4)
-   (song_tonality 1))
-(mountainsong
-   (vocal_tonic_note 4)
-   (song_tonality 0))
-(myownworstenemy
-   (vocal_tonic_note 4)
-   (song_tonality 0))
-(newkidinschool
-   (vocal_tonic_note 7)
-   (song_tonality 1))
-(nightlies
-   (vocal_tonic_note 3)
-   (song_tonality 1))
-(nineintheafternoon
-   (vocal_tonic_note 10)
-   (song_tonality 0))
-(onestepcloser
-   (vocal_tonic_note 1)
-   (song_tonality 0))
-(onewayoranother
-   (vocal_tonic_note 9)
-   (song_tonality 0))
-(ourtruth
-   (vocal_tonic_note 11)
-   (song_tonality 0))
-(painkiller
-   (vocal_tonic_note 4)
-   (song_tonality 0))
-(panicattack
-   (vocal_tonic_note 0)
-   (song_tonality 0))
-(pda
-   (vocal_tonic_note 11)
-   (song_tonality 0))
-(peacesells
-   (vocal_tonic_note 4)
-   (song_tonality 0))
-(pinballwizard
-   (vocal_tonic_note 2)
-   (song_tonality 0))
-(pretendweredead
-   (vocal_tonic_note 7)
-   (song_tonality 0))
-(psychokiller
-   (vocal_tonic_note 9)
-   (song_tonality 0))
-(pumpitup
-   (vocal_tonic_note 11)
-   (song_tonality 0))
-(ramblinman
-   (vocal_tonic_note 8)
-   (song_tonality 0))
-(rebelgirl
-   (vocal_tonic_note 10)
-   (song_tonality 0))
-(robtheprezodent
-   (vocal_tonic_note 4)
-   (song_tonality 1))
-(rocknme
-   (vocal_tonic_note 9)
-   (song_tonality 0))
-(roundandround
-   (vocal_tonic_note 7)
-   (song_tonality 0))
-(shacklersrevenge
-   (vocal_tonic_note 4)
-   (song_tonality 0))
-(shootingstar
-   (vocal_tonic_note 4)
-   (song_tonality 0))
-(shouldertotheplow
-   (vocal_tonic_note 0)
-   (song_tonality 1))
-(soulsofblack
-   (vocal_tonic_note 3)
-   (song_tonality 1))
-(sowhatchawant
-   (vocal_tonic_note 4)
-   (song_tonality 0))
-(spiritinthesky
-   (vocal_tonic_note 9)
-   (song_tonality 0))
-(supremegirl
-   (vocal_tonic_note 8)
-   (song_tonality 0))
-(tangledupinblue
-   (vocal_tonic_note 9)
-   (song_tonality 0))
-(teenageriot
-   (vocal_tonic_note 7)
-   (song_tonality 0))
-(testify
-   (vocal_tonic_note 2)
-   (song_tonality 1))
-(thatswhatyouget
-   (vocal_tonic_note 4)
-   (song_tonality 0))
-(themiddle
-   (vocal_tonic_note 2)
-   (song_tonality 0))
-(thetrees
-   (vocal_tonic_note 2)
-   (song_tonality 1))
-(today
-   (vocal_tonic_note 3)
-   (song_tonality 0))
-(uncontrollableurge
-   (vocal_tonic_note 9)
-   (song_tonality 0))
-(visions
-   (vocal_tonic_note 4)
-   (song_tonality 1))
-(wegotthebeat
-   (vocal_tonic_note 9)
-   (song_tonality 0))
-(wheredyougo
-   (vocal_tonic_note 9)
-   (song_tonality 0))
-(whitewedding
-   (vocal_tonic_note 6)
-   (song_tonality 0))
-(yououghtaknow
-   (vocal_tonic_note 6)
-   (song_tonality 0))
-(accidentallyinlove
-   (vocal_tonic_note 7)
-   (song_tonality 0))
-(aliensexist
-   (vocal_tonic_note 0)
-   (song_tonality 0))
-(apunk
-   (vocal_tonic_note 2)
-   (song_tonality 0))
-(breakout
-   (vocal_tonic_note 11)
-   (song_tonality 0))
-(checkyesjuliet
-   (vocal_tonic_note 2)
-   (song_tonality 0))
-(crash
-   (vocal_tonic_note 0)
-   (song_tonality 0))
-(crocodilerock
-   (vocal_tonic_note 7)
-   (song_tonality 0))
-(dig
-   (vocal_tonic_note 7)
-   (song_tonality 0))
-(dreamingofyou
-   (vocal_tonic_note 9)
-   (song_tonality 1))
-(everylittlething
-   (vocal_tonic_note 2)
-   (song_tonality 0))
-(fire
-   (vocal_tonic_note 2)
-   (song_tonality 1))
-(freefallin
-   (vocal_tonic_note 5)
-   (song_tonality 0))
-(ghostbusters
-   (vocal_tonic_note 11)
-   (song_tonality 1))
-(girlsandboys
-   (vocal_tonic_note 3)
-   (song_tonality 0))
-(grace
-   (vocal_tonic_note 9)
-   (song_tonality 0))
-(intoodeep
-   (vocal_tonic_note 4)
-   (song_tonality 0))
-(iwantyouback
-   (vocal_tonic_note 8)
-   (song_tonality 0))
-(kungfufighting
-   (vocal_tonic_note 2)
-   (song_tonality 0))
-(letsdance
-   (vocal_tonic_note 10)
-   (song_tonality 1))
-(lifeisahighway
-   (vocal_tonic_note 5)
-   (song_tonality 0))
-(makemesmile
-   (vocal_tonic_note 0)
-   (song_tonality 0))
-(monster
-   (vocal_tonic_note 4)
-   (song_tonality 1))
-(naive
-   (vocal_tonic_note 11)
-   (song_tonality 0))
-(realwildchild
-   (vocal_tonic_note 5)
-   (song_tonality 0))
-(rideawhiteswan
-   (vocal_tonic_note 8)
-   (song_tonality 0))
-(rooftops
-   (vocal_tonic_note 7)
-   (song_tonality 0))
-(ruby
-   (vocal_tonic_note 10)
-   (song_tonality 1))
-(shortandsweet
-   (vocal_tonic_note 4)
-   (song_tonality 0))
-(song2
-   (vocal_tonic_note 5)
-   (song_tonality 1))
-(sowhat
-   (vocal_tonic_note 6)
-   (song_tonality 1))
-(stumbleandfall
-   (vocal_tonic_note 0)
-   (song_tonality 0))
-(suddenlyisee
-   (vocal_tonic_note 2)
-   (song_tonality 0))
-(summerof69
-   (vocal_tonic_note 2)
-   (song_tonality 0))
-(swingswing
-   (vocal_tonic_note 7)
-   (song_tonality 0))
-(thefinalcountdown
-   (vocal_tonic_note 6)
-   (song_tonality 1))
-(thepassenger
-   (vocal_tonic_note 9)
-   (song_tonality 1))
-(thunder
-   (vocal_tonic_note 2)
-   (song_tonality 0))
-(ticktickboom
-   (vocal_tonic_note 11)
-   (song_tonality 1))
-(twoprinces
-   (vocal_tonic_note 2)
-   (song_tonality 0))
-(valerie
-   (vocal_tonic_note 3)
-   (song_tonality 0))
-(walkingonsunshine
-   (vocal_tonic_note 10)
-   (song_tonality 0))
-(wordup
-   (vocal_tonic_note 6)
-   (song_tonality 1))
-(ashestofire
-   (vocal_tonic_note 3)
-   (song_tonality 1))
-(bounce
-   (vocal_tonic_note 11)
-   (song_tonality 0))
-(burnyoudown
-   (vocal_tonic_note 2)
-   (song_tonality 0))
-(crazytuesday
-   (vocal_tonic_note 0)
-   (song_tonality 1))
-(databasecorrupted
-   (vocal_tonic_note 2)
-   (song_tonality 0))
-(getiton
-   (vocal_tonic_note 11)
-   (song_tonality 1))
-(ifiaintgotyou
-   (vocal_tonic_note 4)
-   (song_tonality 1))
-(iv
-   (vocal_tonic_note 4)
-   (song_tonality 1))
-(likeafool
-   (vocal_tonic_note 8)
-   (song_tonality 1))
-(noregrets
-   (vocal_tonic_note 11)
-   (song_tonality 1))
-(sonsanddaughters
-   (vocal_tonic_note 4)
-   (song_tonality 0))
-(thefeeling
-   (vocal_tonic_note 1)
-   (song_tonality 1))
-(thetimeiswrong
-   (vocal_tonic_note 10)
-   (song_tonality 1))
-(young
-   (vocal_tonic_note 0)
-   (song_tonality 1))
 (eyeofthetiger
    (upgrade_version 1)
    (song
@@ -20637,8 +21074,9 @@
    (real_bass_tuning (0 0 0 0))
 ;   (version 30)
    (extra_authoring disc_update)
-   (keys_author "Linos")
-   (strings_author "RK"))
+;   (keys_author "Linos")
+;   (strings_author "RK")
+)
 (creep
    (upgrade_version 1) (extra_authoring disc_update)
    (song
@@ -20663,8 +21101,8 @@
       (band 140))
    (real_guitar_tuning (0 0 0 0 0 0))
    (real_bass_tuning (0 0 0 0))
-   (strings_author "Ruggy")
-   (keys_author "FujiSkunk")
+;   (strings_author "Ruggy")
+;   (keys_author "FujiSkunk")
 ;   (version 30)
 )
 (gowiththeflow
@@ -20691,8 +21129,8 @@
    )
    (real_guitar_tuning (0 0 0 0 0 0))
    (real_bass_tuning (0 0 0 0))
-   (keys_author "FujiSkunk")
-   (strings_author "Ruggy")
+;   (keys_author "FujiSkunk")
+;   (strings_author "Ruggy")
 ;   (version 30)
 )
 (highwaystar
@@ -20715,7 +21153,7 @@
       (band 440)
       (keys 477)
       (real_keys 476))
-   (keys_author "Ruggy")
+;   (keys_author "Ruggy")
 ;   (version 30)
 )
 (hellothere
@@ -20744,8 +21182,8 @@
    (real_guitar_tuning (0 0 0 0 0 0))
    (real_bass_tuning (0 0 0 0))
 ;   (version 30)
-   (strings_author "JohnSmith")
-   (keys_author "RK")
+;   (strings_author "JohnSmith")
+;   (keys_author "RK")
    ;(rbhp_version 1)
 )
 (ifyouhavetoask
@@ -20775,8 +21213,8 @@
    (real_guitar_tuning (0 0 0 0 0 0))
    (real_bass_tuning (-2 0 0 0))
 ;   (version 30)
-   (strings_author "RK")
-   (keys_author "RK")
+;   (strings_author "RK")
+;   (keys_author "RK")
 )
 (mellowshipslinkyinbmajor
    (upgrade_version 1) (extra_authoring disc_update)
@@ -20805,7 +21243,7 @@
    (real_guitar_tuning (0 0 0 0 0 0))
    (real_bass_tuning (0 0 0 0))
 ;   (version 30)
-   (strings_author "RK")
+;   (strings_author "RK")
 )
 (nakedintherain
    (upgrade_version 1) (extra_authoring disc_update)
@@ -20834,7 +21272,7 @@
    (real_guitar_tuning (0 0 0 0 0 0))
    (real_bass_tuning (-2 0 0 0))
 ;   (version 30)
-   (strings_author "RK")
+;   (strings_author "RK")
 )
 (redbarchetta
    (song
@@ -20881,8 +21319,8 @@
       (band 248))
    (real_guitar_tuning (0 0 0 0 0 0))
    (real_bass_tuning (0 0 0 0))
-   (strings_author "RK")
-   (keys_author "GreenPanda12")
+;   (strings_author "RK")
+;   (keys_author "GreenPanda12")
 ;   (version 30)
 )
 (underthebridge
@@ -20905,7 +21343,7 @@
       (keys 222)
       (real_keys 252)
       (band 115))
-   (keys_author "TheSheepQueen")
+;   (keys_author "TheSheepQueen")
 ;   (version 30)
 )
 (yyz
@@ -20931,8 +21369,8 @@
       (band 350))
    (real_guitar_tuning (0 0 0 0 0 0))
    (real_bass_tuning (0 0 0 0))
-   (strings_author "RK")
-   (keys_author "FujiSkunk")
+;   (strings_author "RK")
+;   (keys_author "FujiSkunk")
 ;   (version 30)
 )
 (mybestfriendsgirl
@@ -20959,8 +21397,8 @@
       (keys 153)
       (real_keys 211)
       (band 204))
-   (keys_author
-      "FujiSkunk")
+;   (keys_author
+;      "FujiSkunk")
 ;   (version 30)
 )
 (minority
@@ -21319,34 +21757,6 @@
       (band 147))
 ;   (version 30)
 )
-(thefinalcountdown
-   (song
-      (tracks
-         ((drum
-               (0 1))
-            (bass 2)
-            (guitar
-               (3 4))
-            (vocals
-               (5 6))
-            (keys
-               (7 8))))
-      (drum_solo
-         (seqs
-            (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
-      (drum_freestyle
-         (seqs
-            (kick.cue snare.cue hat.cue ride.cue crash.cue))))
-   (rank
-      (drum 268)
-      (guitar 333)
-      (bass 210)
-      (vocals 181)
-      (keys 269)
-      (real_keys 327)
-      (band 258))
-;   (version 30)
-)
 (thepassenger
    (song
       (tracks
@@ -21402,8 +21812,9 @@
       (real_keys 1)
       (band 340))
 ;   (version 30)
-   (keys_author
-      "TheSheepQueen"))
+;   (keys_author
+;      "TheSheepQueen")
+)
 (detroitrockcity
    (song
       (tracks
@@ -21431,8 +21842,9 @@
       (real_keys 170)
       (band 380))
 ;   (version 30)
-   (keys_author
-      "TheSheepQueen"))
+;   (keys_author
+;      "TheSheepQueen")
+)
 (foreplaylongtime
    (song
       (tracks
@@ -21470,8 +21882,9 @@
       (keys 478)
       (real_keys 479))
 ;   (version 30)
-   (keys_author
-      "mazegeek"))
+;   (keys_author
+;      "mazegeek")
+)
 (suffragettecity
    (song
       (tracks
@@ -21499,8 +21912,9 @@
       (real_keys 269)
       (band 270))
 ;   (version 30)
-   (keys_author
-      "TheSheepQueen"))
+;   (keys_author
+;      "TheSheepQueen")
+)
 (thehandthatfeeds
    (song
       (tracks
@@ -21561,8 +21975,9 @@
       (real_keys 450)
       (band 500))
 ;   (version 30)
-   (keys_author
-      "mazegeek"))
+;   (keys_author
+;      "mazegeek")
+)
 (bodhisattva
    (song
       (tracks
@@ -21808,7 +22223,8 @@
       (real_keys 1)
       (band 332))
 ;   (version 30)
-   (keys_author "FujiSkunk"))
+;   (keys_author "FujiSkunk")
+)
 (imgoneimgoing
    (song
       (tracks
@@ -21859,6 +22275,8 @@
       (vocals 175)
       (band 306)
       (real_keys 269))
+   (solo
+      (guitar keys))
 ;   (version 30)
 )
 (young
@@ -21989,8 +22407,8 @@
       (keys 269)
       (real_keys 269)
       (band 305))
-   (keys_author
-      "FujiSkunk, Linos")
+;   (keys_author
+;      "FujiSkunk, Linos")
 ;   (version 30)
 )
 (movealong
@@ -22069,7 +22487,8 @@
       (real_keys 1)
       (band 231))
 ;   (version 30)
-   (keys_author "FujiSkunk"))
+;   (keys_author "FujiSkunk")
+)
 (cameraeye
    (song
       (tracks
@@ -22094,8 +22513,8 @@
       (keys 211)
       (real_keys 211)
       (band 230))
-   (keys_author
-      "FujiSkunk")
+;   (keys_author
+;      "FujiSkunk")
 ;   (version 30)
 )
 (closertotheheart
@@ -22229,7 +22648,8 @@
       (real_keys 269)
       (band 226))
 ;   (version 30)
-   (keys_author "FujiSkunk"))
+;   (keys_author "FujiSkunk")
+)
 (dontlookbackinanger
    (song
       (tracks
@@ -22490,7 +22910,8 @@
       (keys 327)
       (real_keys 327))
 ;   (version 30)
-   (keys_author "FujiSkunk"))
+;   (keys_author "FujiSkunk")
+)
 (ithurts
    (song
       (tracks
@@ -22594,7 +23015,8 @@
       (real_keys 211)
       (band 190))
 ;   (version 30)
-   (keys_author "FujiSkunk & StackOverflow0x"))
+;   (keys_author "FujiSkunk & StackOverflow0x")
+)
 (marchofthepigs
    (song
       (tracks
@@ -22751,7 +23173,8 @@
       (real_keys 153)
       (band 343))
 ;   (version 30)
-   (keys_author "FujiSkunk"))
+;   (keys_author "FujiSkunk")
+)
 (running
    (song
       (tracks
@@ -23535,7 +23958,8 @@
       (real_keys 153)
       (band 252))
 ;   (version 30)
-   (keys_author "FujiSkunk"))
+;   (keys_author "FujiSkunk")
+)
 (down
    (song
       (tracks
@@ -23665,7 +24089,8 @@
       (real_keys 153)
       (band 303))
 ;   (version 30)
-   (keys_author "FujiSkunk"))
+;   (keys_author "FujiSkunk")
+)
 (feelslikethefirsttime
    (song
       (tracks
@@ -23822,7 +24247,8 @@
       (real_keys 153)
       (band 302))
 ;   (version 30)
-   (keys_author "FujiSkunk"))
+;   (keys_author "FujiSkunk")
+)
 (imshippingup
    (song
       (tracks
@@ -23952,7 +24378,8 @@
       (real_keys 153)
       (band 141))
 ;   (version 30)
-   (keys_author "CyclopsDragon"))
+;   (keys_author "CyclopsDragon")
+)
 (missmurder
    (song
       (tracks
@@ -24584,7 +25011,8 @@
       (real_keys 211)
       (band 205))
 ;   (version 30)
-   (keys_author "FujiSkunk"))
+;   (keys_author "FujiSkunk")
+)
 (thefixer
    (song
       (tracks
@@ -25909,7 +26337,8 @@
       (real_keys 153)
       (band 191))
 ;   (version 30)
-   (keys_author "FujiSkunk"))
+;   (keys_author "FujiSkunk")
+)
 (panicswitch
    (song
       (tracks
@@ -26580,6 +27009,138 @@
       (keys 302)
       (real_keys 302)
       (band 280)))
+(heartkiller
+   (song
+      (tracks
+         ((drum
+            (0 1 2 3))
+         (bass
+            (4))
+         (guitar
+            (5 6))
+         (vocals
+            (7))
+         (keys
+            (8))))
+     (drum_solo
+        (seqs (kick.cue snare.cue tom1.cue tom2.cue crash.cue))
+     )
+     (drum_freestyle
+        (seqs (kick.cue snare.cue hat.cue ride.cue crash.cue))
+     )
+   )
+   (rank
+      (drum 216)
+      (guitar 196)
+      (bass 152)
+      (vocals 276)
+      (keys 269)
+      (real_keys 269)
+      (band 276)
+   )
+;   (keys_author "Linos Melendi")
+;   (version 30)
+)
+(odetosolitude
+   (song
+      (tracks
+         ((drum
+            (0 1 2 3))
+         (bass
+            (4))
+         (guitar
+            (5 6))
+         (vocals
+            (7))
+         (keys
+            (8))))
+     (drum_solo
+        (seqs (kick.cue snare.cue tom1.cue tom2.cue crash.cue))
+     )
+     (drum_freestyle
+        (seqs (kick.cue snare.cue hat.cue ride.cue crash.cue))
+     )
+   )
+   (song_scroll_speed 2300)
+   (bank sfx/tambourine_bank.milo)
+   (anim_tempo kTempoFast)
+   (preview 67012 97012)
+   (rank
+      (drum 220)
+      (guitar 198)
+      (bass 229)
+      (vocals 348)
+      (keys 211)
+      (real_keys 211)
+      (band 281)
+   )
+;   (keys_author "Linos Melendi")
+;   (version 30)
+)
+(wingsofabutterfly
+   (song
+      (tracks
+         ((drum
+            (0 1 2 3))
+         (bass
+            (4))
+         (guitar
+            (5 6))
+         (vocals
+            (7))
+         (keys
+            (8))))
+     (drum_solo
+        (seqs (kick.cue snare.cue tom1.cue tom2.cue crash.cue))
+     )
+     (drum_freestyle
+        (seqs (kick.cue snare.cue hat.cue ride.cue crash.cue))
+     )
+   )
+   (rank
+      (drum 199)
+      (guitar 166)
+      (bass 140)
+      (vocals 217)
+      (keys 211)
+      (real_keys 269)
+      (band 179)
+   )
+;   (keys_author "Linos Melendi")
+;   (version 30)
+)
+(chinesedemocracy
+   (song
+      (tracks
+         ((drum
+            (0 1))
+         (bass
+            (2))
+         (guitar
+            (3 4))
+         (vocals
+            (5))
+         (keys
+            (6 7))))
+     (drum_solo
+        (seqs (kick.cue snare.cue tom1.cue tom2.cue crash.cue))
+     )
+     (drum_freestyle
+        (seqs (kick.cue snare.cue hat.cue ride.cue crash.cue))
+     )
+   )
+   (rank
+      (drum 200)
+      (guitar 380)
+      (bass 180)
+      (vocals 225)
+      (keys 211)
+      (real_keys 211)
+      (band 369)
+   )
+;   (version 30)
+;   (keys_author "Linos Melendi")
+)
 (crash
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -26642,8 +27203,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "JohnSmith"))
+;   (strings_author
+;      "JohnSmith")
+)
 (everfalleninlove
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -26749,8 +27311,9 @@
       (-2 0 0 0 0 0))
    (real_bass_tuning
       (-2 0 0 0))
-   (strings_author
-      "Ruggy"))
+;   (strings_author
+;      "Ruggy")
+)
 (justwhatineeded
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -26871,7 +27434,7 @@
    )
    (real_guitar_tuning (0 0 0 0 0 0))
    (real_bass_tuning (0 0 0 0))
-   (strings_author "JohnSmith")
+;   (strings_author "JohnSmith")
    ;(rbhp_author JohnSmith (pro strings))
    ;(rbhp_version 1)
 )
@@ -26950,7 +27513,7 @@
    )
    (real_guitar_tuning (-7 -5 -5 -5 -5 -5))
    (real_bass_tuning (-7 -5 -5 -5))
-   (strings_author "JohnSmith")
+;   (strings_author "JohnSmith")
    ;(rbhp_author Espher (harmonies), JohnSmith (pro strings))
    ;(rbhp_version 1)
 )
@@ -27050,8 +27613,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "Ruggy"))
+;   (strings_author
+;      "Ruggy")
+)
 (backinthesaddle
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -27086,7 +27650,7 @@
    )
    (real_guitar_tuning (-1 -1 -1 -1 -1 -1))
    (real_bass_tuning (-1 -1 -1 -1))
-   (strings_author "JohnSmith")
+;   (strings_author "JohnSmith")
 )
 (pumpedupkicks
    (upgrade_version 1)
@@ -27107,8 +27671,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "Ruggy"))
+;   (strings_author
+;      "Ruggy")
+)
 (shine
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -27124,8 +27689,9 @@
       (-2 0 0 0 0 0))
    (real_bass_tuning
       (-2 0 0 0))
-   (strings_author
-      "Ruggy"))
+;   (strings_author
+;      "Ruggy")
+)
 (shout
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -27143,8 +27709,9 @@
       (-2 0 0 0 0 0))
    (real_bass_tuning
       (-2 0 0 0))
-   (strings_author
-      "Ruggy"))
+;   (strings_author
+;      "Ruggy")
+)
 (walkthisway
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -27195,8 +27762,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (supremegirl
    (upgrade_version 1)
    (rank
@@ -27213,8 +27781,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (welcometothe
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -27232,8 +27801,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (myownworstenemy
    (upgrade_version 1)
    (rank
@@ -27250,8 +27820,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (blooddoll
    (upgrade_version 1)
    (rank
@@ -27266,8 +27837,9 @@
       (-2 0 0 0 0 0))
    (real_bass_tuning
       (-2 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (imsosick
    (upgrade_version 1)
    (rank
@@ -27282,8 +27854,9 @@
       (-2 0 0 0 0 0))
    (real_bass_tuning
       (-2 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (bestdayever
    (upgrade_version 1)
    (rank
@@ -27298,8 +27871,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "MatthNerd, RK"))
+;   (strings_author
+;      "MatthNerd, RK")
+)
 (29fingers
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -27315,8 +27889,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK, Carl Mylo"))
+;   (strings_author
+;      "RK, Carl Mylo")
+)
 (seven
    (upgrade_version 1)
    (rank
@@ -27331,8 +27906,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (timmy
    (upgrade_version 1)
    (rank
@@ -27347,8 +27923,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (trainkeptarollin
    (upgrade_version 1)
    (rank
@@ -27363,8 +27940,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (byob
    (upgrade_version 1)
    (rank
@@ -27379,8 +27957,9 @@
       (-2 0 0 0 0 0))
    (real_bass_tuning
       (-2 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (fire
    (upgrade_version 1)
    (rank
@@ -27395,8 +27974,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (kungfufighting
    (upgrade_version 1)
    (rank
@@ -27411,8 +27991,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (childintime
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -27430,8 +28011,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (diaryofjane
    (upgrade_version 1)
    (rank
@@ -27446,8 +28028,9 @@
       (-2 0 0 0 0 0))
    (real_bass_tuning
       (-2 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (backinblack_live
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -27463,8 +28046,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "Ziggy"))
+;   (strings_author
+;      "Ziggy")
+)
 (hellaintabadplace_live
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -27480,8 +28064,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (thunderstruck_live
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -27497,8 +28082,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (apunk
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -27514,8 +28100,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (monster
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -27531,8 +28118,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (realwildchild
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -27548,8 +28136,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (-2 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (ballroomblitz
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -27565,8 +28154,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (blackholesun
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -27582,8 +28172,9 @@
       (-2 0 0 0 0 0))
    (real_bass_tuning
       (-2 0 0 0))
-   (strings_author
-      "John Smith/RK"))
+;   (strings_author
+;      "John Smith/RK")
+)
 (blitzkriegbop
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -27599,8 +28190,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "Ruggy"))
+;   (strings_author
+;      "Ruggy")
+)
 (celebrityskin
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -27616,8 +28208,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (cherubrock
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -27633,8 +28226,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "Ruggy"))
+;   (strings_author
+;      "Ruggy")
+)
 (danicalifornia
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -27650,8 +28244,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (daylatedollarshort
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -27667,8 +28262,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (deadonarrival
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -27684,8 +28280,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "Ziggy"))
+;   (strings_author
+;      "Ziggy")
+)
 (detroitrockcity
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -27701,8 +28298,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "Ruggy"))
+;   (strings_author
+;      "Ruggy")
+)
 (entersandman
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -27718,8 +28316,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (floaton
    (upgrade_version 1)
    (rank
@@ -27734,8 +28333,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (flirtinwithdisaster
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -27751,8 +28351,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (foreplaylongtime
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -27768,8 +28369,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "Ruggy"))
+;   (strings_author
+;      "Ruggy")
+)
 (getclean
    (upgrade_version 1)
    (rank
@@ -27784,8 +28386,9 @@
       (-2 0 0 0 0 0))
    (real_bass_tuning
       (-2 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (gimmeshelter
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -27801,8 +28404,9 @@
       (0 2 2 1 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (goyourownway
    (upgrade_version 1)
    (rank
@@ -27817,8 +28421,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (greengrass
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -27834,8 +28439,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (hereitgoesagain
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -27851,8 +28457,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "Ruggy"))
+;   (strings_author
+;      "Ruggy")
+)
 (highwaystar
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -27868,8 +28475,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (igetby
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -27885,8 +28493,9 @@
       (-2 -2 0 0 0 -2))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (inbloom
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -27902,8 +28511,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "Ruggy"))
+;   (strings_author
+;      "Ruggy")
+)
 (learntofly
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -27919,8 +28529,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (mainoffender
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -27936,8 +28547,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (maps
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -27953,8 +28565,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (missqueen
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -27970,8 +28583,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "Ruggy"))
+;   (strings_author
+;      "Ruggy")
+)
 (nexttoyou
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -27987,8 +28601,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (nightmare
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28004,8 +28619,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (orangecrush
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28021,8 +28637,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (outside
    (upgrade_version 1)
    (rank
@@ -28037,8 +28654,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK, Carl Mylo"))
+;   (strings_author
+;      "RK, Carl Mylo")
+)
 (paranoid
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28054,8 +28672,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (pretendweredead
    (upgrade_version 1)
    (rank
@@ -28070,8 +28689,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (reptilia
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28087,8 +28707,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (runtothehills
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28104,8 +28725,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (sayitaintso
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28121,8 +28743,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (shouldistay
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28138,8 +28761,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (suffragettecity
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28155,8 +28779,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (thehandthatfeeds
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28172,8 +28797,9 @@
       (-2 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "Ruggy"))
+;   (strings_author
+;      "Ruggy")
+)
 (tomsawyer
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28189,8 +28815,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (vasoline
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28206,8 +28833,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (waveofmutilation
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28223,8 +28851,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "Ruggy"))
+;   (strings_author
+;      "Ruggy")
+)
 (wheredyougo
    (upgrade_version 1)
    (rank
@@ -28239,8 +28868,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (aceofspades
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28258,8 +28888,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (alive
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28277,8 +28908,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (americanwoman
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28296,8 +28928,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (anywayyouwantit
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28313,8 +28946,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (battery
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28330,8 +28964,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (bodhisattva
    (upgrade_version 1)
    (rank
@@ -28348,8 +28983,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "jawnintendoSH, ALBATROSS, RK"))
+;   (strings_author
+;      "jawnintendoSH, ALBATROSS, RK")
+)
 (cantletgo
    (upgrade_version 1)
    (rank
@@ -28364,8 +29000,9 @@
       (-2 0 0 0 0 0))
    (real_bass_tuning
       (-2 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (colonyofbirchmen
    (upgrade_version 1)
    (rank
@@ -28380,8 +29017,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (comeoutandplay
    (upgrade_version 1)
    (rank
@@ -28396,8 +29034,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (deluxe
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28415,8 +29054,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (drainyou
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28434,8 +29074,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (epro
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28453,8 +29094,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (everlong
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28472,8 +29114,9 @@
       (-2 0 0 0 0 0))
    (real_bass_tuning
       (-2 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (feelthepain
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28491,8 +29134,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (girlsnotgrey
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28510,8 +29154,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (giveitall
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28529,8 +29174,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (iwaswrong
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28548,8 +29194,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "espher"))
+;   (strings_author
+;      "espher")
+)
 (kidsinamerica
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28567,8 +29214,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (letthereberock
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28584,8 +29232,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (lump
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28603,8 +29252,9 @@
       (-2 0 0 0 0 0))
    (real_bass_tuning
       (-2 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (maninthebox
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28622,8 +29272,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (masterexploder
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28641,8 +29292,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "espher"))
+;   (strings_author
+;      "espher")
+)
 (mountainsong
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28660,8 +29312,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (newkidinschool
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28679,8 +29332,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (ourtruth
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28698,8 +29352,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (painkiller
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28717,8 +29372,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (peacesells
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28736,8 +29392,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (pinballwizard
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28755,8 +29412,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "Ruggy"))
+;   (strings_author
+;      "Ruggy")
+)
 (psychokiller
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28774,8 +29432,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (pumpitup
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28793,8 +29452,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (ramblinman
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28812,8 +29472,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (rebelgirl
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28831,8 +29492,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (rocknme
    (upgrade_version 1)
    (rank
@@ -28847,8 +29509,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (roundandround
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28866,8 +29529,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "espher"))
+;   (strings_author
+;      "espher")
+)
 (sabotage
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28883,8 +29547,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (shacklersrevenge
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28902,8 +29567,9 @@
       (-2 0 0 0 0 0))
    (real_bass_tuning
       (-2 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (spiritinthesky
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28921,8 +29587,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (tangledupinblue
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28940,8 +29607,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (testify
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28959,8 +29627,9 @@
       (-2 0 0 0 0 0))
    (real_bass_tuning
       (-2 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (thatswhatyouget
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28978,8 +29647,9 @@
       (-2 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "Ruggy"))
+;   (strings_author
+;      "Ruggy")
+)
 (themiddle
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -28997,8 +29667,9 @@
       (-2 0 0 0 0 0))
    (real_bass_tuning
       (-2 0 0 0))
-   (strings_author
-      "Ziggy"))
+;   (strings_author
+;      "Ziggy")
+)
 (uncontrollableurge
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29016,8 +29687,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "espher"))
+;   (strings_author
+;      "espher")
+)
 (allofthis
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29033,8 +29705,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (apacherosepeacock
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29050,8 +29723,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (bloodsugarsexmagik
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29067,8 +29741,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (breakingthegirl
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29084,8 +29759,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (countdowntoinsanity
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29101,8 +29777,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "Ziggy"))
+;   (strings_author
+;      "Ziggy")
+)
 (crushcrushcrush
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29118,8 +29795,9 @@
       (-2 0 0 0 0 0))
    (real_bass_tuning
       (-2 0 0 0))
-   (strings_author
-      "Ziggy"))
+;   (strings_author
+;      "Ziggy")
+)
 (dontstopmenow
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29137,8 +29815,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (funkymonks
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29154,8 +29833,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (grenade
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29173,8 +29853,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (headoverfeet
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29190,8 +29871,29 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
+(headoverheels
+   (upgrade_version 1) (extra_authoring disc_update)
+   ;(midi_file "songs_upgrades/headoverheels_plus.mid")
+   ;(song_id 1010377)
+   (rank
+      (drum 164)
+      (guitar 185)
+      (bass 218)
+      (vocals 360)
+      (keys 267)
+      (real_guitar 237)
+      (real_bass 271)
+      (real_keys 285)
+      (band 234)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0)) ; E Standard
+   (real_bass_tuning (0 0 0 0)) ; E Standard
+;   (strings_author "Carl Mylo, RK")
+   ;(rb3_plus_author Carl Mylo, RK (QC))
+)
 (heartbreaker
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29207,8 +29909,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (hitmewithyourbestshot
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29224,8 +29927,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (icouldhavelied
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29241,8 +29945,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (ironic
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29258,8 +29963,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (justthewayyouare
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29277,8 +29983,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (-2 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (linger
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29294,8 +30001,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (marryyou
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29313,8 +30021,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (monymony
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29330,8 +30039,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (mylovelyman
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29347,8 +30057,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (nightfever
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29366,8 +30077,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (noregrets
    (upgrade_version 1)
    (rank
@@ -29382,8 +30094,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (parrtyintheusa
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29399,8 +30112,27 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
+(porkandbeans
+   (upgrade_version 1) (extra_authoring disc_update)
+   ;(midi_file "songs_upgrades/porkandbeans_plus.mid")
+   ;(song_id 1005716)
+   (rank
+      (drum 129)
+      (guitar 113)
+      (bass 150)
+      (vocals 153)
+      (band 130)
+      (real_guitar 45)
+      (real_bass 215)
+   )
+   (real_guitar_tuning (0 0 0 0 0 0)) ; Eb Standard
+   (real_bass_tuning (0 0 0 0)) ; Eb Standard
+;   (strings_author "K.TURN")
+   ;(rb3_plus_author K.TURN)
+)
 (runtothehills2
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29416,8 +30148,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (sevennationarmy
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29433,8 +30166,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "Ziggy"))
+;   (strings_author
+;      "Ziggy")
+)
 (sirpsychosexy
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29450,8 +30184,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (sofaraway
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29469,8 +30204,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (suckmykiss
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29486,8 +30222,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (tearsdontfall
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29504,8 +30241,9 @@
       (-2 0 0 0 0 0))
    (real_bass_tuning
       (-2 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (tellmebaby
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29521,8 +30259,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (thegreetingsong
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29538,8 +30277,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (thepowerofequality
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29555,8 +30295,9 @@
       (0 0 0 0 0 -1))
    (real_bass_tuning
       (-1 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (therighteousandthewicked
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29572,8 +30313,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (theyreredhot
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29589,8 +30331,45 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
+(wakingthedemon
+   (upgrade_version 1) (extra_authoring disc_update)
+   ;(midi_file "songs_upgrades/wakingthedemon_plus.mid")
+   ;(song_id 1005496)
+   (rank
+      (drum 404)
+      (guitar 434)
+      (bass 310)
+      (vocals 138)
+      (band 383)
+      (real_guitar 389) ; low to mid 5 dot
+      (real_bass 329) ; low 4 dot
+   )
+   (real_guitar_tuning (-2 0 0 0 0 0)) ; D Drop C irl
+   (real_bass_tuning (-2 0 0 0)) ; ditto
+;   (strings_author "RK")
+   ;(rb3_plus_author HughToBasic35)
+)
+(wingsofabutterfly
+   (upgrade_version 1) (extra_authoring disc_update)
+   ;(midi_file "songs_upgrades/wingsofabutterfly_plus.mid")
+   ;(song_id 1005935)
+   (rank
+      (drum 199)
+      (guitar 166)
+      (bass 140)
+      (vocals 217)
+      (band 179)
+      (real_guitar 274)
+      (real_bass 178)
+   )
+   (real_guitar_tuning (-2 0 0 0 0 0)) ; Drop C C G C F A D irl
+   (real_bass_tuning (0 0 0 0)) ; C Standard C F A# D# irl
+;   (strings_author "Carl Mylo, RK")
+   ;(rb3_plus_author Carl Mylo, RK (QC))
+)
 (youshouldbedancing
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29608,8 +30387,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (messageinabottle
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29643,8 +30423,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "Shroud"))
+;   (strings_author
+;      "Shroud")
+)
 (almosteasy
    (upgrade_version 1) (extra_authoring disc_update)
    (song
@@ -29677,8 +30458,9 @@
 ;   (version 30)
    (real_guitar_tuning (-2 0 0 0 0 0))
    (real_bass_tuning (-2 0 0 0))
-   (keys_author "FujiSkunk")
-   (strings_author "RK"))
+;   (keys_author "FujiSkunk")
+;   (strings_author "RK")
+)
 (carryonwaywardson
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29714,8 +30496,8 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "espher")
+;   (strings_author
+;      "espher")
    (tuning_offset_cents 25))
 (boulevardof
    (upgrade_version 1)
@@ -29778,8 +30560,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (pda
    (upgrade_version 1)
    (song
@@ -29844,8 +30627,8 @@
       (0 0 2 2 2 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK")
+;   (strings_author
+;      "RK")
 ;   (version 30)
 )
 (allthesmallthings
@@ -29951,8 +30734,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (badreputation
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -29987,8 +30771,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK"))
+;   (strings_author
+;      "RK")
+)
 (bounce
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -30021,8 +30806,8 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK")
+;   (strings_author
+;      "RK")
 ;   (version 30)
 )
 (brainpower
@@ -30057,10 +30842,10 @@
       (real_keys 170)
       (band 320))
 ;   (version 30)
-   (strings_author
-      "Ruggy")
-   (keys_author
-      "TheSheepQueen")
+;   (strings_author
+;      "Ruggy")
+;   (keys_author
+;      "TheSheepQueen")
    (real_guitar_tuning
       (0 0 0 0 0 0))
    (real_bass_tuning
@@ -30196,8 +30981,8 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "Shroud")
+;   (strings_author
+;      "Shroud")
 ;   (version 30)
 )
 (checkyesjuliet
@@ -30269,8 +31054,8 @@
       (-2 0 0 0 0 0))
    (real_bass_tuning
       (-2 0 0 0))
-   (strings_author
-      "Ziggy/RK")
+;   (strings_author
+;      "Ziggy/RK")
 ;   (version 30)
 )
 (coolforcats
@@ -30308,9 +31093,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK")
-   (sonic_tonality 0))
+;   (strings_author
+;      "RK")
+)
 (dontfearthereaper
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -30346,10 +31131,10 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "Ruggy")
-   (keys_author
-      "TheSheepQueen")
+;   (strings_author
+;      "Ruggy")
+;   (keys_author
+;      "TheSheepQueen")
    (encoding latin1))
 (dontstopbelieving
    (upgrade_version 1)
@@ -30383,8 +31168,8 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK")
+;   (strings_author
+;      "RK")
 ;   (version 30)
 )
 (downwiththesickness
@@ -30420,8 +31205,8 @@
       (-2 0 0 0 0 0))
    (real_bass_tuning
       (-2 0 0 0))
-   (strings_author
-      "RK")
+;   (strings_author
+;      "RK")
 ;   (version 30)
 )
 (epic
@@ -30458,13 +31243,16 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK")
-   (keys_author
-      "TheSheepQueen")
+;   (strings_author
+;      "RK")
+;   (keys_author
+;      "TheSheepQueen")
+   (solo
+      (guitar vocal_percussion keys))
 ;   (version 30)
 )
 (feelgoodinc
+   (upgrade_version 1) (extra_authoring disc_update)
    (song
       (tracks
          ((drum
@@ -30485,9 +31273,15 @@
       (guitar 204)
       (bass 150)
       (vocals 172)
-      (band 209)
       (keys 60)
-      (real_keys 130))
+      (real_keys 130)
+      (real_guitar 165)
+      (real_bass 129)
+      (band 209))
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+;   (keys_author "sageamagoo")
+;   (strings_author "Carl Mylo, Linos Melendi, RK")
 ;   (version 30)
 )
 (ghostbusters
@@ -30524,8 +31318,8 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK")
+;   (strings_author
+;      "RK")
 ;   (version 30)
 )
 (hungrylikethewolf
@@ -30562,8 +31356,8 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK")
+;   (strings_author
+;      "RK")
 ;   (version 30)
 )
 (ithinkimparanoid
@@ -30600,10 +31394,10 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (-2 0 0 0))
-   (strings_author
-      "RK")
-   (keys_author
-      "TheSheepQueen")
+;   (strings_author
+;      "RK")
+;   (keys_author
+;      "TheSheepQueen")
 ;   (version 30)
 )
 (indestructible
@@ -30635,8 +31429,8 @@
       (band 300))
    (real_guitar_tuning (0 0 0 0 0 0))
    (real_bass_tuning (0 0 0 0))
-   (keys_author "JohnSmith")
-   (strings_author "JohnSmith")
+;   (keys_author "JohnSmith")
+;   (strings_author "JohnSmith")
 ;   (version 30)
 )
 (iwontbackdown
@@ -30706,8 +31500,8 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK")
+;   (strings_author
+;      "RK")
 ;   (version 30)
 )
 (naturaldisaster
@@ -30742,8 +31536,8 @@
       (-2 0 0 0 0 0))
    (real_bass_tuning
       (-2 0 0 0))
-   (strings_author
-      "RK")
+;   (strings_author
+;      "RK")
 ;   (version 30)
 )
 (nineintheafternoon
@@ -30781,9 +31575,9 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "Ruggy")
-   (sonic_tonality 0))
+;   (strings_author
+;      "Ruggy")
+)
 (onestepcloser
    (upgrade_version 1)
    (extra_authoring disc_update)
@@ -30818,8 +31612,8 @@
       (-2 0 0 0 0 0))
    (real_bass_tuning
       (-2 0 0 0))
-   (strings_author
-      "RK")
+;   (strings_author
+;      "RK")
 ;   (version 30)
 )
 (onewayoranother
@@ -30856,8 +31650,8 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "espher")
+;   (strings_author
+;      "espher")
 ;   (version 30)
 )
 (roxanne
@@ -30926,8 +31720,8 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK")
+;   (strings_author
+;      "RK")
 ;   (version 30)
 )
 (sowhatchawant
@@ -30964,8 +31758,8 @@
       (-2 0 0 0 0 0))
    (real_bass_tuning
       (-2 0 0 0))
-   (strings_author
-      "RK")
+;   (strings_author
+;      "RK")
 ;   (version 30)
 )
 (spacetruckin
@@ -31000,8 +31794,8 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK")
+;   (strings_author
+;      "RK")
 ;   (version 30)
 )
 (synchronicity2
@@ -31036,8 +31830,43 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "Shroud")
+;   (strings_author
+;      "Shroud")
+;   (version 30)
+)
+(thefinalcountdown
+   (upgrade_version 1) (extra_authoring disc_update)
+   (song
+      (tracks
+         ((drum
+               (0 1))
+            (bass 2)
+            (guitar
+               (3 4))
+            (vocals
+               (5 6))
+            (keys
+               (7 8))))
+      (drum_solo
+         (seqs
+            (kick.cue snare.cue tom1.cue tom2.cue crash.cue)))
+      (drum_freestyle
+         (seqs
+            (kick.cue snare.cue hat.cue ride.cue crash.cue))))
+   (rank
+      (drum 268)
+      (guitar 333)
+      (bass 210)
+      (vocals 181)
+      (keys 269)
+      (real_guitar 530)
+      (real_bass 275)
+      (real_keys 327)
+      (band 258))
+   (real_guitar_tuning (0 0 0 0 0 0))
+   (real_bass_tuning (0 0 0 0))
+;   (keys_author "titiln")
+;   (strings_author "Carl Mylo, RK")
 ;   (version 30)
 )
 (thetrees
@@ -31073,8 +31902,8 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK")
+;   (strings_author
+;      "RK")
 ;   (version 30)
 )
 (thunder
@@ -31108,8 +31937,8 @@
       (band 126))
    (real_guitar_tuning (0 0 0 0 0 0))
    (real_bass_tuning (0 0 0 0))
-   (keys_author "JohnSmith")
-   (strings_author "JohnSmith")
+;   (keys_author "JohnSmith")
+;   (strings_author "JohnSmith")
 ;   (version 30)
 )
 (ticktickboom
@@ -31146,8 +31975,8 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK")
+;   (strings_author
+;      "RK")
 ;   (version 30)
 )
 (toxicity
@@ -31182,8 +32011,8 @@
       (-2 0 0 0 0 0))
    (real_bass_tuning
       (-2 0 0 0))
-   (strings_author
-      "RK")
+;   (strings_author
+;      "RK")
 ;   (version 30)
 )
 (walkingonsunshine
@@ -31256,8 +32085,8 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "espher")
+;   (strings_author
+;      "espher")
 ;   (version 30)
 )
 (welcomehome
@@ -31294,10 +32123,10 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "Ziggy")
-   (keys_author
-      "Linos")
+;   (strings_author
+;      "Ziggy")
+;   (keys_author
+;      "Linos")
 ;   (version 30)
 )
 (whenyouwereyoung
@@ -31334,10 +32163,10 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "Ruggy")
-   (keys_author
-      "Linos")
+;   (strings_author
+;      "Ruggy")
+;   (keys_author
+;      "Linos")
 ;   (version 30)
 )
 (whitewedding
@@ -31374,8 +32203,8 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK")
+;   (strings_author
+;      "RK")
 ;   (version 30)
 )
 (wonderwall
@@ -31410,8 +32239,8 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "espher")
+;   (strings_author
+;      "espher")
 ;   (version 30)
 )
 (yououghtaknow
@@ -31448,8 +32277,8 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK")
+;   (strings_author
+;      "RK")
 ;   (version 30)
 )
 (electricversion
@@ -31484,10 +32313,10 @@
       (0 0 0 0 0 0))
    (real_bass_tuning
       (0 0 0 0))
-   (strings_author
-      "RK")
-   (keys_author
-      "Linos")
+;   (strings_author
+;      "RK")
+;   (keys_author
+;      "Linos")
 ;   (version 30)
 )
 (100000years
