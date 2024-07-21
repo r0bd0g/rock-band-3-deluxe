@@ -58,8 +58,7 @@ Download this branch by clicking the green "Code" button above.
 In the Dependencies folder, there's an exe that is needed for install, [Dot Net 6.0 Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime).
 Dot Net is required to build an ARK file, the archive format the game needs to run. You can use default options throughout the Dot Net setup process.
 
-Paste a copy of vanilla Rock Band 3 for Wii into the _build folder. This file MUST be named either SZBE69.wbfs (for USA version) or SZBP69.wbfs (for PAL version).
-(One way to obtain this file could be to install it from disc to a harddrive using USB Loader GX, and then use Wii-Backup-Manager to transfer a wbfs from your drive to your computer.)
+Paste a copy of vanilla Rock Band 3 for Wii into the _build folder. This file MUST be named either SZBE69.wbfs (for USA version) or SZBP69.wbfs (for PAL version). To obtain this file, install it from disc to a harddrive using USB Loader GX, and then use Wii-Backup-Manager to transfer a wbfs from your drive to your computer. If you obtain this file through some other means, the build process will likely fail and instead create new wbfs of just vanilla RB3 again.
 
 Run either _build_usa.bat or _build_pal.bat (depending on Rock Band 3's filename), and after several minutes, RB3DX.wbfs will be created (it should be in the same folder as the .bat file).
 You will probably need about 12GB of free space on your computer to complete the install process.
